@@ -1,0 +1,9 @@
+"integration_features":
+  "Targeted Alert Ingestion": "Pulls alerts and incidents from Azure Sentinel based on specified filters and \
+  time frames, ensuring relevant data is ingested for analysis and response."
+  "Standardized Field Mapping": "Extracts and maps relevant fields from Azure Sentinel incidents to standardized \
+  formats, enabling consistent and seamless integration into Swimlane workflows."
+  "Customizable Filtering Options": "Supports advanced filtering by severity, alert type, and time range, allowing \
+  for tailored ingestion processes to meet organizational needs."
+  "Streamlined Alert Triage": "Automates the triage of Azure Sentinel alerts, categorizing and prioritizing incidents \
+  to accelerate response and reduce manual effort."

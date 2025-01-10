@@ -1,0 +1,1 @@
+The SentinelOne component Integrating SOC Solutions "SOC - Remediation Actions" Playbook, work as part of Incident Response(IR) Action plan to add/remove a Hash (SentinelOne supports only SHA1 for now) from the SentinelOne Blocklist.

@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Contact Retrieval": "Pulls all contacts from the Staffbase Email Contacts Directory in a single action,\
+  ensuring a complete and up-to-date contact list."
+  "Standardized List Creation": "Formats and organizes retrieved contacts into a structured list compatible with\
+  Swimlane workflows and automation processes."
+  "Enhanced Workflow Integration": "Seamlessly integrates the contact list into workflows, enabling use in\
+  notifications, team coordination, and incident response."
+  "Dynamic Contact Management": "Supports recurring retrieval to maintain an accurate and updated directory of email\
+  contacts for organizational needs."

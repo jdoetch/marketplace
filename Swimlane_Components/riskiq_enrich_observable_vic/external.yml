@@ -1,0 +1,9 @@
+"integration_features":
+  "Automation-Ready": "Ready-to-use actions for enrichment and data retrieval, designed\
+    \ for seamless integration into automated playbooks within Swimlane Turbine."
+  "Contextual Threat Intelligence": "Enhances observables with rich context and metadata\
+    \ from RiskIQ PassiveTotal, aiding in the swift identification of threats."
+  "Secure Integration": "Utilizes HTTP Basic Authentication with SSL verification\
+    \ to ensure secure and reliable data exchange with RiskIQ PassiveTotal."
+  "Streamlined Investigations": "Simplifies the investigative process by providing\
+    \ WHOIS data and passive DNS history, enabling rapid correlation and analysis."

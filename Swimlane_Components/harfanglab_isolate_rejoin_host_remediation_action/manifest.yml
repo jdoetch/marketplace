@@ -1,0 +1,19 @@
+vendor: HarfangLab
+name: harfanglab_isolate_rejoin_host_remediation_action
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: HarfangLab Isolate Rejoin Host Remediation Action
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: HarfangLab Isolate Rejoin Host Remediation Action
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: HarfangLab Isolate Rejoin Host Remediation Action remediation
+keywords:
+- Case & Ticket Management
+- Endpoint Security & Management
+- Community Content

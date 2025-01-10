@@ -1,0 +1,5 @@
+"integration_features":
+  "Data_extraction": "Pulls domain data from Microsoft Defender for analysis"
+  "Security_enhancement": "Analyzes domain reputations to enhance security measures"
+  "Error_handling": "Structured error handling and logging for reliability"
+  "Result_publishing": "Provides actionable insights based on domain data analysis"

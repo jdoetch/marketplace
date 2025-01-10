@@ -1,0 +1,16 @@
+vendor: URLHaus
+name: urlhaus_enrich_observable
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Enrich a TEDS observable with repuation
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: URLHaus Enrich Observable
+version: 1.0.2
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: URLHaus Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

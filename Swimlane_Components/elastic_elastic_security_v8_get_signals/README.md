@@ -1,0 +1,2 @@
+Elastic Security 8 - Get Signals is a comprehensive analytics tool designed to process security alerts effectively, ensuring robust threat detection and quick response by automatically generating detailed signals from raw data. This component operates within a broader security framework, often part of larger security orchestration strategies, to help organizations stay ahead of potential security breaches. It constitutes a vital part of the security infrastructure, leveraging advanced algorithms and data transformation techniques to deliver actionable security insights.
+

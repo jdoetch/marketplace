@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_teams_send_one_on_one_chat_message
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Teams Collaboration Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Teams - Send One on One Chat Message
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Microsoft Teams - Send One on One Chat Message enrichment
+keywords:
+  - Communication & Collaboration
+  - Community Content

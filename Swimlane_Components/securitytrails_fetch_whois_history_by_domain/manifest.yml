@@ -1,0 +1,19 @@
+vendor: SecurityTrails
+name: securitytrails_fetch_whois_history_by_domain
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: The SecurityTrails Component fetch WHOIS history by given Domain, convert
+  and enrich your data using TEDS format.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: SecurityTrails Fetch WHOIS History By Domain
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: SecurityTrails Fetch WHOIS History By Domain enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

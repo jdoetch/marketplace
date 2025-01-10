@@ -1,0 +1,1 @@
+The "Shodan - Get Scans" component, designed for automated integration with the Shodan API, facilitates the retrieval and handling of network scan results. This process allows users to efficiently manage and analyze data from Shodan, a premier service for scanning and monitoring Internet-connected devices.

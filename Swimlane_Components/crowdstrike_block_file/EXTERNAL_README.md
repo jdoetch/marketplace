@@ -1,0 +1,1 @@
+Use this component to block a file hash in CrowdStrike Falcon.  The inputs are “type“ and “hash_value”. Type can be either md5 or sha256.

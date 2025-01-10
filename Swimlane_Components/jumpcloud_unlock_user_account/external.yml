@@ -1,0 +1,4 @@
+"integration_features":
+  "Account Unlock": "Streamlines the process of unlocking user accounts by utilizing the Enable/Disable User Account \
+    Remediation Action Interface. Designed for seamless integration with SOC Solution content, it processes the User ID \
+    as input and provides a clear text message output indicating the success or failure of the action."

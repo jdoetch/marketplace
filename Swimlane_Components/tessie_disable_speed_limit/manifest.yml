@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_disable_speed_limit
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Disable Tesla's Speed Limit
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Disable Speed Limit
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Disable Speed Limit remediation
+keywords:
+- Miscellaneous
+- Community Content

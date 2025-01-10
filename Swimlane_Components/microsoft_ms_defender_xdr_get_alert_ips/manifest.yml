@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_ms_defender_xdr_get_alert_ips
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MS Defender XDR - Get Alert IPs
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft MS Defender XDR - Get Alert IPs
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft MS Defender XDR - Get Alert IPs ingestion
+keywords:
+- Endpoint Security & Management
+- Swimlane Certified

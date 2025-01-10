@@ -1,0 +1,1 @@
+This component simplifies the retrieval of detailed information about devices and endpoints within your network by querying their hostnames using Microsoft Defender. Designed for seamless integration, it enables security teams to quickly identify and investigate devices, improving visibility and response times in your workflows.

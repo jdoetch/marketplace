@@ -1,0 +1,4 @@
+"integration_features":
+  "Real_time_dns_lookup": "Enables real-time domain name resolution from IP addresses using Shodan's database.,"
+  "Automated_error_handling": "Automates the process of error analysis and response for network security operations.,"
+  "Data_enrichment_capabilities": "Provides data enrichment features that enhance the understanding and context of network errors."

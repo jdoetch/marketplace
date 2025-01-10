@@ -1,0 +1,18 @@
+vendor: Palo Alto Networks
+name: palo_alto_networks_wildfire_enrich_observable
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Enrich Observable with Wildfire
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Palo Alto Networks Wildfire - Enrich Observable
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Palo Alto Networks Wildfire - Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

@@ -1,0 +1,2 @@
+Description will be updated The Tesla_Close_Windows is an essential component that leverages Tesla's vehicle APIs to ensure all windows are closed, designed to boost security and automation in managing Tesla vehicles. Using Tesla's comprehensive API suite, this component securely processes the window closing operation and verifies the action's success, contributing effectively to both individual vehicle security and integrated fleet management systems.
+shortly.

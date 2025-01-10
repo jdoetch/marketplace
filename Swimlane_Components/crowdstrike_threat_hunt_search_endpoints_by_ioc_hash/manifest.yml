@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_threat_hunt_search_endpoints_by_ioc_hash
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike - Threat Hunt - Search Endpoints by IOC Hash
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Threat Hunt - Search Endpoints by IOC Hash
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Threat Hunt - Search Endpoints by IOC Hash enrichment
+keywords:
+- Endpoint Security & Management
+- Community Content

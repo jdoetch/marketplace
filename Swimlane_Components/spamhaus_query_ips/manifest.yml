@@ -1,0 +1,18 @@
+vendor: Spamhaus
+name: spamhaus_query_ips
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Spamhaus - Query IPs
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Spamhaus Query IPs
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Spamhaus Query IPs enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

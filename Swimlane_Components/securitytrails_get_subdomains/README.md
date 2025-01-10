@@ -1,0 +1,1 @@
+The "SecurityTrails - Get Subdomains" component automates the retrieval of subdomain information from SecurityTrails, harnessing the capabilities of the SecurityTrails API. This component is instrumental for cybersecurity teams by providing swift and accurate domain subdomain insights, thereby facilitating enhanced security assessments and proactive threat tracking.

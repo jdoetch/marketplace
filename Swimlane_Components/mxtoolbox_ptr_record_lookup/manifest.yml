@@ -1,0 +1,18 @@
+vendor: MxToolBox
+name: mxtoolbox_ptr_record_lookup
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MxToolBox Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: MxToolBox PTR Record Lookup
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: MxToolBox PTR Record Lookup enrichment
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Community Content

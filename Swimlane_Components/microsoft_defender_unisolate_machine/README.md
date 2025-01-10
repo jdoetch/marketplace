@@ -1,0 +1,1 @@
+The Microsoft Defender - UnIsolate Machine component is designed to securely reintegrate isolated machines back into network operations, utilizing Microsoft Defender as its primary tool for executing this task. This integration offers a systematic and accountable approach to machinery unisolation, critical for maintaining optimal operational and security standards.

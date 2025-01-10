@@ -1,0 +1,18 @@
+vendor: Securonix
+name: securonix_snypr_get_top_threats
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Securonix SNYPR Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Securonix SNYPR - Get Top Threats
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Securonix SNYPR - Get Top Threats ingestion
+keywords:
+- SIEM & Log Management
+- Community Content

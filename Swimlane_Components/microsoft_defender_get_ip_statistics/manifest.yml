@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_defender_get_ip_statistics
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Defender Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Defender - Get IP Statistics
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Microsoft Defender - Get IP Statistics enrichment
+keywords:
+  - Endpoint Security & Management
+  - Community Content

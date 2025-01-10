@@ -1,0 +1,6 @@
+"integration_features":
+  "Issue Updating": "Enables automated updates to Jira issues, ensuring that issue details are accurately modified based on incident data."
+  "Field Transformation": "Transforms and combines various issue fields such as reporter, assignee, and description into the required JSON format for Jira API."
+  "Error Handling": "Implements reliable error detection and handling to maintain the integrity of issue updates and prevent disruptions in workflows."
+  "Automated Reporting": "Automates the reporting and logging of issue update responses, facilitating streamlined analysis and tracking."
+  "Seamless Jira Integration": "Integrates seamlessly with Jira's API, leveraging connectors and transformations to enable efficient issue management within the CrowdStrike ecosystem."

@@ -1,0 +1,18 @@
+vendor: Tenable
+name: tenable_get_assets_by_ip_or_hostname
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Tenable VM - Get Assets by IP or Hostname Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tenable Get Assets by IP or Hostname
+version: 1.1.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Tenable Get Assets by IP or Hostname ingestion
+keywords:
+- Vulnerability & Patch Management
+- Community Content

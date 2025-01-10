@@ -1,0 +1,11 @@
+"integration_features":
+  "Multi-File Handling": "Process arrays of CSV, PDF, and TXT files efficiently, managing \
+    diverse file types in a single workflow."
+  "Automated Content Extraction": "Extract plain text content from each file, ensuring \
+    consistency and accuracy across different formats."
+  "Aggregated Results": "Combine processed outputs into a unified array of objects, \
+    simplifying downstream data usage."
+  "Seamless Workflow Integration": "Easily integrate into existing workflows for \
+    efficient file processing and analysis."
+  "Scalable Design": "Handle arrays of arbitrary length, enabling robust processing \
+    of large datasets with minimal effort."

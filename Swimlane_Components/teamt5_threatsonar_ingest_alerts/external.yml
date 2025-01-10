@@ -1,0 +1,13 @@
+"integration_features":
+  "Automated Data Ingestion": "Automates the ingestion of threat intelligence into\
+    \ Swimlane Turbine, ensuring timely and accurate data for analysis and action."
+  "Enhanced Visibility and Control": "Provides comprehensive endpoint visibility and\
+    \ control, allowing for effective monitoring and management of network security."
+  "Incident Response Efficiency": "Facilitates rapid isolation and de-isolation of\
+    \ endpoints, accelerating incident containment and resolution."
+  "Simplified Threat Hunting": "Supports proactive threat hunting with streamlined\
+    \ processes for connecting to endpoints and retrieving detailed process information."
+  "Streamlined Endpoint Management": "Enables swift identification and management\
+    \ of endpoints, enhancing the security posture and response capabilities."
+  "Unified Data Schema Integration": "Integrates with Swimlane's Turbine Extendable\
+    \ Data Schema for consistent data representation across security tools."

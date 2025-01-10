@@ -1,0 +1,16 @@
+vendor: Google
+name: google_workspace_get_file
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Manage Google Workspace Drive files.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Google workspace get file
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Google workspace get file ingestion
+keywords:
+- Data Enrichment & Threat Intelligence

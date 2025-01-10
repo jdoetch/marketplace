@@ -1,0 +1,18 @@
+vendor: Securonix
+name: securonix_snypr_list_all_users
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Securonix SNYPR Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Securonix SNYPR - List All Users
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Securonix SNYPR - List All Users ingestion
+keywords:
+- SIEM & Log Management
+- Community Content

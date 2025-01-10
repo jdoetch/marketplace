@@ -1,0 +1,1 @@
+The Tesla_Flash_Lights component allows for seamless interaction with Tesla vehicle systems to activate and control the vehicle's light alert system. This functionality is particularly useful for enhancing security protocols or automation processes, leveraging direct API calls to ensure reliable execution.

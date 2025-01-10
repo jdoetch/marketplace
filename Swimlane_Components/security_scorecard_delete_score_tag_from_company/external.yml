@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated-tag-management": "Automates the removal of outdated or incorrect scoretags from company profiles"
+  "Data-integrity": "Ensures that scoring data remains accurate by deleting obsolete scoretags"
+  "System-synchronization": "Maintains consistency across different systems and databases by updating profile changes"

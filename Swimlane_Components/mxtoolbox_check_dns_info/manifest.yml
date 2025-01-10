@@ -1,0 +1,17 @@
+vendor: MxToolBox
+name: mxtoolbox_check_dns_info
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MxToolBox Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: MxToolBox Check DNS Info
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: MxToolBox Check DNS Info enrichment
+keywords:
+  - Community Content

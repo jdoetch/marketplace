@@ -1,0 +1,16 @@
+vendor: VirusTotal
+name: virustotal_enrich_observable
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Enrich a TEDS observable with reputation
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Virus Total Enrich Observable
+version: 1.1.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Virus Total Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

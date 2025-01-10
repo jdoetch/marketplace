@@ -1,0 +1,19 @@
+vendor: Microsoft Entra ID
+name: microsoft_entra_id_revoke_sign_in_sessions
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Entra ID Revoke Sign in Sessions
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Entra ID Revoke Sign in Sessions
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Microsoft Entra ID Revoke Sign in Sessions remediation
+keywords:
+- Authentication
+- Identity & Access Management
+- Community Content

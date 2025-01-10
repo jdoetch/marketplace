@@ -1,0 +1,1 @@
+The "Cloudflare_ Get URL Normalization Settings" component is crafted to automate the retrieval of URL normalization rules from Cloudflare via API. This automation component plays a pivotal role in securing and standardizing URL configurations across different applications, utilizing Cloudflare's robust infrastructure for seamless integration and management.

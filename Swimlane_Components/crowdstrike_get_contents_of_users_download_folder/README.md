@@ -1,0 +1,1 @@
+Use this component to use a host_id and username to initiate a RTR Session, then execute the RTR ls with the path to the users download folder, and return the results. This works for Windows desktops running CrowdStrike only.

@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated domain comment retrieval": "Efficiently fetches and handles comments from the Censys ASM database to enhance cybersecurity."
+  "Error handling mechanisms": "Includes built-in error processing to ensure reliability and accuracy of data retrieval."
+  "Data transformation capabilities": "Automatically transforms raw data into structured, enriched formats suitable for analysis."

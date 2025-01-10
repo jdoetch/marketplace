@@ -1,0 +1,18 @@
+vendor: Rapid7
+name: rapid7_threat_command_get_alerts
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Rapid7 Threat Command Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Rapid7 Threat Command Get Alerts
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Rapid7 Threat Command Get Alerts ingestion
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Community Content

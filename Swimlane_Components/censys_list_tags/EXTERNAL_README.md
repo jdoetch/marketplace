@@ -1,0 +1,1 @@
+The "Censys - List Tags" component provides an automation interface with the Censys platform, designed to list and manage the tags associated with internet-connected devices. It plays a crucial role in enhancing cybersecurity measures by streamlining the classification and analysis of network assets, ensuring high standards of data accuracy and security.

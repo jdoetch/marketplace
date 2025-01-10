@@ -1,0 +1,4 @@
+"integration_features":
+    "Automated Password Reset": "Allows quick resetting of user passwords to maintain security and reduce downtime."
+    "Session Revocation": "Enables revoking of all active sessions instantly to prevent unauthorized access."
+    "Efficient Security Management": "Utilizes Microsoft Graph API to provide immediate response to security threats."

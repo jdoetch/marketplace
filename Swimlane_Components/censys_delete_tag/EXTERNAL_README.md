@@ -1,0 +1,1 @@
+The "Censys - Delete Tag" component is designed for efficient tag management within the Censys asset database. It automates the process of deleting outdated or incorrect tags to ensure data integrity and accuracy in asset categorization. This component integrates seamlessly with the Censys platform, enhancing operational efficiency and minimizing manual intervention.

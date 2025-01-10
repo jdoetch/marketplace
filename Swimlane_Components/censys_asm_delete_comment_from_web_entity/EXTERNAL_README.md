@@ -1,0 +1,1 @@
+The "Censys ASM - Delete Comment from WebEntity" component automates the removal of comments from web entities within the Censys platform. This component plays a vital role in ensuring that the data remains accurate and relevant, which is crucial for the effective management of cybersecurity measures.

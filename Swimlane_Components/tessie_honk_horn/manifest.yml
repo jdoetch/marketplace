@@ -1,0 +1,17 @@
+vendor: Tessie
+name: tessie_honk_horn
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Honk Tesla's Horn
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Honk Horn
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Honk Horn remediation
+keywords:
+- Community Content

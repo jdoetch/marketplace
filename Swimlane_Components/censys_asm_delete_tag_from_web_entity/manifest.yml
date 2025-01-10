@@ -1,0 +1,19 @@
+vendor: Censys ASM
+name: censys_asm_delete_tag_from_web_entity
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Censys ASM Remediation Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Censys ASM Delete Tag from Web Entity
+version: 0.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Censys ASM Delete Tag from Web Entity remediation
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Governance & Risk Management
+  - Community Content

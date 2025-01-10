@@ -1,0 +1,1 @@
+The "Shodan - Get Network Alerts by ID" component, developed with integration into Shodan, automates the retrieval and enrichment of network security alerts. By leveraging Shodan's comprehensive security database, the component ensures enriched analysis and proactive alert management pivotal for cybersecurity operations.

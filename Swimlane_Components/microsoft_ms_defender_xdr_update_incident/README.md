@@ -1,0 +1,1 @@
+The "MS Defender - Update Incident" component facilitates the automated handling of incident updates using Microsoft Defender. This automation is essential in enhancing response times and overall security management efficiency. Microsoft Defender, as the key vendor, ensures robust and precise incident management actions within this component.

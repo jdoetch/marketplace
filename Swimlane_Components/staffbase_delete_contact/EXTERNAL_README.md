@@ -1,0 +1,1 @@
+The Staffbase - Delete Contact component automates the deletion of contact information from the Staffbase platform. This component is integral for maintaining data integrity and security within enterprise systems, handling sensitive operations with high efficiency and adherence to data protection regulations.

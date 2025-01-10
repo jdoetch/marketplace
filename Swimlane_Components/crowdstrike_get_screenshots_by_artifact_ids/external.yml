@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated Screenshot Retrieval": "Enables automated fetching of screenshots from Crowdstrike using artifact IDs."
+  "API Integration": "Seamless interaction with Crowdstrike’s API to ensure efficient data retrieval."
+  "Security Enhancement": "Supports rapid security investigations by providing timely visual evidence."
+  "Incident Response Aid": "Reduces manual effort and response time during security incidents."

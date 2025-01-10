@@ -1,0 +1,1 @@
+The "Criminal IP - Get IP Summary" component is crafted to enhance security protocols through automated IP data enrichment and analysis. Developed in collaboration with the vendor, Swimlane, it functions by transforming and enriching IP-related errors with extended insights, enabling organizations to swiftly respond to potential threats and maintain robust security measures.

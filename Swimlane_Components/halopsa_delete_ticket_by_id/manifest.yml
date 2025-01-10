@@ -1,0 +1,18 @@
+vendor: HaloPSA
+name: halopsa_delete_ticket_by_id
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: HaloPSA Ticketing Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: HaloPSA Delete Ticket by ID
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: HaloPSA Delete Ticket by ID remediation
+keywords:
+- Case & Ticket Management
+- Community Content

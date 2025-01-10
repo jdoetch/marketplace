@@ -1,0 +1,1 @@
+The "Carbon Black - Delete Sensor by Device ID" is an automated component designed to manage and secure endpoints by interacting with VMware Carbon Black sensors. This component is vital for deleting sensors efficiently by their device IDs, thereby aiding in system maintenance and security reinforcement in real-time without requiring manual intervention.

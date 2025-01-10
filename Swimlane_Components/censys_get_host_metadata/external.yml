@@ -1,0 +1,6 @@
+"integration_features":
+  "Enhanced Data Retrieval": "Enables automated fetching of host metadata from the Censys platform."
+  "Error Handling Mechanisms": "Standardized error responses ensure consistent error management."
+  "Continuous Security Monitoring": "Facilitates ongoing assessment of host security postures."
+  "Data Enrichment": "Transforms raw data into structured, actionable reports."
+  "Proactive Threat Detection": "Leverages metadata for timely detection of potential security threats."

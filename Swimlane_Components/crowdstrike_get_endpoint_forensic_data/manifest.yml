@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_get_endpoint_forensic_data
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Get Endpoint Forensic Data
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Get Endpoint Forensic Data
+version: 1.0.2
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Get Endpoint Forensic Data enrichment
+keywords:
+- Endpoint Security & Management
+- Community Content

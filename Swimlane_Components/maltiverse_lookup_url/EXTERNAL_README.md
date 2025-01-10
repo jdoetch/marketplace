@@ -1,0 +1,1 @@
+Maltiverse - Lookup URL is a component that provides automated URL analysis capabilities by interfacing with the Maltiverse threat intelligence database. It assists security teams in obtaining real-time data about URLs, enabling quick assessment and action in response to online threats, which supports maintaining a robust security infrastructure.

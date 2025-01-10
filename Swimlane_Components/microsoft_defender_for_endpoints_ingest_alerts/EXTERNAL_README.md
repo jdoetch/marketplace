@@ -1,0 +1,1 @@
+This component ingests alerts from Microsoft Defender for Endpoint as Case and Incident Management records, creates Threat Intelligence records for any observables, and relates those TI records to their corresponding CIM record.

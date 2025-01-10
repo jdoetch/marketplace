@@ -1,0 +1,1 @@
+Censys - Get Metadata From Host automates the collection and processing of host metadata via the Censys platform. It provides security teams with crucial insights necessary for comprehensive security assessments and ongoing monitoring. This component is designed to integrate effectively, ensuring that metadata retrieval and enrichment processes are both efficient and reliable.

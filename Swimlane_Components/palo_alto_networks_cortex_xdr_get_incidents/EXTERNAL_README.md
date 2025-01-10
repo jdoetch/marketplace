@@ -1,0 +1,1 @@
+The Cortex XDR - Get Incidents component is an integration within the Swimlane platform designed to automate the retrieval of detailed incident reports from Cortex XDR based on specified criteria. This integration enhances the response capabilities of security teams by providing quick access to necessary data, aiding in swift and effective decision-making.

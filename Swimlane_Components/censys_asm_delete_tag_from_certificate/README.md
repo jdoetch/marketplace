@@ -1,0 +1,1 @@
+The "Censys ASM - Delete Tag from a Certificate" component automates the deletion of tags from security certificates using the Censys API. Its structure enables clear and efficient tag management, integrating error handling and data transformation to maintain certificate metadata accuracy and relevance.

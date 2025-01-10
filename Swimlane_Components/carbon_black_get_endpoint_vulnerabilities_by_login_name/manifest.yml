@@ -1,0 +1,19 @@
+vendor: Carbon Black
+name: carbon_black_get_endpoint_vulnerabilities_by_login_name
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Carbon Black Get Endpoint Vulnerabilities Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Carbon Black Get Endpoint Vulnerabilities by Login Name
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Carbon Black Get Endpoint Vulnerabilities by Login Name ingestion
+keywords:
+- Endpoint Security & Management
+- Vulnerability & Patch Management
+- Community Content

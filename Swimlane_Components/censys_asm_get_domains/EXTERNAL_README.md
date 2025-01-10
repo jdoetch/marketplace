@@ -1,0 +1,1 @@
+The "Censys ASM - Get Domains" component serves to automate the retrieval and detailed analysis of domain information through the integration with Censys ASM. This component streamlines domain data handling, enhances error enrichment capabilities, and provides vital security insights, making it an invaluable tool for enhancing organizational security postures.

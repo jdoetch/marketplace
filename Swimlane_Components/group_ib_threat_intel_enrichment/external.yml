@@ -1,0 +1,12 @@
+"integration_features":
+  "Automated Reputation Management": "Automates the process of URL, Hashes, Domains & IP reputation checking\
+    \ and reporting, reducing manual workload and increasing operational efficiency\
+    \ for security teams."
+  "Enhanced URL Intelligence": "Provides immediate access to detailed reputation\
+    \ data from Group-IB, allowing for quick identification of potentially malicious\
+    \ URLs addresses, IPs & Hashes."
+  "Simplified Incident Enrichment": "Enriches security incidents with contextual information\
+    \ from Group-IB, improving the quality of security event data and aiding in accurate\
+    \ incident resolution."
+  "Streamlined Threat Analysis": "Integrates seamlessly with Swimlane's Turbine Extendable Data\
+    \ Schema, enabling standardized threat analysis and facilitating faster decision-making."

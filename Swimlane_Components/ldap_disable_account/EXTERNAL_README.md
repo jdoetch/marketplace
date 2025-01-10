@@ -1,0 +1,1 @@
+The LDAP - Disable Account is a specialized tool used to disable accounts in LDAP directories efficiently and securely. It's particularly useful for organizations looking to automate their account management tasks, significantly enhancing operational efficiency and compliance with regulations.

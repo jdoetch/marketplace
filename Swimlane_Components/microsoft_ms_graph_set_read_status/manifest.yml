@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_ms_graph_set_read_status
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MS Graph - Set Read Status
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft MS Graph - Set Read Status
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Microsoft MS Graph - Set Read Status remediation
+keywords:
+- Email & Email Security
+- Community Content

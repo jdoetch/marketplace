@@ -1,0 +1,17 @@
+vendor: RiskIQ
+name: riskiq_enrich_observable_vic
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: RiskIQ Threat Intelligence Automation.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: RiskIQ Enrich Observable VIC
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: RiskIQ Enrich Observable VIC enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

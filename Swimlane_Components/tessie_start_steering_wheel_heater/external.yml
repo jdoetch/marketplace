@@ -1,0 +1,4 @@
+"integration_features":
+  "Convenience": "Enables remote activation of steering heating, improving comfort."
+  "Safety": "Ensures the steering wheel is warm upon entry, reducing the distraction of handling a cold wheel."
+  "Security": "All API interactions are secured with SSL/TLS enforcing data privacy."

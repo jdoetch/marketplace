@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_Subdomain_Retrieval": "Automatically fetches subdomain data from SecurityTrails API, enhancing network perimeter visibility."
+  "Error_Handling_Capabilities": "Incorporates error normalization and management, ensuring stability even when API calls fail."
+  "Data_Enrichment_and_Transformation": "Processes raw subdomain data into structured, actionable intelligence."

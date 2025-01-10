@@ -1,0 +1,18 @@
+vendor: Security Scorecard
+name: security_scorecard_get_compliance_framework_details
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Security Scorecard Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Security Scorecard Get Compliance Framework Details
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Security Scorecard Get Compliance Framework Details ingestion
+keywords:
+  - Governance & Risk Management
+  - Community Content

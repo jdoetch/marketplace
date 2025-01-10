@@ -1,0 +1,1 @@
+The "Censys ASM - Add a Comment to a Domain" component is a valuable tool from Censys ASM, designed to enhance documentation and tracking capabilities for domain management. Through this component, users can append comments to domain records, thereby aiding in comprehensive security analysis and improved domain oversight.

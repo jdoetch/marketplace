@@ -1,0 +1,19 @@
+vendor: Microsoft
+name: microsoft_graph_api_reset_user_password_session
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft GraphAPI - Reset User Password & Session
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Graph API - Reset User Password & Session
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Microsoft Graph API - Reset User Password & Session remediation
+keywords:
+- Authentication
+- Identity & Access Management
+- Community Content

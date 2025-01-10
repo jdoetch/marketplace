@@ -1,0 +1,1 @@
+The ChurnZero Usage Data component enables streamlined transmission of usage data to a ChurnZero account. By efficiently processing and sending data, this integration ensures accurate and timely updates, enhancing customer engagement and analytics within the ChurnZero platform.

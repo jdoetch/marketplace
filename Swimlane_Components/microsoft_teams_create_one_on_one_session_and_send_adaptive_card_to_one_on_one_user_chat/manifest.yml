@@ -1,0 +1,23 @@
+vendor: Microsoft
+name: >-
+  microsoft_teams_create_one_on_one_session_and_send_adaptive_card_to_one_on_one_user_chat
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MS Teams Collaboration Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: >-
+  Microsoft Teams - Create One on One Session and Send Adaptive Card to One on
+  One User Chat
+version: 0.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: >-
+  Microsoft Teams - Create One on One Session and Send Adaptive Card to One on
+  One User Chat remediation
+keywords:
+  - Endpoint Security & Management
+  - Community Content

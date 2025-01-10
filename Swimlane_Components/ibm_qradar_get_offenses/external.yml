@@ -1,0 +1,13 @@
+"integration_features":
+  "Actionable Insights": "Gain actionable insights with detailed alert information,\
+    \ including descriptions, severity levels, and recommended actions."
+  "Comprehensive Vulnerability Management": "Access and manage vulnerability data\
+    \ to proactively address security weaknesses in your environment."
+  "Customizable Alert Filtering": "Utilize customizable filtering options to focus\
+    \ on the most relevant security alerts and incidents."
+  "Efficient Response Automation": "Automate response actions such as isolating machines\
+    \ and managing indicators to reduce manual intervention and improve response times."
+  "Simplified Integration": "Easily integrate with IBM QRadar without the\
+    \ need for complex coding, thanks to the pre-built connector."
+  "Streamlined Incident Management": "Centralize and streamline the management of\
+    \ IBM QRadar alerts, enabling faster response and resolution."

@@ -1,0 +1,1 @@
+Microsoft Defender - Remove App Restriction Component automates the process of adjusting application permissions within the Microsoft Defender ecosystem. This automation ensures the effective management of security settings, facilitating quick responses to changing threats and policies, and aligning with Microsoft’s dedication to advanced, scalable security solutions.

@@ -1,0 +1,1 @@
+The "Symantec DLP - Get Incident History" component serves a critical role in retrieving detailed histories of security incidents from the Symantec Data Loss Prevention system. This functionality is essential for organizations managing security compliance and incident analysis, providing easy access to historical data through structured API integration.

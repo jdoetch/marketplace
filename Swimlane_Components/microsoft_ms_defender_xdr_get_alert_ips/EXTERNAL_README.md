@@ -1,0 +1,1 @@
+The MS Defender - Get Alert IPs component is an automation tool that seamlessly integrates with Microsoft Defender to extract IP addresses that have triggered alerts. This capability is essential for enhancing the effectiveness of the incident response process, helping security professionals to quickly address and mitigate potential threats identified by Microsoft Defender.

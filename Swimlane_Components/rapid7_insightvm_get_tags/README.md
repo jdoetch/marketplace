@@ -1,0 +1,1 @@
+The Rapid7 InsightVM - Get Tags is a component designed to automate the retrieval of tags from assets managed within the Rapid7 InsightVM platform, a popular security management solution. This component aids in categorizing and monitoring assets based on tags, enhancing visibility and control over asset management in security operations.

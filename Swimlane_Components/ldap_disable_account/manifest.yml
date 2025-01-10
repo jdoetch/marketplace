@@ -1,0 +1,18 @@
+vendor: LDAP
+name: ldap_disable_account
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: LDAP Disable Account
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: LDAP Disable Account
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: LDAP Disable Account remediation
+keywords:
+- Identity & Access Management
+- Community Content

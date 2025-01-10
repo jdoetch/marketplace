@@ -1,0 +1,18 @@
+vendor: Cloudflare
+name: cloudflare_list_permission_groups
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Cloudflare Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Cloudflare List Permission Groups
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Cloudflare List Permission Groups ingestion
+keywords:
+  - Network Security & Management
+  - Community Content

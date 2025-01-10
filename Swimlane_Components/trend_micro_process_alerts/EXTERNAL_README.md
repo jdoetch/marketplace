@@ -1,0 +1,1 @@
+The 'Trend Micro - Process Alerts' automates the detection, analysis, and response to security threats through an organized set of actions. This component, created by Trend Micro, enables timely interventions and management of security alerts, enhancing the overall security stance by automating responses based on the severity and type of the detected threats.

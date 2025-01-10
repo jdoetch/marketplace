@@ -1,0 +1,1 @@
+The "Censys - Get Certificate Info" component automates the retrieval and analysis of SSL/TLS certificate data, enhancing security protocols by ensuring certificate validity and integrity. Developed by Censys, this component integrates seamlessly into broader cybersecurity frameworks, providing crucial functionalities for maintaining digital trust.

@@ -1,0 +1,19 @@
+vendor: Elastic
+name: elastic_ai_chat_bot
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Elastic AI Chat Bot
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Elastic AI Chat Bot
+version: 1.0.1
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Elastic AI Chat Bot enrichment
+keywords:
+- AI & ML
+- SIEM & Log Management
+- Community Content

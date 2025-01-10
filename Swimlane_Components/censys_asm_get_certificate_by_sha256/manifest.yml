@@ -1,0 +1,19 @@
+vendor: Censys ASM
+name: censys_asm_get_certificate_by_sha256
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Censys ASM Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Censys ASM Get Certificate by SHA256
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Censys ASM Get Certificate by SHA256 ingestion
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Governance & Risk Management
+  - Community Content

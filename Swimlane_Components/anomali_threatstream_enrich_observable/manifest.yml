@@ -1,0 +1,16 @@
+vendor: Anomali Threatstream
+name: anomali_threatstream_enrich_observable
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+description: Anomali Threatstream Enrich Observable
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Anomali Threatstream Enrich Observable
+version: 1.0.2
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Anomali Threatstream Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

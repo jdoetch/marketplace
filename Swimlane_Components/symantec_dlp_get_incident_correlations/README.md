@@ -1,0 +1,1 @@
+The Symantec DLP - Get Incident Correlations component automates the retrieval of correlation data for security incidents within the Symantec Data Loss Prevention system. It enhances efficiency and precision of security operations by integrating with Symantec DLP to gather and process detailed correlation information crucial for incident analysis.

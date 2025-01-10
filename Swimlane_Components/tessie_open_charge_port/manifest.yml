@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_open_charge_port
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Open Tesla's Charge Port
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Open Charge Port
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Open Charge Port remediation
+keywords:
+- Miscellaneous
+- Community Content

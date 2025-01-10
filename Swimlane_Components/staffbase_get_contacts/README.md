@@ -1,0 +1,1 @@
+This Swimlane component retrieves and organizes a list of contacts from the Staffbase Email Contacts Directory using the "Get All Contacts" action. Designed to streamline contact management and integration into workflows, this component provides a structured and accessible list of staff email contacts for use in automation, reporting, and communication processes.

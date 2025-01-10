@@ -1,0 +1,1 @@
+The "Censys - Aggregate Host Data" component enriches and aggregates error-related data from host systems, aiming to simplify and enhance security operations. This automation component, crafted by "Vendor", utilizes a transformation action that processes raw host data into enriched, actionable intelligence, serving as a pivotal element of a comprehensive security strategy.

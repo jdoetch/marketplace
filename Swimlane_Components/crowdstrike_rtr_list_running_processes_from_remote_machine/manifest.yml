@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_rtr_list_running_processes_from_remote_machine
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike List Running Processes from Remote Machine
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike RTR List Running Processes from Remote Machine
+version: 1.0.2
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: CrowdStrike RTR List Running Processes from Remote Machine enrichment
+keywords:
+- Endpoint Security & Management
+- Community Content

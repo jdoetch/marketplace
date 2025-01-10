@@ -1,0 +1,18 @@
+vendor: Censys
+name: censys_list_tags
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Censys Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Censys List Tags
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Censys List Tags enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

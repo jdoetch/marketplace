@@ -1,0 +1,1 @@
+The "KnowBe4 - Update Multiple Messages" component enables organizations to efficiently manage message updates across their training modules in KnowBe4, a leading cybersecurity training platform. Through a streamlined process, organizations can ensure that their training content remains relevant and effective against the latest phishing tactics.

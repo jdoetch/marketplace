@@ -1,0 +1,1 @@
+The **Freshdesk - Get Ticket** component serves as an essential tool in customer service management systems, allowing for the automated retrieval of ticket information from Freshdesk. This integration facilitates real-time data usage, aiding in swift resolution of user queries and enhancing operational efficiencies.

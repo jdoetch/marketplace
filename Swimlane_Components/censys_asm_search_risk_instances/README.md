@@ -1,0 +1,1 @@
+The "Censys ASM - Search Risk Instances" component is a sophisticated cybersecurity solution designed to automate the identification and analysis of network risks. Created for use with the Censys platform, it streamlines the risk analysis process by automating data acquisition and enrichment, making it an essential tool for security analysts aiming to enhance network security.

@@ -1,0 +1,1 @@
+Fortinet FortiGate - Add Address to Network Address Group is designed to automate the updating and management of network address groups in Fortinet's FortiGate. By automating these tasks, the component aids in maintaining current and effective security measures within network infrastructures, ensuring consistent application of security policies.

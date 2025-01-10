@@ -1,0 +1,17 @@
+vendor: Sekoia
+name: sekoia_threat_intel_enrichment
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Sekoia Intelligence Threat Intel Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Sekoia Threat Intel Enrichment
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Sekoia Threat Intel Enrichment enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

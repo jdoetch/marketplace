@@ -1,0 +1,1 @@
+Through the SSC - Add IP Domain Tag to an IP Domain Tag Group component, automated processes integrate with Security Scorecard's APIs to manage IP domain tags effectively. The automation helps ensure the tagging of IP domains aligns with rigorous security standards, promoting an organized approach to cyber security management.

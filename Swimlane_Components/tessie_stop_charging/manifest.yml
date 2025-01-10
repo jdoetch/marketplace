@@ -1,0 +1,17 @@
+vendor: Tessie
+name: tessie_stop_charging
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Stop Tesla Charging
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Stop Charging
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Stop Charging remediation
+keywords:
+- Community Content

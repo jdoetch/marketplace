@@ -1,0 +1,18 @@
+vendor: Jira
+name: jira_update_issue
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Jira Update Issue Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Jira Update Issue
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Jira Update Issue remediation
+keywords:
+- Case & Ticket Management
+- Community Content

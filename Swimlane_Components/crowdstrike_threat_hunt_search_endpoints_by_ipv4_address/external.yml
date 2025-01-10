@@ -1,0 +1,6 @@
+"integration_features":
+  "Efficient ThreatHunting": "Enables efficient hunting of threats by searching endpoints using IOC IPv4 addresses."
+  "Automated Endpoint Querying": "Automates the querying of endpoints based on IPv4 Indicators of Compromise for swift threat identification."
+  "Enhanced Security Visibility": "Provides enhanced visibility into endpoint activities related to specified IOC IPv4 addresses."
+  "Streamlined Incident Response": "Facilitates streamlined incident response by quickly identifying and analyzing affected endpoints."
+  "Seamless CrowdStrike Integration": "Integrates seamlessly with CrowdStrike Falcon, leveraging its capabilities for effective threat hunting."

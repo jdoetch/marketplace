@@ -1,0 +1,1 @@
+The SSC - Get an IP Domain Tag Group component is a crucial tool within security operations, designed to manage and tag IP domain data efficiently. It interfaces directly with security data sources, leveraging error and transformation actions to enhance IP reputation management and error handling, ensuring robust security automation protocols.

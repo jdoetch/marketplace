@@ -1,0 +1,1 @@
+This Zscaler component, integrating SOC solutions, works as part of the SOC - Remediation Actions playbook, which forms a part of the Incident Response (IR) action plan to block or unblock a URL from network access.

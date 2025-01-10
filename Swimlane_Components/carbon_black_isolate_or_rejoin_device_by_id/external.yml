@@ -1,0 +1,6 @@
+"integration_features":
+  "Rapid_response": "Enables rapid network isolation or reconnection for specific devices."
+  "Security_management": "Facilitates immediate action on devices positing threats or requiring reevaluation."
+  "User_friendly_interface": "Simplifies operational tasks with an intuitive user interface for action specification."
+  "Detailed_logging": "Maintains comprehensive logs for action outcomes, aiding in security audits and reviews."
+  "Integration": "Seamlessly integrates with Carbon Black Cloud, enhancing tool compatibility and efficiency."

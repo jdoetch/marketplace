@@ -1,0 +1,1 @@
+The "Censys - Add Comments to Certificate" component automates adding comments to certificates via the Censys API, helping maintain accurate certificate annotations without manual effort. This integration is crucial for organizations relying on Censys for comprehensive certificate management and security assurance.

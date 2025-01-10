@@ -1,0 +1,1 @@
+Criminal IP - Get Domain Scan Report Lite is a component designed to automate the process of retrieving domain scan reports from Criminal IP. It simplifies and accelerates the assessment of domain threats by integrating directly with security workflows to handle data gathering and transformation efficiently. 

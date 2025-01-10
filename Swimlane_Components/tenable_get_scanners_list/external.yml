@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_scanner_retrieval": "Automatically fetches scanner data from Tenable.io to keep security teams informed."
+  "Real_time_updates": "Ensures up-to-date scanner inventory for accurate vulnerability assessment planning."
+  "Streamlined_data_processing": "Reduces manual effort by transforming raw scanner data into actionable insights efficiently."

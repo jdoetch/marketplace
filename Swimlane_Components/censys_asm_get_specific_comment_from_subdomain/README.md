@@ -1,0 +1,2 @@
+Censys ASM - Get a Specific Comment from a SubDomain is a component of the Censys Automated Security Management platform, which focuses on retrieving detailed comments associated with specific subdomains. This functionality allows for enhanced domain monitoring and management by providing direct access to user-generated insights and annotations, which are critical for effective security assessments and domain oversight.
+

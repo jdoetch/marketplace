@@ -1,0 +1,18 @@
+vendor: Pulsedive
+name: pulsedive_enrich_url
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Pulsedive Enrich URL
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Pulsedive Enrich URL
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Pulsedive Enrich URL enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

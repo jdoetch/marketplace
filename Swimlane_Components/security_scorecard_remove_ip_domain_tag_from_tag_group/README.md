@@ -1,0 +1,1 @@
+The "SSC - Remove IP Domain Tag from a IP Domain Tag Group" component is designed specifically for SecurityScorecard to automate the process of removing IP domain tags from their assigned groups. Achieving accurate and efficient tag management directly supports enhanced security operations by ensuring the relevance and correctness of domain tag categorizations.

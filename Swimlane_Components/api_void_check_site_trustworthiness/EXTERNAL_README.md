@@ -1,0 +1,1 @@
+The API Void - Check Site Trustworthiness component automates the validation of website repute and security risks by leveraging external API services, specifically from API Void. This integration ensures that endpoints are continually analyzed for any potential security threats, aiding in proactive security measures.

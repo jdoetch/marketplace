@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_rtr_execute_command_and_return_results
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike RTR - Execute Command and Return Results
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike RTR - Execute Command and Return Results
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: CrowdStrike RTR - Execute Command and Return Results remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

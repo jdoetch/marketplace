@@ -1,0 +1,17 @@
+vendor: HaveIBeenPwned
+name: haveibeenpwned_check_for_account_breach
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Check HaveIBeenPwned for Account Breach
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: HaveIBeenPwned Check for Account Breach
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: HaveIBeenPwned Check for Account Breach enrichment
+keywords:
+- Community Content

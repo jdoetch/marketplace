@@ -1,0 +1,1 @@
+The "CloudFlare_ Get Accounts" component executes an HTTP request to retrieve detailed user account information from the CloudFlare API. This component is crucial for organizations using CloudFlare, enabling enhanced security and efficient management of account details by automating interactions with CloudFlare's API.

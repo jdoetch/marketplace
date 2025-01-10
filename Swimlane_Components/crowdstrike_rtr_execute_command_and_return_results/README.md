@@ -1,0 +1,1 @@
+This component initializes variables, retrieves a host identifier, validates the input against expected criteria, determines the host’s online state through a CrowdStrike endpoint, initializes a remote session, executes a specified command on the host, waits, retrieves command results, and finally transforms and presents these results.

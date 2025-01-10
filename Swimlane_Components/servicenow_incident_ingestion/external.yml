@@ -1,0 +1,4 @@
+"integration_features":
+    "Automated Incident Ingestion": "Automatically ingests detailed incident data into Turbine, enabling faster and more accurate incident response."
+    "Error Handling and Notifications": "Robust error logging, notifications, and optional retry mechanisms ensure reliable incident data processing."
+    "Enhanced Data Mapping": "Efficient mapping of incident details from input sources to Turbine, ensuring that all relevant information is captured and recorded."

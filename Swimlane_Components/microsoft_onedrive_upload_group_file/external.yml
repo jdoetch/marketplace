@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated Group File Uploads": "Facilitates efficient and secure file management within Microsoft OneDrive group folders."
+  "Error Handling": "Standardizes error responses for consistent troubleshooting and maintenance."
+  "Data Enrichment": "Enhances the metadata of uploaded files for better resource optimization."

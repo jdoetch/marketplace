@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_alert_retrieval": "Enables automated fetching of user-specific alerts from Microsoft Defender."
+  "Streamlined_security_responses": "Improves the speed and accuracy of security operations."
+  "Error_handling": "Provides structured error management to enhance reliability."

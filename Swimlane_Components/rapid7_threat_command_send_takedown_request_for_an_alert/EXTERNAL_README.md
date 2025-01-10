@@ -1,0 +1,1 @@
+Rapid7 Threat Command - Send Takedown Request for an Alert is an automation tool specifically designed to manage and mitigate threats efficiently. Leveraging the capabilities of Rapid7, this component ensures the quick and effective closure of alerts through automated takedown requests, integrating effectively into the broader threat management strategy.

@@ -1,0 +1,1 @@
+The "Lacework FortiCNAPP - Close Alert" is an automated component designed to manage and resolve alerts within the Lacework environment efficiently, using predefined conditions and responses. This component is crucial for organizations leveraging FortiCNAPP solutions, enabling seamless integration and streamlined operations for closing security alerts.

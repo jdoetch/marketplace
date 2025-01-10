@@ -1,0 +1,11 @@
+"integration_features":
+  "Actionable Security Automation": "Execute critical security actions such as creating,\
+    \ updating, removing and retrieving address objects and groups directly from Swimlane Turbine,\
+    \ enhancing policy enforcement and incident response."
+  "Enhanced Visibility": "Retrieve group members and address details, offering improved\
+    \ visibility into network configurations and security policies."
+  "Seamless Integration": "Utilize a standardized connector to integrate with Fortinet\
+    \ Fortigate, enabling efficient automation of security tasks without the need\
+    \ for custom coding."
+  "Simplified Policy Management": "Create and update address objects and groups within\
+    \ Fortinet Fortigate, streamlining security policy management."

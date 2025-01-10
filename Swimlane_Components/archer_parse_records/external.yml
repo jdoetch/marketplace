@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Data Reformatting": "Converts ArcherIRM’s associative field structure into a key-value format for each\
+  record, simplifying data handling and usability."
+  "Standardized Record Transformation": "Ensures records retrieved via the 'Get Records by Report ID' action are\
+  reformatted to align with Swimlane’s data processing standards."
+  "Workflow-Ready Data Outputs": "Formats records for seamless integration into Swimlane workflows, enabling\
+  enrichment, analysis, and automation."
+  "Enhanced Operational Efficiency": "Automates the reformatting process, reducing manual effort and accelerating the\
+  use of ArcherIRM data in security operations."

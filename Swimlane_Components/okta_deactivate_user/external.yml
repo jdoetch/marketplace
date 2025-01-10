@@ -1,0 +1,4 @@
+"integration_features":
+  "Automate User Deactivation": "Improves security and operational efficiency by automating the deactivation process in the Okta environment."
+  "Error Handling and Logging": "Ensures that all deactivation attempts, successful or otherwise, are logged for audit and compliance."
+  "User Verification": "Verifies the existence of users before attempting deactivation, reducing the risk of errors."

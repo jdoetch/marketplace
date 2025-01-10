@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_onedrive_create_site_upload_session
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft OneDrive Remediation Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft OneDrive - Create Site Upload Session
+version: 0.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Microsoft OneDrive - Create Site Upload Session remediation
+keywords:
+  - Communication & Collaboration
+  - Community Content

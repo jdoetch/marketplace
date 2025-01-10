@@ -1,0 +1,17 @@
+"integration_features":
+  "Accelerated Incident Response":
+    "By enriching observables with ZScaler URL Analysis,\
+    \ security teams can accelerate their incident response times with actionable\
+    \ insights readily available within Swimlane Turbine."
+  "Contextual Intelligence":
+    "Provides immediate access to rich intelligence data\
+    \ from ZScaler, allowing for quick contextualization of indicators of compromise\
+    \ (IOCs) such as domains, IP addresses, files, and URLs."
+  "Enhanced Data Standardization":
+    "Utilizes Swimlane's Turbine Extendable Data Schema to ensure\
+    \ that data from ZScaler is standardized, making it easier to correlate and\
+    \ analyze alongside other security data sources."
+  "Streamlined Threat Analysis":
+    "Simplifies the threat analysis process by integrating\
+    \ ZScaler's comprehensive search capabilities directly into Swimlane's automation\
+    \ workflows."

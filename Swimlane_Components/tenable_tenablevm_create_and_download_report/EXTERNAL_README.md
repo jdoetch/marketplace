@@ -1,0 +1,1 @@
+The Tenable VM - Create and Download Report component automates the creation and download of customized vulnerability reports. By harnessing this workflow, users can efficiently generate reports based on continuous assessments, ensuring that the most relevant and critical security data is obtained from the Tenable VM environment.

@@ -1,0 +1,1 @@
+Securonix SNYPR - List All Users is a component designed for securely retrieving and managing user account details from the Securonix SNYPR platform. This automated process is essential for enhancing security operations and compliance within an organization. The vendor, Securonix, provides advanced security analytics tailored for this role.

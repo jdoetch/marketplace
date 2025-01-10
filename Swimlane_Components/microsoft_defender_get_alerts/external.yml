@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated_alert_retrieval": "Automates the fetching of security alerts from Microsoft Defender to speed up responses."
+  "Alert_enrichment": "Enhances alert data with additional context for better clarity and actionable insights."
+  "Secured_data_handling": "Ensures all alert data is handled securely, maintaining confidentiality and integrity."
+  "Operational_efficiency": "Reduces manual processing workload, thereby increasing overall SOC efficiency."

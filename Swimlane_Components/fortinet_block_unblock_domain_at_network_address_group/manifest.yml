@@ -1,0 +1,16 @@
+vendor: Fortinet
+name: fortinet_block_unblock_domain_at_network_address_group
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+description: Fortinet Fortigate security automation.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Fortinet Block/Unblock Domain At Network Address Group
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Fortinet Block/Unblock Domain At Network Address Group remediation
+keywords:
+- Network Security & Management

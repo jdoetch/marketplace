@@ -1,0 +1,21 @@
+vendor: 'Lacework FortiCNAPP '
+name: lacework_forticnapp_get_alerts
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Lacework FortiCNAPP Get Alerts
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Lacework Forti CNAPP  Get Alerts
+version: 1.0.2
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Lacework Forti CNAPP  Get Alerts ingestion
+keywords:
+- Cloud Services & Security
+- Governance & Risk Management
+- Infrastructure & IT Services
+- Vulnerability & Patch Management
+- Community Content

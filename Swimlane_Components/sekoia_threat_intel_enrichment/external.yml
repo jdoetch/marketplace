@@ -1,0 +1,20 @@
+"integration_features":
+  "Automated Enrichment Workflows":
+    "Streamline the process of enriching security\
+    \ events with actionable intelligence, reducing manual effort and accelerating\
+    \ response times."
+  "Consistent Security Posture":
+    "Maintain a consistent security posture by utilizing\
+    \ a common data model for enrichments and remediations, ensuring uniformity across\
+    \ security tools and events."
+  "Contextual Enrichment":
+    "Enhance observables with rich metadata and context from\
+    \ Sekoia Intelligence, providing deeper insights into potential threats and their\
+    \ implications."
+  "Real-Time Threat Intelligence":
+    "Gain immediate access to threat intelligence data\
+    \ for domains, hashes, IPs, and URLs, enabling rapid and informed security decisions."
+  "Seamless Integration":
+    "Effortlessly integrate Sekoia Intelligence's intelligence into\
+    \ Swimlane's Turbine platform, leveraging Swimlane's Turbine Extendable Data Schema for standardized\
+    \ data representation."

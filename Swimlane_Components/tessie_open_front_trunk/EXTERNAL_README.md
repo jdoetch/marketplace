@@ -1,0 +1,1 @@
+The Tesla Open Front Trunk component provides an automated solution for remotely managing the front trunk of Tesla vehicles. By leveraging the vendor-specific API, it ensures that trunk operations can be executed from a distance, enhancing the usability and functional appeal of Tesla vehicles in the context of advanced vehicle automation.

@@ -1,0 +1,18 @@
+vendor: Atlassian
+name: atlassian_jira_get_issue
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Atlassian Jira Get Issue
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Atlassian Jira Get Issue
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Atlassian Jira Get Issue ingestion
+keywords:
+- Case & Ticket Management
+- Community Content

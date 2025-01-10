@@ -1,0 +1,18 @@
+vendor: SecurityTrails
+name: securitytrails_lookup_ip_neighbors
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: SecurityTrails - Lookup IP Neighbors
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: SecurityTrails Lookup IP Neighbors
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: SecurityTrails Lookup IP Neighbors enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

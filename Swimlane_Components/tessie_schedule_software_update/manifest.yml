@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_schedule_software_update
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Schedule Tesla Software Update
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Schedule Software Update
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Schedule Software Update remediation
+keywords:
+- Miscellaneous
+- Community Content

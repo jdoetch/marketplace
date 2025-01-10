@@ -1,0 +1,18 @@
+vendor: Shodan
+name: shodan_lookup_ip_address
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Shodan Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Shodan Lookup IP Address
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Shodan Lookup IP Address enrichment
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Community Content

@@ -1,0 +1,18 @@
+vendor: ChurnZero
+name: churnzero_send_account_usage
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: ChurnZero - Send Account Usage
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Churn Zero Send Account Usage
+version: 1.1.1
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Churn Zero Send Account Usage enrichment
+keywords:
+- Miscellaneous
+- Community Content

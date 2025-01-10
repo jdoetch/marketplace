@@ -1,0 +1,7 @@
+"integration_features":
+  "Automated Alert Ingestion": "Ingests alerts from Microsoft Defender for Endpoint as Case and Incident Management \
+  records for streamlined tracking and response."
+  "Threat Intelligence Record Creation": "Generates Threat Intelligence records for observables identified in ingested \
+   alerts, providing actionable insights."
+  "Integrated Record Linking": "Relates Threat Intelligence records to their corresponding Case and Incident Management\
+   records, ensuring comprehensive context and traceability."

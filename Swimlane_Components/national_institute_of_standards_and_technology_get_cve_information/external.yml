@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Enrichment": "Automatically enriches security observables with NIST data,\
+    \ improving the speed and accuracy of threat detection and response."
+  "Enhanced Security Intelligence": "Provides enriched context for vulnerabilities,\
+    \ aiding in the understanding of their impact and the urgency of remediation efforts."
+  "Simplified Integration": "Seamlessly integrates with Swimlane's Turbine platform,\
+    \ allowing for easy incorporation of NIST vulnerability data into security workflows."
+  "Streamlined Vulnerability Management": "Enables quick access to the latest CVE\
+    \ information, facilitating timely vulnerability assessment and prioritization."

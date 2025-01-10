@@ -1,0 +1,1 @@
+The "Cloudflare - Create Token" is a component designed to automate the process of creating secure tokens through Cloudflare’s API. Facilitating enhanced security and efficient management, this component uses HTTP requests to interact with Cloudflare, automating token generation with precise control over permissions and resources.

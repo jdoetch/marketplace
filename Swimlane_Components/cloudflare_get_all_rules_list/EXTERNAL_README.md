@@ -1,0 +1,1 @@
+The `Cloudflare - Get All Rules List` is a component designed for automating the retrieval of rules from Cloudflare accounts, assisting users in maintaining robust security and compliance. This component provides necessary tools to effectively manage and analyze the rules applied within Cloudflare, crucial for organizational security policies and regulatory commitments.

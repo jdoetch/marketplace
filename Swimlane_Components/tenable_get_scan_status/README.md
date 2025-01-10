@@ -1,0 +1,1 @@
+This component retrieves the status and progress of a specified scan from Tenable.io, enabling users to monitor ongoing security scans efficiently.

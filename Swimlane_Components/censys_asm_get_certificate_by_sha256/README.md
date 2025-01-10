@@ -1,0 +1,1 @@
+The Censys ASM - Get a Certificate by SHA256 component offers a methodical approach to retrieve specific certificate details using SHA256 hashing through the Censys API. Primarily meant to aid in the validation and examination of digital certificates, this component is critical for environments requiring high security and accurate certificate verification.

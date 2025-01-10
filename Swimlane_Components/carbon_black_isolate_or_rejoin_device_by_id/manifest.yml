@@ -1,0 +1,18 @@
+vendor: Carbon Black
+name: carbon_black_isolate_or_rejoin_device_by_id
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Carbon Black Isolate or Rejoin Device by ID
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Carbon Black Isolate or Rejoin Device by ID
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Carbon Black Isolate or Rejoin Device by ID remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

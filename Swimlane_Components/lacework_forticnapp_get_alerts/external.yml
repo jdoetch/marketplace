@@ -1,0 +1,7 @@
+"integration_features":
+  "Automated Alert Ingestion": "Automatically ingests incoming Lacework alerts into Turbine use cases for analysis,\
+    \ enrichment, and response."
+  "Standardized Data Mapping": "Transforms and maps incoming data to Swimlane's Turbine Extendable Data Schema, \
+    \ enabling standardized data across various security tools."
+  "Enhanced Security Operations": "Facilitates common security events, enrichments, and remediations within Swimlane's \
+    \ Turbine platform."

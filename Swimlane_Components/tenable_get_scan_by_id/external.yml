@@ -1,0 +1,6 @@
+"integration_features":
+  "Scan Initiation": "Enables the initiation of vulnerability scans in Tenable.io using specified Scan IDs."
+  "Realtime Status Monitoring": "Provides real-time monitoring of scan statuses and progress to keep stakeholders informed."
+  "Automated Reporting": "Automates the collection and updating of scan results, facilitating streamlined analysis and reporting."
+  "Reliable Error Handling": "Implements robust error detection and handling to maintain the integrity of scan operations and prevent disruptions."
+  "Seamless Tenable Integration": "Integrates seamlessly with Tenable.io's API, leveraging connectors to enable efficient vulnerability management within the security ecosystem."

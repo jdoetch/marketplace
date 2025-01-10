@@ -1,0 +1,16 @@
+vendor: Nozomi
+name: nozomi_guardian_get_alerts
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+description: Nozomi Networks Security Integration.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Nozomi Guardian - Get Alerts
+version: 1.0.4
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Nozomi Guardian - Get Alerts ingestion
+keywords:
+- Vulnerability & Patch Management

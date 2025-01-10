@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_lock_vehicle
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Lock Tesla's Doors
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Lock Vehicle
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Lock Vehicle remediation
+keywords:
+- Miscellaneous
+- Swimlane Certified

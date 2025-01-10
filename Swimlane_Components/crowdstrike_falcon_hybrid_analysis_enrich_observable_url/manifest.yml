@@ -1,0 +1,18 @@
+vendor: CrowdStrike Falcon Hybrid Analysis
+name: crowdstrike_falcon_hybrid_analysis_enrich_observable_url
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Falcon Hybrid Analysis - Enrich Observable (URL)
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Falcon Hybrid Analysis Enrich Observable (URL)
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Falcon Hybrid Analysis Enrich Observable (URL) enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

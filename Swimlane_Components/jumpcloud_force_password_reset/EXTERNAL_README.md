@@ -1,0 +1,1 @@
+This component enables forcing a password reset on the next login for a user, leveraging the Enable/Disable User Account Remediation Action Interface and compatible with SOC Solution content. It takes a user ID as input and outputs the success or failure status of the action.

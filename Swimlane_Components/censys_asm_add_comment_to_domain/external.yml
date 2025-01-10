@@ -1,0 +1,4 @@
+"integration_features":
+  "Domain_annotation": "Allows users to add comments directly to domain records within Censys ASM."
+  "User_audit_trail": "Captures and logs user activity for enhanced security and accountability."
+  "Error_handling": "Robust error management to ensure data integrity during the commenting process."

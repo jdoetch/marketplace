@@ -1,0 +1,5 @@
+"integration_features":
+  "Real_time_monitoring": "Enables real-time security monitoring of AWS Console login events"
+  "Data_transformation": "Transforms and normalizes event data for improved security management"
+  "Seamless_integration": "Fully integrated within the Lacework platform, enhancing automation and response capabilities"
+  "Alert_management": "Efficiently updates and manages security alerts, aiding rapid response actions"

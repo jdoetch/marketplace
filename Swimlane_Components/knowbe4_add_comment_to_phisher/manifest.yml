@@ -1,0 +1,18 @@
+vendor: KnowBe4
+name: knowbe4_add_comment_to_phisher
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: KnowBe4 - Add Comment to PhishER Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: KnowBe4 Add Comment to PhishER
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: KnowBe4 Add Comment to PhishER enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

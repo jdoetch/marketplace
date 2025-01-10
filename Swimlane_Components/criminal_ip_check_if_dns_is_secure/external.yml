@@ -1,0 +1,6 @@
+"integration_features":
+  "Verify_dns_security": "Ensures that DNS queries are secure and not related to criminal activities."
+  "Error_data_transformation": "Transforms raw error data into a structured format for detailed analysis."
+  "Real_time_threat_detection": "Allows for real-time response and threat management on detecting DNS-related threats."
+  "Automated_alert_system": "Automates the process of alerting and escalation in case of DNS security issues."
+  "Vendor_support_by_Swimlane": "Backed by Swimlane’s robust support and regular updates ensuring cutting-edge performance."

@@ -1,0 +1,13 @@
+"integration_features":
+  "Enhanced Security Observables": "Augments raw security data with valuable context\
+    \ and metadata from IPQualityScore, enriching security observables for more informed\
+    \ decision-making."
+  "Real-Time Fraud Detection": "Provides immediate insights into potentially fraudulent\
+    \ email addresses, spam traps, and honeypots, enabling proactive fraud prevention\
+    \ measures."
+  "Seamless Integration": "Integrates effortlessly with Swimlane's Turbine Extendable Data Schema,\
+    \ ensuring that data from IPQualityScore is standardized and actionable within\
+    \ the Turbine platform."
+  "Streamlined Incident Response": "By utilizing enriched data, security teams can\
+    \ accelerate their incident response, reducing the time to detect and remediate\
+    \ threats."

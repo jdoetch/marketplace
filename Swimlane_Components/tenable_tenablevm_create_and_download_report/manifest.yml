@@ -1,0 +1,18 @@
+vendor: Tenable
+name: tenable_tenablevm_create_and_download_report
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Tenable Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tenable TenableVM - Create and Download Report
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Tenable TenableVM - Create and Download Report ingestion
+keywords:
+- Vulnerability & Patch Management
+- Community Content

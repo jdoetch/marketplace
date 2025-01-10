@@ -1,0 +1,18 @@
+vendor: ServiceNow
+name: servicenow_add_work_note
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: ServiceNow - Add Work Note Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: ServiceNow Add Work Note
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: ServiceNow Add Work Note remediation
+keywords:
+- Case & Ticket Management
+- Community Content

@@ -1,0 +1,16 @@
+"integration_features":
+  "Actionable Intelligence": "Offers actionable insights by summarizing Antigena actions,\
+    \ AI Analyst events, and providing data loss statistics, empowering security teams\
+    \ to take informed actions."
+  "Comprehensive Endpoint Insights": "Provides detailed information on endpoints,\
+    \ including device connections and additional endpoint details, aiding in thorough\
+    \ security investigations."
+  "Efficient Threat Investigation": "Facilitates advanced searches and retrieves relevant\
+    \ audit events, comments, and breach details, streamlining the threat investigation\
+    \ process."
+  "Streamlined Incident Retrieval": "Enables quick and efficient retrieval of Darktrace\
+    \ incidents within a specified time range, including acknowledged incidents, enhancing\
+    \ situational awareness and response times."
+  "Unified Data Schema Integration": "Integrates with Swimlane's Turbine Extendable\
+    \ Data Schema, allowing for standardized data representation across security tools\
+    \ and enabling consistent automation workflows."

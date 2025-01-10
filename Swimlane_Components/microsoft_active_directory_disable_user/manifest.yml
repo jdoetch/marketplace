@@ -1,0 +1,19 @@
+vendor: Microsoft
+name: microsoft_active_directory_disable_user
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Disable User in "On-Prem" version of Active Directory
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Active Directory - Disable User
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Microsoft Active Directory - Disable User remediation
+keywords:
+- Authentication
+- Identity & Access Management
+- Community Content

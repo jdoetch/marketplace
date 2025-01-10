@@ -1,0 +1,1 @@
+Securonix SNYPR - Retrieve List of Incidents is a component designed to interface with the Securonix SNYPR platform, facilitating the automated retrieval of incident data. By interacting directly with Securonix, this component streamlines the process of incident management, enhancing the ability of security teams to respond to and analyze security events efficiently.

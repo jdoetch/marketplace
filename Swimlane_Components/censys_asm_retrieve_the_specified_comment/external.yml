@@ -1,0 +1,5 @@
+"integration_features":
+  "Simplified Comment Retrieval": "Automatically fetches and processes comments from web entities in Censys."
+  "Error Handling": "Incorporates robust error management that normalizes API errors for better reliability."
+  "Data Enrichment": "Transforms API response data into enriched formats for detailed analytics."
+  "Secure API Communication": "Ensures secure API communication by encoding identifiers and adhering to best security practices."

@@ -1,0 +1,1 @@
+The HarfangLab component Integrating SOC Solutions "SOC - Remediation Actions" Playbook, work as part of Incident Response(IR) Action plan to Isolate/Rejoin a Host from network/Internet.

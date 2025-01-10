@@ -1,0 +1,1 @@
+The Microsoft Defender - Get Indicators Component (4774cfd3-2aa6-4f90-b038-433075a95df1) serves as an automation interface between user systems and Microsoft Defender, aligning with vendors to streamline the security processes. It automates the fetch and transformation of threat indicators, facilitating enhanced response capabilities in security operations.

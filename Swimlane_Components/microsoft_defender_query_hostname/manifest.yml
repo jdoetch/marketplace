@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_defender_query_hostname
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft - Defender Query Hostname
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Defender Query Hostname
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Microsoft Defender Query Hostname enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

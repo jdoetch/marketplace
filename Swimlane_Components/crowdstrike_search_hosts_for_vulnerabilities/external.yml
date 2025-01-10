@@ -1,0 +1,6 @@
+"integration_features":
+  "Vulnerability Detection": "Enables the identification of hosts with specific vulnerabilities using keyword-based searches."
+  "Automated Reporting": "Automates the compilation and reporting of vulnerability search results for streamlined analysis."
+  "Reliable Error Handling": "Ensures reliable detection and recording of errors to maintain the integrity of vulnerability management processes."
+  "Enhanced Security Operations": "Facilitates enhanced security operations by efficiently managing vulnerability searches within the CrowdStrike Falcon ecosystem."
+  "Seamless CrowdStrike Integration": "Integrates seamlessly with CrowdStrike Falcon Spotlight, leveraging its API for effective vulnerability management."

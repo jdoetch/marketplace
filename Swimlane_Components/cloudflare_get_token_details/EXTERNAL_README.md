@@ -1,0 +1,1 @@
+The Cloudflare Get Token Details component provided by Swimlane is designed for secure and efficient automation of retrieving token details from Cloudflare APIs. This component is essential for operations that require enhanced security measures, delivering automation in fetching and handling token-related information to comply with security standards effectively.

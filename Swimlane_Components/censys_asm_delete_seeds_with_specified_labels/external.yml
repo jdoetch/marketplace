@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated_deletion": "Enables automated deletion of tagged seeds within Censys ASM, optimizing data management."
+  "Error_handling": "Robust error processing and normalization ensure high reliability."
+  "Data_accuracy": "Helps maintain data accuracy by removing outdated or irrelevant data."
+  "Security_compliance": "Aids in compliance with data governance and security policies by controlling dataset quality."

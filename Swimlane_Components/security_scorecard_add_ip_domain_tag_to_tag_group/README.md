@@ -1,0 +1,1 @@
+The component SSC - Add IP Domain Tag to an IP Domain Tag Group facilitates automated interactions with the Security Scorecard platform for managing IP domain tags within specific groups. This enhances cybersecurity measures by maintaining systematic and up-to-date tagging of IP domains based on current security protocols.

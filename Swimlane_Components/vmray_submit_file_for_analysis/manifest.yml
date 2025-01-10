@@ -1,0 +1,18 @@
+vendor: VMRay
+name: vmray_submit_file_for_analysis
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Submit File for Analysis Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: VMRay Submit File for Analysis
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: VMRay Submit File for Analysis enrichment
+keywords:
+- Forensics & Malware Analysis
+- Community Content

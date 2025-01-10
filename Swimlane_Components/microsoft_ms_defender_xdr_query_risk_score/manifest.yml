@@ -1,0 +1,19 @@
+vendor: Microsoft
+name: microsoft_ms_defender_xdr_query_risk_score
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MS Defender XDR - Query Risk Score
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft MS Defender XDR - Query Risk Score
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft MS Defender XDR - Query Risk Score ingestion
+keywords:
+- Data Enrichment & Threat Intelligence
+- Endpoint Security & Management
+- Community Content

@@ -1,0 +1,17 @@
+vendor: Elastic
+name: elastic_security_get_signals
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+description: Elastic Security Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Elastic Security Get Signals
+version: 1.0.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Elastic Security Get Signals ingestion
+keywords:
+- Endpoint Security & Management
+- Community Content

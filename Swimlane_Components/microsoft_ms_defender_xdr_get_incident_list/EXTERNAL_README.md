@@ -1,0 +1,1 @@
+The "MS Defender - Get Incident List" component automates the retrieval of incident lists from Microsoft Defender. Designed to enhance security operations, this component streamlines processes by automating interactions with the Microsoft Defender platform, facilitating faster response and management of security incidents.

@@ -1,0 +1,1 @@
+The Tesla_Honk_Horn component is designed to facilitate the remote activation of a Tesla vehicle's horn via an external command processed through the Tesla API. This functionality, developed by Swimlane, enhances user convenience and safety by allowing the horn to be activated for purposes like security attention or locating a parked vehicle effectively.

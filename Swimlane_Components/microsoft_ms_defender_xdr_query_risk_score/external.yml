@@ -1,0 +1,4 @@
+"integration_features":
+  "Automatic_risk_query": "Automates the querying of risk data from Microsoft Defender, increasing response efficiency."
+  "Data_transformation": "Structures and refines risk data for better interpretation and decision-making."
+  "Conditional_processing": "Applies logic to determine threat levels, enhancing security measures."

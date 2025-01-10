@@ -1,0 +1,1 @@
+The "Maltiverse - Lookup IP" is a component designed to streamline the security operations related to IP address verification by integrating with the Maltiverse database. The vendor provides a robust database for analyzing IP reputations, which is essential in identifying harmful IP activities in network environments.

@@ -1,0 +1,16 @@
+vendor: Splunk
+name: splunk_webhook_ingest
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Ingest an alert from a Splunk webhook and transform it into a TEDS alert
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Splunk Webhook Ingest
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Splunk Webhook Ingest ingestion
+keywords:
+- SIEM & Log Management

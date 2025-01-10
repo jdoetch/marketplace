@@ -1,0 +1,16 @@
+vendor: SentinelOne
+name: sentinelone_isolate_rejoin_host_remediation_action
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+description: SentinelOne threat detection and response.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: SentinelOne Isolate/Rejoin Host Remediation Action
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: SentinelOne Isolate/Rejoin Host Remediation Action remediation
+keywords:
+- Endpoint Security & Management

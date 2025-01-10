@@ -1,0 +1,1 @@
+The Tesla Schedule Software Update is an automated component that manages scheduling software updates through vendor systems via HTTP protocols. Designed for Tesla vehicles, it ensures timely and effective software maintenance, enhancing vehicle performance and user experience without manual intervention required.

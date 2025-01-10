@@ -1,0 +1,1 @@
+The Tesla component provides automation capabilities particularly with Tesla vehicles, focusing on tasks such as stopping vehicle charging and securing the vehicle. This solution is built within a vendor-managed ecosystem, ensuring secure and efficient interactions through HTTP requests directly to Tesla's APIs.

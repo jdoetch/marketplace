@@ -1,0 +1,1 @@
+This component provides a flexible way to search Jira issues. It begins by determining whether to use a provided JQL query or to build a JQL query from a search phrase and project key. Based on user input, it updates internal variables with the appropriate JQL. It then executes a search using the assembled or provided JQL and returns the resulting issues and total count.

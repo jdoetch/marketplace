@@ -1,0 +1,1 @@
+Spamhaus - Query IPs integrates with the Spamhaus API to perform automated queries of IP addresses, facilitating real-time security assessments and monitoring. The component handles all necessary steps including authentication, data retrieval, and response processing, designed for ease and efficiency in identifying potentially harmful IP addresses.

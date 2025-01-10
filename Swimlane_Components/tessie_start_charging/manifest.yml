@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_start_charging
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Start Tesla Charging
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Start Charging
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Start Charging remediation
+keywords:
+- Miscellaneous
+- Community Content

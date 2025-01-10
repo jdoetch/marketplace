@@ -1,0 +1,1 @@
+Use the component to initiate a RTR Session with the input of a host_id, to a CrowdStrike Endpoint, and run the RTR command PS.  This will return the processes list as stdout text.

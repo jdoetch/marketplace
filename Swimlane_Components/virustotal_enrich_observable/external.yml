@@ -1,0 +1,15 @@
+"integration_features":
+  "Comprehensive Threat Analysis": "Enables in-depth analysis of files, URLs, and\
+    \ other observables for enhanced threat detection."
+  "Customizable Analysis Parameters": "Offers a range of configurable options for\
+    \ file analysis, including sandbox interaction and TLS interception."
+  "Extensive File Analysis": "Supports the analysis of private files, including large\
+    \ file uploads and interactive sandbox testing."
+  "Private Data Handling": "Provides mechanisms for managing private file reports\
+    \ and submissions, ensuring data privacy and control."
+  "Secure Integration": "Utilizes API Key Authentication for secure communication\
+    \ with the VirusTotal service."
+  "Streamlined Incident Response": "Facilitates rapid response to potential threats\
+    \ by automating the retrieval and analysis of security data."
+  "URL and File Reanalysis": "Allows for the reanalysis of URLs and files to keep\
+    \ threat intelligence up-to-date."

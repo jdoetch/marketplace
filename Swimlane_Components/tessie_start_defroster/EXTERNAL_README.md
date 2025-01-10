@@ -1,0 +1,2 @@
+The Tesla_Start_Defroster component provides an automation capability to trigger the defrost system in Tesla vehicles effectively using the Swinlane platform. By incorporating HTTP and transformation steps, it ensures that Tesla owners can initiate defrosting remotely, offering heightened convenience and operational integrity. The integration with Tesla's API plays a pivotal role in enabling this feature.
+

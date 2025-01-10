@@ -1,0 +1,1 @@
+The "Symantec DLP - Get Static Incident Details" component is an automation tool designed to interface with Symantec's Data Loss Prevention software to fetch and process static details of reported incidents. By automating the retrieval of incident specifics, this component aids organizations in enhancing their security measures and response times.

@@ -1,0 +1,18 @@
+vendor: Fortinet
+name: fortinet_lacework_forticnapp_close_alert
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Lacework FortiCNAPP Cloud Security Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Fortinet Lacework FortiCNAPP Close Alert
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Fortinet Lacework FortiCNAPP Close Alert ingestion
+keywords:
+- Cloud Services & Security
+- Community Content

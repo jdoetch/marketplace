@@ -1,0 +1,1 @@
+Wildfire - Enrich Observable is a component that streamlines observable enrichment by integrating with Palo Alto Networks’ Wildfire technology to automate the submission and analysis of data. This enables rapid threat detection and response by quickly enriching the information security teams need to act upon.

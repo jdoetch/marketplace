@@ -1,0 +1,1 @@
+The Tesla_Close_Charge_Port component enables automated closing of Tesla vehicle charge ports, utilizing direct API calls to ensure the port is securely shut after charging. This interaction advances automated vehicle management and security, providing a practical application of integration between vehicle systems and automation platforms.

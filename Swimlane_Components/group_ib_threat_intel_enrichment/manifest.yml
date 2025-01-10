@@ -1,0 +1,18 @@
+vendor: Group-IB
+name: group_ib_threat_intel_enrichment
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Group-IB Threat Intel Enrichment
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Group-IB Threat Intel Enrichment
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Group-IB Threat Intel Enrichment enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

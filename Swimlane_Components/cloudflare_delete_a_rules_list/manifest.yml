@@ -1,0 +1,18 @@
+vendor: Cloudflare
+name: cloudflare_delete_a_rules_list
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Cloudflare Remediation Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Cloudflare Delete a Rules List
+version: 0.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Cloudflare Delete a Rules List remediation
+keywords:
+  - Network Security & Management
+  - Community Content

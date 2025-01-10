@@ -1,0 +1,19 @@
+vendor: Palo Alto Networks
+name: palo_alto_networks_cortex_terminate_globalprotect_connections
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Terminates GlobalProtect Connections
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Palo Alto Networks Cortex - Terminate GlobalProtect Connections
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Palo Alto Networks Cortex - Terminate GlobalProtect Connections
+  remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

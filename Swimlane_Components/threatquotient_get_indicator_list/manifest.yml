@@ -1,0 +1,18 @@
+vendor: ThreatQuotient
+name: threatquotient_get_indicator_list
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: ThreatQ Get Indicator List Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: ThreatQuotient Get Indicator LIst
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: ThreatQuotient Get Indicator LIst enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

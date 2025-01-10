@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_graph_api_ingest_emails_with_attachments
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Graph API - Ingest Emails with Attachments
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Graph API Ingest Emails with Attachments
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft Graph API Ingest Emails with Attachments ingestion
+keywords:
+- Email & Email Security
+- Community Content

@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Threat Mitigation": "Executes mitigation actions, such as quarantine or termination, directly within \
+  SentinelOne to address identified threats."
+  "Summary Generation for Display": "Generates a concise string summary of mitigation actions, providing clear and \
+  actionable records for workflows and dashboards."
+  "Error Handling and Feedback": "Captures and logs errors during mitigation attempts, offering transparency and \
+  actionable insights for improving response strategies."
+  "Seamless Workflow Integration": "Integrates with Swimlane workflows to automate and enhance threat management within\
+  the security operations ecosystem."

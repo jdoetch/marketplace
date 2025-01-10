@@ -1,0 +1,1 @@
+Censys ASM - Get Tags for a Web Entity simplifies the process of applying security tags to web entities, enhancing threat identification and mitigation. It leverages transformation actions to convert error information into meaningful security insights, efficiently operating within Censys's renowned security infrastructure framework.

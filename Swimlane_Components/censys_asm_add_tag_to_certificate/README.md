@@ -1,0 +1,1 @@
+The "Censys ASM - Add Tag to a Certificate" component is designed to facilitate the secure and efficient tagging of certificates within the Censys ASM system. This automation tool helps reduce manual error and enhances efficiency by handling the tagging process through predefined actions and responses, thereby maintaining consistency and reliability in certificate management.

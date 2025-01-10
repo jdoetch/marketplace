@@ -1,0 +1,1 @@
+API Void - IP Reputation, provided by the vendor API Void, serves as a critical component for identifying potentially malicious IPs engaged in spam, attacks, or fraud. Using HTTP RESTful API calls, this component integrates seamlessly into security operations, offering real-time IP reputation assessments essential for maintaining network security.

@@ -1,0 +1,1 @@
+The Cloudflare - Delete Account component automates the deletion of Cloudflare accounts. Designed for secure and efficient management, this component is essential in environments where compliance or automated account lifecycle management is crucial.

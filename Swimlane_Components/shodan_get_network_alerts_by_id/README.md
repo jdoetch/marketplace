@@ -1,0 +1,1 @@
+The "Shodan - Get Network Alerts by ID" component is designed for retrieving and enriching network security alerts by specific identifiers using Shodan, a major vendor in the cybersecurity realm. This component is pivotal in enhancing security automation, allowing for consistent and detailed alert management across platforms.

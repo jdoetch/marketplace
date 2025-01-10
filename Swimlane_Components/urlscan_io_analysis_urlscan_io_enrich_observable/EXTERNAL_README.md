@@ -1,0 +1,1 @@
+This urlscan.io Enrich component takes observables (URL, domains & IP), submits them to urlscan.io, and returns them in Swimlane's Turbine Extendable Data Schema. This common data model allows security practitioners to standardize data across many security tools for common security events, enrichments and remediations in Swimlane's Turbine platform.

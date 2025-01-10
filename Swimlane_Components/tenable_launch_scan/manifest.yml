@@ -1,0 +1,18 @@
+vendor: Tenable
+name: tenable_launch_scan
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Tenable Launch Scan Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tenable Launch Scan
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Tenable Launch Scan ingestion
+keywords:
+- Vulnerability & Patch Management
+- Community Content

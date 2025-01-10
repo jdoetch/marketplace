@@ -1,0 +1,18 @@
+vendor: Recorded Future
+name: recorded_future_recorded_future_sandbox_enrichment_vic
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ''
+description: Recorded Future Sandbox Enrich Observable VIC
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Recorded Future Recorded Future Sandbox Enrichment (VIC)
+version: 1.1.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Recorded Future Recorded Future Sandbox Enrichment (VIC) enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

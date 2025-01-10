@@ -1,0 +1,18 @@
+vendor: Freshdesk
+name: freshdesk_get_tickets_for_company
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Get Tickets for Company from Freshdesk
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Freshdesk Get Tickets for Company
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Freshdesk Get Tickets for Company ingestion
+keywords:
+- Case & Ticket Management
+- Community Content

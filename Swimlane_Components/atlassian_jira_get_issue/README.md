@@ -1,0 +1,2 @@
+This component streamlines the process of retrieving issue details from Jira by simply providing the issue key. Designed for quick and efficient workflows, it delivers detailed issue information, including the issue key and field values, enabling seamless integration and effective task management within your processes.
+

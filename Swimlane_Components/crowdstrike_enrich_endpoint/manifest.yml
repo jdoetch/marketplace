@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_enrich_endpoint
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Enrich Endpoint
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Enrich Endpoint
+version: 1.0.2
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Enrich Endpoint enrichment
+keywords:
+- Endpoint Security & Management
+- Community Content

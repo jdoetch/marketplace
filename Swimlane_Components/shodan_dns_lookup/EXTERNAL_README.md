@@ -1,0 +1,1 @@
+The **Shodan - DNS Lookup** component leverages Shodan's extensive cybersecurity database to automate and enhance DNS resolution processes. This integration is pivotal for organizations aiming to bolster their security posture and network efficiency, providing enriched DNS data that supports improved threat detection and IT operations management.

@@ -1,0 +1,1 @@
+The "Symantec DLP - Get Incident Message Body" component serves as a strategic automation tool in Symantec's data loss prevention suite, enabling quick retrieval of incident-related message bodies. This capability ensures that security teams have the necessary data to analyze and respond to threats efficiently, supporting overall security management and incident resolution.

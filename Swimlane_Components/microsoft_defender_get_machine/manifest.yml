@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_defender_get_machine
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: 'Microsoft Defender Ingestion Component'
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Defender - Get Machine
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft Defender - Get Machine ingestion
+keywords:
+  - Endpoint Security & Management
+  - Community Content

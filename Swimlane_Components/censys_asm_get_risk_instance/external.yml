@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_data_retrieval": "Automatically fetches risk-related data from Censys, reducing manual effort.,"
+  "Error_enrichment": "Enhances error data with additional insights, improving issue analysis and resolution.,"
+  "Streamlined_integration": "Ready to use with existing security operations, enabling faster and seamless data integration."

@@ -1,0 +1,1 @@
+The "Tenable - Create Scan" component automates the scanning process in security management workflows by leveraging Tenable.io, a leading security platform. This component allows users to configure, initiate, and manage security scans seamlessly, enhancing the operational efficiency and responsiveness of security teams.

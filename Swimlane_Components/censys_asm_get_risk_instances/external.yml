@@ -1,0 +1,5 @@
+"integration_features":
+  "Secure_fetch": "Enables secure and verified access to risk instance data from Censys."
+  "Data_transformation": "Offers data shaping capabilities to align the security data with organizational structures."
+  "Error_handling": "Incorporates robust error management to handle data fetching issues seamlessly."
+  "Automation_enhancement": "Facilitates automation of data retrieval, elevating security workflow efficiency."

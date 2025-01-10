@@ -1,0 +1,1 @@
+The "Shodan - Get API Usage" component is designed for seamless Shodan API interaction, enabling users to efficiently fetch and manage their API usage statistics. This component is integral to cybersecurity automation frameworks, making it a valuable tool for monitoring and optimizing API utilization in real-time.

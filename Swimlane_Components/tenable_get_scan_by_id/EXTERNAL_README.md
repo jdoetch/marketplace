@@ -1,0 +1,1 @@
+This component enables security teams to efficiently retrieve detailed information about specific vulnerability scans from Tenable.io. By automating the process of fetching scan details using a unique Scan ID, it streamlines vulnerability management and facilitates informed decision-making for security operations.

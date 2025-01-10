@@ -1,0 +1,17 @@
+vendor: CrowdStrike Falcon
+name: crowdstrike_falcon_get_incidents
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Ingests Incidents into Turbine in Swimlane's Turbine Extendable Data
+  Schema.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Falcon Get Incidents
+version: 1.0.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Falcon Get Incidents ingestion
+keywords:
+- Endpoint Security & Management

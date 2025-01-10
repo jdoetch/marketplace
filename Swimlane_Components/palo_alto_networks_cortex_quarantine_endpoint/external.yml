@@ -1,0 +1,5 @@
+"integration_features":
+  "Endpoint_quarantine": "Ability to isolate endpoints rapidly in response to threats."
+  "Automatic_updates": "Automatic status updates enhance visibility and traceability of actions."
+  "Integration_with_cortex": "Utilizes Palo Alto Cortex for robust security orchestration."
+  "Error_handling": "Advanced error handling mechanisms to manage failures effectively."

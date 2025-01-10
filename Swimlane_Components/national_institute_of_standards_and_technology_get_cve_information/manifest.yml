@@ -1,0 +1,20 @@
+vendor: National Institute of Standards and Technology
+name: national_institute_of_standards_and_technology_get_cve_information
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: NIST Vulnerability Data Integration.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: National Institute of Standards and Technology Get CVE information
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: National Institute of Standards and Technology Get CVE information
+  enrichment
+keywords:
+- Miscellaneous
+- Vulnerability & Patch Management
+- Community Content

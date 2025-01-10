@@ -1,0 +1,4 @@
+"integration_features":
+  "File_alert_automation": "Automates the process of fetching and managing file-related alerts from Microsoft Defender"
+  "Enhanced_error_handling": "Incorporates advanced error-handling to improve reliability and efficiency"
+  "Data_transformation": "Transforms gathered data into a more actionable format, facilitating better decision making"

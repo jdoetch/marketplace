@@ -1,0 +1,1 @@
+The ThreatQuotient - Get Indicator List component is designed to integrate with the ThreatQuotient platform, allowing users to retrieve lists of security indicators for enhanced threat intelligence operations. The component leverages the ThreatQuotient API, ensuring seamless data acquisition to support cybersecurity teams in their ongoing monitoring and response tasks.

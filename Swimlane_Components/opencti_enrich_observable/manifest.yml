@@ -1,0 +1,18 @@
+vendor: OpenCTI
+name: opencti_enrich_observable
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: OpenCTI Enrich Observable
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Open CTI Enrich Observable
+version: 1.1.1
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Open CTI Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

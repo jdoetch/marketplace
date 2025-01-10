@@ -1,0 +1,17 @@
+"integration_features":
+  "Automated Search Management":
+    "Retrieve and manage Splunk saved searches directly\
+    \ within Swimlane Turbine, enhancing the efficiency of security operations."
+  "Enhanced Incident Response":
+    "Utilize Splunk search results to enrich and respond\
+    \ to incidents within Swimlane Turbine, streamlining the incident response lifecycle."
+  "Seamless Integration":
+    "Integrate Splunk's powerful search capabilities with Swimlane\
+    \ Turbine's automation workflows without the need for complex coding, making it\
+    \ accessible for security practitioners of all skill levels."
+  "Standardized Data Mapping":
+    "Leverage the transformation of Splunk data to Swimlane's\
+    \ Turbine Extendable Data Schema for consistent data representation across security tools."
+  "Streamlined Data Ingestion":
+    "Simplify the process of ingesting Splunk saved searches\
+    \ into Swimlane Turbine, enabling rapid analysis and response."

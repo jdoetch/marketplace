@@ -1,0 +1,1 @@
+This Swimlane component automates the ingestion of security advisories from GitHub repositories and transforms them into actionable TEDS alert objects to interface with Swimlane’s SOC Solution. It ensures timely and seamless integration of GitHub's vulnerability insights, enabling enhanced threat monitoring and response.

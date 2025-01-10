@@ -1,0 +1,5 @@
+"integration_features":
+  "Automates Data Retrieval": "Seamlessly fetches and processes risk events from Censys, enhancing threat detection."
+  "Integrates with Swimlane": "Optimized for use within the Swimlane ecosystem, ensuring smooth workflows."
+  "Error Handling Capabilities": "Robust error management tools that ensure data integrity and system resilience."
+  "Data Transformation": "Converts raw risk event data into structured, actionable formats."

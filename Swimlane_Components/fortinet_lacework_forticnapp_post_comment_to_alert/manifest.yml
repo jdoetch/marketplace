@@ -1,0 +1,18 @@
+vendor: Fortinet
+name: fortinet_lacework_forticnapp_post_comment_to_alert
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Lacework FortiCNAPP Cloud Security Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Fortinet Lacework FortiCNAPP Post Comment to Alert
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Fortinet Lacework FortiCNAPP Post Comment to Alert remediation
+keywords:
+- Cloud Services & Security
+- Community Content

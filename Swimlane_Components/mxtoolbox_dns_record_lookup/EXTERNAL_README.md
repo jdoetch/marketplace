@@ -1,0 +1,1 @@
+The MxToolbox - DNS Record Lookup is an automation-oriented tool, aimed at simplifying DNS record verifications and network diagnostics. Developed by Morpheus Swimlane, this component automates the process of DNS lookups, enriches the error data for better analysis, and handles different operational states, ensuring high reliability and efficiency in network management tasks.

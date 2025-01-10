@@ -1,0 +1,6 @@
+"integration_features":
+  "Vulnerability Retrieval": "Enables the retrieval of detailed vulnerability information for hosts associated with specific incidents."
+  "Automated Incident Response": "Automates the process of fetching and compiling vulnerability data, enhancing incident response efficiency."
+  "Reliable Error Handling": "Ensures reliable detection and recording of errors to maintain the integrity of vulnerability management processes."
+  "Enhanced Security Operations": "Facilitates enhanced security operations by efficiently managing vulnerability data retrieval within the CrowdStrike Falcon ecosystem."
+  "Seamless CrowdStrike Integration": "Integrates seamlessly with CrowdStrike Falcon Spotlight, leveraging its API for effective vulnerability management."

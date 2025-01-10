@@ -1,0 +1,1 @@
+The "API Void - DNS Propagation" component is designed for DNS status verification and insight gathering across different geographies by interacting with API Void services. This integration allows organizations to ensure the accuracy and timeliness of DNS propagations which is critical for maintaining reliable network configurations.

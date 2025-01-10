@@ -1,0 +1,4 @@
+"integration_features":
+  "Efficiency": "Enables quick retrieval of asset data using IP or hostname, integrating seamlessly with existing tools."
+  "Security": "Enhances cybersecurity by utilizing Tenable's robust vulnerability management platform to assess asset vulnerabilities."
+  "Automation": "Supports automated asset data fetching, reducing manual effort and speeding up security analysis."

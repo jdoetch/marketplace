@@ -1,0 +1,17 @@
+vendor: MxToolBox
+name: mxtoolbox_perform_icmp_traceroute
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MxToolBox Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: MxToolBox Perform ICMP Traceroute
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: MxToolBox Perform ICMP Traceroute enrichment
+keywords:
+  - Community Content

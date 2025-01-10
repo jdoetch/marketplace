@@ -1,0 +1,1 @@
+This component streamlines email ingestion from the Graph API by processing emails and extracting all attachments, then converting the data into TEDS format. It includes an option to mark emails as read when the appropriate parameter is provided. Designed for seamless plug-and-play integration with SOC Solution, it enhances efficiency and adaptability within your workflows.

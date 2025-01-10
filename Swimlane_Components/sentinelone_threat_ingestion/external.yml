@@ -1,0 +1,15 @@
+"integration_features":
+  "Automated Threat Response": "Leverage the component to automate the ingestion of\
+    \ SentinelOne Threats, streamlining the analysis, enrichment, and response\
+    \ processes within the Swimlane Turbine platform."
+  "Detailed Threat Insights": "Obtain comprehensive summaries of threats to gain\
+    \ deeper insights into the nature and scope of threats, facilitating more informed\
+    \ decision-making."
+  "Enhanced Security Posture": "By automating the ingestion and standardization of\
+    \ threats data, security teams can respond more rapidly and effectively to incidents,\
+    \ improving the organization's overall security posture."
+  "Standardized Data Integration": "The component's use of Swimlane's Turbine Extendable Data Schema\
+    \ ensures that data from SentinelOne is standardized, making it easier\
+    \ to integrate and correlate with other security tools and data sources."
+  "Streamlined Detection Management": "Quickly access and manage threats IDs, enabling\
+    \ faster identification and tracking of potential threats."

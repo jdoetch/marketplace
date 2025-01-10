@@ -1,0 +1,9 @@
+"integration_features":
+  "Efficient Verdict Addition": "Allows analysts to add a verdict to SentinelOne threats, ensuring proper documentation\
+  and enhanced threat assessment."
+  "Contextual Threat Documentation": "Associates analyst verdicts with threat records to provide enriched context for\
+  investigations and decision-making."
+  "Customizable Summary Output": "Generates a concise summary string reflecting the analyst's verdict, designed for\
+  display in records."
+  "Seamless Workflow Integration": "Integrates verdicts into downstream automation processes, enabling containment\
+  actions or stakeholder alerts based on the assessment."

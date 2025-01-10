@@ -1,0 +1,1 @@
+The "Criminal IP - Get Website Classification Report" by Swimlane is designed to provide detailed analysis and classification of websites based on security data. This component processes raw error information, enriches it with additional data like timestamps and classifications, and outputs a comprehensive report, thereby aiding in fast and accurate security assessments.

@@ -1,0 +1,1 @@
+The "Shodan - List of Available Notification Providers" component is an automation tool that enables organizations to identify and review all notification services available via Shodan. This component simplifies the process of selecting appropriate notification providers by delivering a comprehensive list formatted for easy integration into existing systems.

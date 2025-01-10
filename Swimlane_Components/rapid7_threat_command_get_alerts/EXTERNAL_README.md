@@ -1,0 +1,1 @@
+The "Rapid7 Threat Command - Get Alerts" component serves as an automated integration tool designed to fetch alerts from the security platform Rapid7 Threat Command. This component enhances the functionality provided by the vendor, facilitating real-time threat monitoring and rapid response capabilities within security operation settings.

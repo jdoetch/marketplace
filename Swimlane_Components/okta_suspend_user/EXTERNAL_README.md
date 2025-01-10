@@ -1,0 +1,1 @@
+The "Okta - Suspend User" component is designed to automate the suspension of user accounts in the Okta platform, enhancing security measures and compliance by promptly disabling access when necessary. This component uses Okta's API to perform actions selectively based on the parameters set within the organizational policies.

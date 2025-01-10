@@ -1,0 +1,1 @@
+The "Censys - Search Host" component is a crucial tool for security operations, designed to facilitate comprehensive host searches by leveraging the expansive Censys database. This integration not only aids in identifying vulnerabilities but also enhances the overall security posture by enabling proactive management of network security.

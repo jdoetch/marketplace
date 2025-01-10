@@ -1,0 +1,18 @@
+vendor: Staffbase
+name: staffbase_delete_contact
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Staffbase Delete Contact
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Staffbase Delete Contact
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Staffbase Delete Contact ingestion
+keywords:
+- Identity & Access Management
+- Community Content

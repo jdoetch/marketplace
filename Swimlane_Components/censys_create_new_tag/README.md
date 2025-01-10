@@ -1,0 +1,1 @@
+The "Censys - Create New Tag" component is a vital part of the Censys security platform, designed to automate and facilitate the tagging of new entities identified during asset scans. This automation helps streamline the categorization and management of assets, enhancing overall security posture management.

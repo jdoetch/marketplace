@@ -1,0 +1,1 @@
+The Tesla_Cancel_Software_Update is a highly efficient automation component designed for precise interaction with Tesla’s APIs to cancel ongoing software updates. This ensures secure, controlled, and user-specified management of software installations, enhancing the reliability and performance of Tesla vehicles.

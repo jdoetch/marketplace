@@ -1,0 +1,1 @@
+This component enables the addition of threat notes to a SentinelOne threat, providing enhanced context and documentation. It outputs a summary string that can be easily displayed in records, ensuring seamless integration and improved threat tracking within your workflows.

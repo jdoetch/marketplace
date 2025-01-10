@@ -1,0 +1,1 @@
+The MS Defender - Get Alert IPs component provides a structured and automated way to retrieve IP-related alerts from Microsoft Defender. This component is crucial for security operations, allowing rapid identification and response to threats by accessing and analyzing alert-related IP addresses from Microsoft Defender efficiently.

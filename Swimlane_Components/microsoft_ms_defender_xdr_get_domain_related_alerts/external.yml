@@ -1,0 +1,6 @@
+"integration_features":
+  "Automated_alert_management": "Enables automated fetching and processing of domain-specific alerts from Microsoft Defender."
+  "Enhanced_security_response": "Improves security response times through streamlined alert management."
+  "Domain_specific_configuration": "Allows for detailed settings and configurations specific to certain domains, enhancing targeted security actions."
+  "Reduced_response_times": "Minimizes the time to respond to alerts by automating the process, enabling quicker mitigation and preventing possible breaches."
+  "Vendor_support": "Supported by Swimlane, ensuring reliability and continuous improvements in security automation."

@@ -1,0 +1,19 @@
+vendor: Microsoft
+name: microsoft_ms_graph_get_identity_directory_device
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MS Graph - Get Identity Directory Device
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft MS Graph - Get Identity Directory Device
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Microsoft MS Graph - Get Identity Directory Device enrichment
+keywords:
+- Identity & Access Management
+- Infrastructure & IT Services
+- Community Content

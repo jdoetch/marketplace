@@ -1,0 +1,2 @@
+The Microsoft Defender - Get Domain Seen Organization (be43d137-3b9a-41bf-ae89-6fd897ea41a0) is a crucial cybersecurity component designed to integrate with Microsoft Defender. It helps organizations by fetching and analyzing domain-related data, thereby identifying domains seen within an organization's network, assessing their reputations, and enabling enhanced security measures based on this analysis.
+

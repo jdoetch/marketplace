@@ -1,0 +1,1 @@
+The component accept an input as CVE, AV, CPW, or CWE ID/string, retrieve CVE information associated with the ID/string from NVD.

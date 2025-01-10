@@ -1,0 +1,1 @@
+`Censys ASM - Get a Seed by ID` is a component designed for efficient retrieval and error management of seeds identified by a unique ID in Censys' Asset Management and Security (ASM) framework. This component streamlines operations by enhancing error handling capabilities, thus improving the overall security protocol and system reliability.

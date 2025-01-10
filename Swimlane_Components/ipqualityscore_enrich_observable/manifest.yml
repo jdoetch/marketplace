@@ -1,0 +1,17 @@
+vendor: IPQualityScore
+name: ipqualityscore_enrich_observable
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Enriches observables using reputation information from IPQualityScore,
+  outputs Swimlane's Turbine Extendable Data Schema
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: IPQuality Score Enrich Observable
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: IPQuality Score Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

@@ -1,0 +1,1 @@
+The "Symantec DLP - Get Policy Matches" component is designed for integration with Symantec's Data Loss Prevention software, facilitating the retrieval of policy matches related to specific incidents. This ensures enhanced data security and compliance through meticulous monitoring and analysis.

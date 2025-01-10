@@ -1,0 +1,18 @@
+vendor: Censys
+name: censys_remove_tag_from_certificate
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Censys Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Censys Remove Tag from Certificate
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Censys Remove Tag from Certificate enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

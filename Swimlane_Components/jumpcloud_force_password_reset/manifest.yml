@@ -1,0 +1,18 @@
+vendor: JumpCloud
+name: jumpcloud_force_password_reset
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: JumpCloud - Force Password Reset
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: JumpCloud Force Password Reset
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: JumpCloud Force Password Reset remediation
+keywords:
+- Identity & Access Management
+- Community Content

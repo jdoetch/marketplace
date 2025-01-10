@@ -1,0 +1,1 @@
+The "Criminal IP - Initiate Domain Scan Lite" component automates the domain scanning process using the Criminal IP API. This component supports sending domain scan requests and managing responses, streamlining the workflow in security operations for better handling and response strategies in data enrichment related processes.

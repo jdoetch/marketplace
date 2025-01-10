@@ -1,0 +1,9 @@
+"integration_features":
+  "Email Ingestion Automation": "Streamline email ingestion from the Graph API by processing \
+    emails and extracting all attachments for further analysis."
+  "Data Conversion to TEDS": "Automatically convert extracted email data and attachments \
+    into TEDS format for standardized handling."
+  "Read Status Management": "Provide the option to mark emails as read when a specific \
+    parameter is included, enhancing workflow control."
+  "Seamless Plug-and-Play Integration": "Easily integrate with SOC Solution for efficient \
+    and adaptable email processing within workflows."

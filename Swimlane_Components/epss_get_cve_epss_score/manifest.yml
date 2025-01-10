@@ -1,0 +1,18 @@
+vendor: EPSS
+name: epss_get_cve_epss_score
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: EPSS - Get CVE EPSS Score
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: EPSS Get CVE EPSS Score
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: EPSS Get CVE EPSS Score enrichment
+keywords:
+- Vulnerability & Patch Management
+- Community Content

@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_set_charge_amps
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Set Tesla Charge Amp Limit
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Set Charge Amps
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Set Charge Amps remediation
+keywords:
+- Miscellaneous
+- Community Content

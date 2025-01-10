@@ -1,0 +1,1 @@
+MS Defender - Get Alert Machine Information is a component developed to interface seamlessly with Microsoft Defender and automate the retrieval of information about machines tied to security alerts. This component, pivotal for enhancing security response capabilities, leverages Microsoft Defender's robust API to facilitate real-time security operations and data acquisition.

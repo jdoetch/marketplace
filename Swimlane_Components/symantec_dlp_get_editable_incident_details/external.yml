@@ -1,0 +1,4 @@
+"integration_features":
+  "Secure_api_connections": "Enables secure fetching of incident details through SSL verified connections."
+  "Editable_incident_retrieval": "Allows for direct editing and updating of incident data within Symantec DLP."
+  "Efficiency_improvement": "Reduces response time by facilitating quick access to incident details."

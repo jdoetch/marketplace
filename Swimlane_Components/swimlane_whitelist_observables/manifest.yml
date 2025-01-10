@@ -1,0 +1,18 @@
+vendor: Swimlane
+name: swimlane_whitelist_observables
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Add Observables to Whitelist
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Swimlane Whitelist Observables
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Swimlane Whitelist Observables remediation
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

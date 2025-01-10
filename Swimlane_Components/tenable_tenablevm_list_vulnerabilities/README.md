@@ -1,0 +1,1 @@
+Tenable - List Vulnerabilities is a component tailored for users needing to integrate and automate vulnerability detection using data from Tenable, a recognized leader in cybersecurity. This component streamlines extracting and listing potential security vulnerabilities in network assets, enhancing an organization's awareness and responsiveness to cyber threats.

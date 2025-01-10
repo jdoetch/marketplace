@@ -1,0 +1,19 @@
+vendor: CrowdStrike
+name: crowdstrike_get_contents_of_prefetch_folder_on_remote_machine
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Get Contents of Prefetch Folder on Remote Machine
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Get Contents of Prefetch Folder on Remote Machine
+version: 1.0.3
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Get Contents of Prefetch Folder on Remote Machine
+  enrichment
+keywords:
+- Endpoint Security & Management
+- Community Content

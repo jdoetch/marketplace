@@ -1,0 +1,18 @@
+vendor: Tenable
+name: tenable_get_policy_list
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Tenable VM - Get Policy List
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tenable Get Policy List
+version: 1.1.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Tenable Get Policy List ingestion
+keywords:
+- Vulnerability & Patch Management
+- Community Content

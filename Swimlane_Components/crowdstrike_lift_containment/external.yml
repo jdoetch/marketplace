@@ -1,0 +1,6 @@
+"integration_features":
+  "Containment Management": "Efficiently remove containment status from endpoints to restore normal operations."
+  "Status Verification": "Automatically verify the updated containment status to ensure successful execution."
+  "Error Handling": "Robust mechanisms to handle and record errors during the containment lifting process."
+  "Automation Integration": "Seamlessly integrates with CrowdStrike Falcon to automate security response actions."
+  "Operational Efficiency": "Streamlines endpoint management tasks, reducing manual intervention and enhancing response times."

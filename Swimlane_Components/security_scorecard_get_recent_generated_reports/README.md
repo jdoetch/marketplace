@@ -1,0 +1,1 @@
+The SSC - Get Recent Generated Reports component automates the retrieval and processing of recent cybersecurity reports from SecurityScorecard. This component is designed to facilitate the monitoring and analysis of security data by fetching reports, normalizing potential errors, and enriching data for enhanced utility and insight.

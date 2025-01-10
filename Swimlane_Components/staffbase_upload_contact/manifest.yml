@@ -1,0 +1,18 @@
+vendor: Staffbase
+name: staffbase_upload_contact
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Staffbase - Upload Contact
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Staffbase Upload Contact
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Staffbase Upload Contact ingestion
+keywords:
+- Identity & Access Management
+- Community Content

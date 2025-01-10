@@ -1,0 +1,17 @@
+"integration_features":
+  "File Upload Automation":
+    "Automates the process of uploading files or scripts to endpoints,
+    streamlining deployment tasks."
+  "Enhanced Security Operations":
+    "Supports security operations by enabling the execution of custom scripts on
+    endpoints for threat mitigation."
+  "Automated Error Handling":
+    "Ensures reliable operations through comprehensive error handling and
+    reporting mechanisms."
+  "Seamless Crowd Strike Integration":
+    "Integrates seamlessly with CrowdStrike Falcon, leveraging its Real-Time
+    Response capabilities for effective endpoint management."
+  "Improved Incident Response":
+    "Facilitates quick incident response by allowing the deployment and execution
+    of necessary tools and scripts on affected endpoints."
+"short_description": null

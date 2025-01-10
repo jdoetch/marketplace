@@ -1,0 +1,18 @@
+vendor: SentinelOne
+name: sentinelone_mitigate_threat
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: SentinelOne - Mitigate Threat
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: SentinelOne Mitigate Threat
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: SentinelOne Mitigate Threat remediation
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

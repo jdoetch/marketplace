@@ -1,0 +1,1 @@
+The "Censys - Add Tag to Host" component provides an automated solution to append tags to hosts within the Censys database, improving accuracy in security assessments and facilitating organized data management. By utilizing this component, users can enhance their operational workflows on the Censys platform through efficient tagging.

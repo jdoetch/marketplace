@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Failure Detection": "Retrieves failed playbook runs and their associated jobs using Personal Access Tokens\
+  (PATs) for streamlined error management."
+  "Error Summarization and Customization": "Consolidates errors into a concise summary and allows straightforward\
+  customization of message formatting to suit operational needs."
+  "Integrated Notification System": "Leverages the Microsoft Graph API by default to send email notifications, ensuring\
+  immediate awareness of playbook failures."
+  "Extensible Platform Compatibility": "Easily integrates with additional platforms like Gmail, Slack, or Microsoft\
+  Teams, offering flexibility in communication channels."

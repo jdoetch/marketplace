@@ -1,0 +1,18 @@
+vendor: JumpCloud
+name: jumpcloud_unlock_user_account
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: JumpCloud - Unlock User Account
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: JumpCloud Unlock User Account
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: JumpCloud Unlock User Account remediation
+keywords:
+- Identity & Access Management
+- Community Content

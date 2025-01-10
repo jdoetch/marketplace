@@ -1,0 +1,1 @@
+Securonix SNYPR - Get Top Threats enables automated, real-time threat detection by retrieving significant threat data from the Securonix SNYPR platform. This component smoothens the integration and leveraging of advanced SIEM capabilities of Securonix, facilitating robust and up-to-date security operations for organizations.

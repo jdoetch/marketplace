@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated Comment Retrieval": "Enables the automated extraction of comments related to specified web entities, reducing manual effort and increasing efficiency."
+  "Error Data Management": "Transforms and enriches error data linked to web entities, improving clarity and actionable insights."
+  "Robust Data Transformation": "Uses JSONata transformations to ensure accurate and useful formatting of collected data."
+  "High Compatibility": "Optimized for dark themes and high-contrast environments, ensuring accessibility across different user preferences."

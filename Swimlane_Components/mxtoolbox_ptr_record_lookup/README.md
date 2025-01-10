@@ -1,0 +1,1 @@
+The MxToolbox - PTR Record Lookup component automates the process of looking up PTR records, a critical task in network security and administration for verifying server IP addresses and their associated hostnames. This documentation outlines the steps, actions involved, and the technological context provided by vendor integrations to ensure effective and secure DNS lookups.

@@ -1,0 +1,1 @@
+The SSC - Create a Scorecard Tag component systematically generates and manages tags within the Security Scorecard ecosystem, providing an automated solution to enhance the operational efficiency of security assessments and metric management. This involves a series of actions that interface with the Security Scorecard API to ensure precise and timely creation of tags.

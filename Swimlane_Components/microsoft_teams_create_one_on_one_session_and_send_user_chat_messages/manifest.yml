@@ -1,0 +1,20 @@
+vendor: Microsoft
+name: microsoft_teams_create_one_on_one_session_and_send_user_chat_messages
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Teams Collaboration Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Teams - Create One on One Session and Send User Chat Messages
+version: 0.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: >-
+  Microsoft Teams - Create One on One Session and Send User Chat Messages
+  remediation
+keywords:
+  - Communication & Collaboration
+  - Community Content

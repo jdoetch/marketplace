@@ -1,0 +1,18 @@
+vendor: Maltiverse
+name: maltiverse_lookup_ip
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Maltiverse - Lookup IP
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Maltiverse Lookup IP
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Maltiverse Lookup IP enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

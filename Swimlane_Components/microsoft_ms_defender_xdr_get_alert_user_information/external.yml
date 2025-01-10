@@ -1,0 +1,4 @@
+"integration_features":
+  "Automation": "Enables automated data retrieval from Microsoft Defender alerts."
+  "Response_speed": "Increases incident response speed by gathering user data related to alerts."
+  "Integrative_capabilities": "Seamlessly integrates with Microsoft Defender to access comprehensive alert data."

@@ -1,0 +1,18 @@
+vendor: Tenable
+name: tenable_tenablevm_list_assets_with_vulnerabilties
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: TenableVM Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tenable TenableVM - List Assets with Vulnerabilties
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Tenable TenableVM - List Assets with Vulnerabilties ingestion
+keywords:
+- Vulnerability & Patch Management
+- Community Content

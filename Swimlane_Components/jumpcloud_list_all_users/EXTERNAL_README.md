@@ -1,0 +1,1 @@
+This component streamlines the process of retrieving all Users from JumpCloud. Designed for workflows requiring comprehensive user data, it automatically handles pagination to fetch all results and outputs an array of objects. This enables seamless integration and efficient utilization of user data within your processes.

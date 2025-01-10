@@ -1,0 +1,18 @@
+vendor: TeamT5
+name: teamt5_threatsonar_ingest_alerts
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: TeamT5 ThreatSonar EDR Integration.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: TeamT5 ThreatSonar - Ingest Alerts
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: TeamT5 ThreatSonar - Ingest Alerts ingestion
+keywords:
+- Endpoint Security & Management
+- Community Content

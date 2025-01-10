@@ -1,0 +1,19 @@
+vendor: Censys ASM
+name: censys_asm_get_host_by_ip_address
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Censys ASM Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Censys ASM Get Host by IP Address
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Censys ASM Get Host by IP Address ingestion
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Governance & Risk Management
+  - Community Content

@@ -1,0 +1,1 @@
+MS Graph - Get Identity Directory Device is an automation component for fetching identity-related data from directory devices via the Microsoft Graph API. It stands out in the automation landscape for its efficiency and secure handling of sensitive data, which is critical in modern IT environments.

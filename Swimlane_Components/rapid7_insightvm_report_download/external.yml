@@ -1,0 +1,5 @@
+"integration_features":
+  "Report_automation": "Enables automated downloading of necessary security reports from Rapid7 InsightVM."
+  "Error_handling": "Built-in error handling to manage failures gracefully."
+  "Result_processing": "Processes download output for further use in security operations."
+  "Secure_operations": "Ensures high-security standards are maintained during report download."

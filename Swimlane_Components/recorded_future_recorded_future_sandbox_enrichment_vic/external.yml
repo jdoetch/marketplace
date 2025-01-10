@@ -1,0 +1,6 @@
+"integration_features":
+  "Comprehensive Threat Analysis": "Enables in-depth analysis of files and URLs,\
+  \ leveraging behavioral and static methods."
+  "Customizable Analysis Parameters": "Optionally offers a range of configurable options for file analysis like custom sandbox profiles and traffic analysis."
+  "Secure Integration": "Utilizes API Key Authentication for secure communication with the Recorded Future Sandbox service."
+  "Streamlined Incident Response": "Facilitates rapid response to potential threats by automating the retrieval and analysis of security data. Also offers analysts one-click access to the full analysis details like processes, pcaps etc."

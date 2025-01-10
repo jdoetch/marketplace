@@ -1,0 +1,18 @@
+vendor: IBM QRadar
+name: ibm_qradar_get_offenses
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: IBM QRadar Get Offenses
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: IBM QRadar Get Offenses
+version: 1.0.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: IBM QRadar Get Offenses ingestion
+keywords:
+- SIEM & Log Management
+- Community Content

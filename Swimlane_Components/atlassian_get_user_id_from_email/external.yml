@@ -1,0 +1,3 @@
+"integration_features":
+  "Efficient User Search": "Search for Jira users by email address to quickly retrieve their Jira User ID."
+  "Seamless Field Population": "Automatically populate user fields in workflows using the retrieved Jira User ID."

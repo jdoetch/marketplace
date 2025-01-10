@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_security_scanning": "Automatically initiates background scans based on user login, enhancing security response times without manual intervention."
+  "Integration": "Seamlessly integrates with the Carbon Black Cloud platform for robust security management."
+  "Real_time_monitoring_and_logs": "Ensures real-time security monitoring and detailed logging for high visibility and control."

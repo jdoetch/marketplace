@@ -1,0 +1,17 @@
+vendor: urlscan.io Analysis
+name: urlscan_io_analysis_urlscan_io_enrich_observable
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: urlscan.io Enrich Observable Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Urlscan.io Analysis urlscan.io Enrich Observable
+version: 1.1.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Urlscan.io Analysis urlscan.io Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

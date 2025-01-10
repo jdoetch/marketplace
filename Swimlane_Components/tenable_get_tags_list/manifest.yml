@@ -1,0 +1,18 @@
+vendor: Tenable
+name: tenable_get_tags_list
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Tenable VM - Get List of Tags
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tenable Get Tags List
+version: 1.1.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Tenable Get Tags List ingestion
+keywords:
+- Vulnerability & Patch Management
+- Community Content

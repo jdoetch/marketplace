@@ -1,0 +1,18 @@
+vendor: Tenable
+name: tenable_get_scanners_list
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Tenable VM - Get List of Scanners Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tenable Get Scanners List
+version: 1.1.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Tenable Get Scanners List ingestion
+keywords:
+- Vulnerability & Patch Management
+- Community Content

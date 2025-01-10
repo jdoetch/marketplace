@@ -1,0 +1,1 @@
+The "ServiceNow - Add Attachment" component is designed to automate and streamline the process of attaching files to ServiceNow records. This component, leveraging Swimlane for integration, ensures that file attachments are handled efficiently, securely, and error-free, thereby significantly optimizing workflow executions in ServiceNow environments.

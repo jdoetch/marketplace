@@ -1,0 +1,6 @@
+"integration_features":
+  "Automated Tag Management": "Enables automated tagging of hosts, improving operational efficiency."
+  "API Integration": "Direct integration with Censys ASM API to manage asset tags seamlessly."
+  "Error Handling": "Normalized and detailed error handling processes in case of API failures."
+  "Data Enrichment": "Processes and enriches data received from the API for better asset management."
+  "Scalable Solutions": "Designed to handle multiple tagging operations at scale."

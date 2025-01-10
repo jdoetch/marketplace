@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_set_and_enable_speed_limit
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Set and Enable Tesla Speed Limit Restriction
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Set and Enable Speed Limit
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Set and Enable Speed Limit remediation
+keywords:
+- Miscellaneous
+- Community Content

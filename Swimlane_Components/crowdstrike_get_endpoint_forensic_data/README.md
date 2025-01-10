@@ -1,0 +1,2 @@
+This component initializes necessary variables, extracts a host identifier, and performs a series of actions to validate the input, determine the host’s online state through CrowdStrike, establish a session for remote commands, execute commands to retrieve netstat and process lists, and finally present a consolidated set of results. If at any step an issue occurs, the component records the error details for troubleshooting.
+

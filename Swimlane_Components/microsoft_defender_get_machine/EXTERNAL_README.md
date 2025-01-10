@@ -1,0 +1,1 @@
+The Microsoft Defender - Get Machine Component (49ed9574-ab54-4807-90f6-c5f6ab7360f3) is crafted to augment security operations by automating the extraction and enhancement of machine-specific data through Microsoft Defender. It plays a crucial role in improving error management and enriching data context, aiding in the swift and effective response to network threats.

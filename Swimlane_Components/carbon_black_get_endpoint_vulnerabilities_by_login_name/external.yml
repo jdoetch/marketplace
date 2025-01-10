@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_security_assessment": "Automates the process of identifying vulnerabilities in endpoint devices based on user login credentials."
+  "Real-time_threat_detection": "Enables real-time detection and reporting of vulnerabilities, enhancing proactive security measures."
+  "Integrated_with_vmware": "Uses VMware Carbon Black Cloud, ensuring seamless integration with existing VMware environments for robust vulnerability management."

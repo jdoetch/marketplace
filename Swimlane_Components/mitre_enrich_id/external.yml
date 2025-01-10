@@ -1,0 +1,9 @@
+"integration_features":
+  "Tactic-to-Attack Phase Mapping": "Automatically converts MITRE Tactic IDs into corresponding attack phases for\
+  seamless integration within Swimlane SOC workflows."
+  "Technique Context Enrichment": "Retrieves and provides detailed information about associated MITRE techniques,\
+  including descriptions, examples, and mitigations, to enhance threat understanding."
+  "Standardized Framework Alignment": "Ensures consistent incident management by aligning threat data with the MITRE\
+  ATT&CK framework."
+  "Enhanced SOC Workflow Integration": "Streamlines the use of MITRE data in Swimlane SOC operations, automating\
+  responses and improving operational efficiency."

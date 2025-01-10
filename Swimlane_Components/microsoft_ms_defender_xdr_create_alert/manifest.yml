@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_ms_defender_xdr_create_alert
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MS Defender XDR - Create Alert
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft MS Defender XDR - Create Alert
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft MS Defender XDR - Create Alert ingestion
+keywords:
+- Endpoint Security & Management
+- Community Content

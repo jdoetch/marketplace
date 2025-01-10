@@ -1,0 +1,1 @@
+Use this component to establish a  session id and execute an RTR Netstat command and return netstat data.  The input is the host_id and the output is a JSON object “results”.

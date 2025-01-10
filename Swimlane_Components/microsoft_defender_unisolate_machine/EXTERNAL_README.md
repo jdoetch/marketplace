@@ -1,0 +1,1 @@
+The Microsoft Defender - UnIsolate Machine component offers a controlled method to reunite isolated machines with the broader network, leveraging Microsoft Defender's capabilities. It serves as an essential element in cybersecurity frameworks, ensuring that machines are reintroduced with appropriate security and operational checks.

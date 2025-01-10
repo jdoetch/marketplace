@@ -1,0 +1,18 @@
+vendor: 'Elastic '
+name: elastic_elastic_security_v8_get_signals
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Get Signals from Elastic Security v8
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Elastic  Elastic Security v8 - Get Signals
+version: 1.0.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Elastic  Elastic Security v8 - Get Signals ingestion
+keywords:
+- Endpoint Security & Management
+- Community Content

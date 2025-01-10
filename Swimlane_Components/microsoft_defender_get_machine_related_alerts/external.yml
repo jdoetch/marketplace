@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_alert_retrieval": "Enables automatic fetching of machine-related alerts from Microsoft Defender, enhancing response capabilities."
+  "Streamline_security_operations": "Reduces manual efforts in security operations by providing automated workflows for alert management."
+  "Proactive_threat_management": "Aids in the proactive identification and handling of potential security threats linked to specific machines."

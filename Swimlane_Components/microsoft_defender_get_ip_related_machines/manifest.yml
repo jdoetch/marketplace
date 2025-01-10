@@ -1,0 +1,19 @@
+vendor: Microsoft
+name: microsoft_defender_get_ip_related_machines
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Defender Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Defender - Get IP Related Machines
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Microsoft Defender - Get IP Related Machines enrichment
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Endpoint Security & Management
+  - Community Content

@@ -1,0 +1,5 @@
+"integration_features":
+  "Vendor": "MxToolbox,"
+  "Capability_automatic_tcp_check": "Automates TCP connection checks to improve network diagnostics.,"
+  "High_reliability": "Ensures high reliability and accuracy in detecting connectivity issues.,"
+  "Error_handling_capabilities": "Advanced error normalization for consistent error reporting across systems."

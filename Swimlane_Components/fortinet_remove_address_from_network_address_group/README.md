@@ -1,0 +1,2 @@
+The Fortinet FortiGate - Remove Address From Network Address Group component facilitates the automated management of address groups in FortiGate appliances, ensuring dynamic security settings are kept up-to-date without manual intervention. Using Fortinet as the vendor, this process enhances the efficiency and accuracy of managing network configurations crucial in maintaining the integrity and security of the network infrastructure.
+

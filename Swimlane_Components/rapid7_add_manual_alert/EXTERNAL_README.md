@@ -1,0 +1,1 @@
+The "Rapid7 Threat Command - Add Manual Alert" component allows users to input security alerts directly into the Threat Command system. As part of Rapid7's security solutions, this functionality enriches the system's responsiveness and adaptability to emerging threats, empowering administrators and security teams to actively contribute to the organization's threat intelligence.

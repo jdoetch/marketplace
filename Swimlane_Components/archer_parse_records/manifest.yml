@@ -1,0 +1,18 @@
+vendor: Archer
+name: archer_parse_records
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: ArcherIRM - Parse Records
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Archer Parse Records
+version: 1.0.2
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Archer Parse Records ingestion
+keywords:
+- Governance & Risk Management
+- Community Content

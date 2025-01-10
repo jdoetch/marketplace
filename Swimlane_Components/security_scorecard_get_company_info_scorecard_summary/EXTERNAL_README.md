@@ -1,0 +1,1 @@
+The "SSC - Get Company Info_Scorecard Summary" component is crafted to provide efficient and reliable data transformation and enrichment, specifically tailored for handling and analyzing errors in company scorecards. This component ensures a high degree of data integrity and detailed status reporting, pivotal for corporate analytics and strategic decision-making processes.

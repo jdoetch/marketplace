@@ -1,0 +1,6 @@
+"integration_features":
+  "RealTimeNetworkMonitoring": "Enables real-time monitoring of network activities on endpoints."
+  "AutomatedCommandExecution": "Automates the execution of network commands to gather essential data."
+  "EnhancedSecurityVisibility": "Provides enhanced visibility into endpoint network states for better security management."
+  "EfficientIncidentResponse": "Facilitates quick incident response by retrieving critical network information promptly."
+  "SeamlessCrowdStrikeIntegration": "Integrates seamlessly with CrowdStrike Falcon, leveraging its RTR capabilities for effective endpoint management."

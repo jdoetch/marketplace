@@ -1,0 +1,17 @@
+vendor: Atlassian
+name: atlassian_jira_get_field_definitions
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Jira - Get Project Issue Field Definitions
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Atlassian Jira Get Field Definitions
+version: 1.0.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Atlassian Jira Get Field Definitions ingestion
+keywords:
+- Community Content

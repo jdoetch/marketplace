@@ -1,0 +1,18 @@
+vendor: API Void
+name: api_void_get_domain_age
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: API Void - Get Domain Age
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: API Void Get Domain Age
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: API Void Get Domain Age enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

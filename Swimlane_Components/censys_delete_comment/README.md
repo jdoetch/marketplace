@@ -1,0 +1,1 @@
+The "Censys - Delete Comment" component is designed to streamline the deletion and management of comments in Censys databases. Developed by the vendor, Swimlane, this component aids in enhancing the efficiency of database operations by automating comment deletions and error management, thereby reducing the need for manual intervention and improving data integrity.

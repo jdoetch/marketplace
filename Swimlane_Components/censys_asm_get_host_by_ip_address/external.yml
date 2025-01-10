@@ -1,0 +1,5 @@
+"integration_features":
+  "Rapid_identification": "Quickly identifies hosts by their IP addresses, enabling timely security actions.,"
+  "Automated_querying": "Automates the process of querying detailed host information, saving time and reducing errors.,"
+  "Censys_integration": "Integrates with Censys for comprehensive and reliable host information.,"
+  "Security_posture_enhancement": "Helps improve the overall security posture by providing critical host insights."

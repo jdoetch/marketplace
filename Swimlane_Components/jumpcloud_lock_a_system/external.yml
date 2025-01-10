@@ -1,0 +1,4 @@
+"integration_features":
+  "System Locking": "Streamlines the process of locking systems by utilizing the Isolate/Rejoin Hosts Remediation Action \
+    Interface. Designed for compatibility with SOC Solution content, it processes the System ID as input and provides a \
+    clear text message output indicating the success or failure of the action."

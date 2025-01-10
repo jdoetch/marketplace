@@ -1,0 +1,7 @@
+"integration_features":
+  "EPSS Likelihood Assessment": "Uses EPSS scores to assess the exploitation likelihood of each CVE. Higher scores \
+    indicate a greater chance of exploitation."
+  "Risk-Based Prioritization": "Combines EPSS scores with other factors, such as asset criticality and business impact, \
+    to create a risk-based prioritization strategy."
+  "EPSS-Enriched Vulnerability Data": "Provides SOC analysts with EPSS-enriched vulnerability data to help them focus on \
+    the most exploitable vulnerabilities."

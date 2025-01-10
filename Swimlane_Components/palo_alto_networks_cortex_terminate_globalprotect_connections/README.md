@@ -1,0 +1,1 @@
+Cortex - Terminate GlobalProtect Connections is a component designed to automate the disconnection of specified GlobalProtect VPN sessions using Palo Alto Networks technology. This tool is particularly valuable for maintaining security protocol compliance and managing network access policies efficiently.

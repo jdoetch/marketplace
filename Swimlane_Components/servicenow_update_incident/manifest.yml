@@ -1,0 +1,18 @@
+vendor: ServiceNow
+name: servicenow_update_incident
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: ServiceNow Update Incident Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: ServiceNow Update Incident
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: ServiceNow Update Incident remediation
+keywords:
+- Case & Ticket Management
+- Community Content

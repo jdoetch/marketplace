@@ -1,0 +1,5 @@
+"integration_features":
+  "Asset_monitoring": "Enables continuous tracking of asset scan statuses"
+  "Automated_compliance": "Supports adherence to regulatory compliance by keeping asset scans up-to-date"
+  "Risk_management": "Facilitates the identification and mitigation of potential vulnerabilities through timely rescan status updates"
+  "Operational_efficiency": "Automates status queries to reduce manual efforts and error potential in scan management"

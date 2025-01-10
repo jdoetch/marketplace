@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_get_alerts_by_incident
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Alert Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Get Alerts by Incident
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Get Alerts by Incident ingestion
+keywords:
+- Endpoint Security & Management
+- Community Content

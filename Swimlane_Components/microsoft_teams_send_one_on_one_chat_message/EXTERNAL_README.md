@@ -1,0 +1,1 @@
+The Microsoft Teams - Send One on One Chat Message from Vendor leverages automation capabilities to enhance communication within Microsoft Teams, directing messages to individual users efficiently. It ensures secure and effective messaging, providing an essential tool in business communication workflows.

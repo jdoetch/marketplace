@@ -1,0 +1,1 @@
+MS Defender - Get Alert User Information efficiently automates the retrieval of user-associated details from security alerts within Microsoft Defender. This component is integral to enhancing security measures, allowing for quick responses and detailed contextual analysis necessary for addressing security threats effectively.

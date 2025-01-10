@@ -1,0 +1,1 @@
+The component "SSC - Get Company Factor Scores and Issue Counts" automates the acquisition and analysis of vital company-related data. Developed by the vendor, Morpheus Swimlane, this component targets the enhancement of business decision-making processes through the timely and accurate evaluation of company performance factors and the quantification of related issues.

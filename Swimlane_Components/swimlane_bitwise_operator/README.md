@@ -1,0 +1,1 @@
+The Bitwise Operator component, provided by Swimlane, is designed to perform bitwise operations on integers. It handles various operations such as AND, OR, XOR, and NOT efficiently within automation environments. The component's architecture is structured to ensure high security and reliability, catering primarily to automated workflows that require precise bitwise manipulation.

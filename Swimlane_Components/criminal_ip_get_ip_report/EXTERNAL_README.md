@@ -1,0 +1,1 @@
+The "Criminal IP - Get IP Report" component automates the retrieval and enrichment of IP reputation data utilizing the Criminal IP database. This component simplifies the process of assessing potential security threats associated with specific IP addresses, ensuring efficient and reliable data processing for security analysts and operations teams.

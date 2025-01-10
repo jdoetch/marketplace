@@ -1,0 +1,18 @@
+vendor: Criminal IP
+name: criminal_ip_initiate_domain_scan
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Criminal IP Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Criminal IP Initiate Domain Scan
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Criminal IP Initiate Domain Scan enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

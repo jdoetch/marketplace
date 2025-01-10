@@ -1,0 +1,13 @@
+"integration_features":
+  "Dynamic Query Handling": "Facilitate natural language interactions with Elastic AI to\
+  query logs, metrics, and security data from Elastic Stack, enabling intuitive and\
+  efficient data retrieval."
+  "Actionable Insights": "Retrieve real-time threat analysis and infrastructure updates\
+  from Elastic AI, providing actionable intelligence for improved decision-making within\
+  security workflows."
+  "Workflow Automation": "Trigger Swimlane workflows directly from Elastic AI chatbot\
+  interactions, streamlining tasks like incident response, case creation, and task assignment."
+  "Customizable Responses": "Configure Elastic AI responses to align with organizational\
+  policies and enrich data outputs for role-specific insights."
+  "Collaboration-Friendly Design": "Enable multi-user interaction and log chatbot\
+  conversations for enhanced team visibility, compliance, and collaboration within Swimlane."

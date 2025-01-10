@@ -1,0 +1,9 @@
+"integration_features":
+  "Threat Context Enrichment": "Add detailed threat notes to SentinelOne threats, \
+    providing enhanced context and documentation for analysis."
+  "Improved Threat Tracking": "Facilitate better tracking and management of threats \
+    with integrated note-taking capabilities."
+  "Record-Friendly Summaries": "Generate a summary string of added notes for easy \
+    display and reference in records."
+  "Seamless Workflow Integration": "Integrate effortlessly into workflows for \
+    enhanced threat documentation and tracking."

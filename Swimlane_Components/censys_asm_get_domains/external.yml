@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_domain_retrieval": "Automates the extraction of domain information from Censys."
+  "Error_handling_enrichment": "Enhances error data with detailed context, improving incident response."
+  "Security_insights": "Provides security insights through enriched error data for better decision-making."

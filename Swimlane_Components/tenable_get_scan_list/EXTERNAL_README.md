@@ -1,0 +1,1 @@
+This component enables security teams to efficiently retrieve and manage vulnerability scan lists from Tenable.io. By automating the launch of scans and extracting detailed scan information, it streamlines the vulnerability management process, ensuring that security analysts have timely and accurate access to scan data for effective decision-making and remediation efforts.

@@ -1,0 +1,16 @@
+vendor: Dataminr
+name: dataminr_get_alerts
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Ingests Alerts into Turbine in Swimlane's Turbine Extendable Data Schema.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Dataminr Get Alerts
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Dataminr Get Alerts ingestion
+keywords:
+- Endpoint Security & Management

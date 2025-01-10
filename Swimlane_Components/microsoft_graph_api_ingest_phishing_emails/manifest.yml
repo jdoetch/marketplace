@@ -1,0 +1,17 @@
+vendor: Microsoft
+name: microsoft_graph_api_ingest_phishing_emails
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Ingests emails containing a phishing email as an attachment to Swimlane's
+  Turbine Extendable Data Schema
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Graph API Ingest Phishing Emails
+version: 1.1.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft Graph API Ingest Phishing Emails ingestion
+keywords:
+- Email & Email Security

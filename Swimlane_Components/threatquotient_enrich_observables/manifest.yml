@@ -1,0 +1,18 @@
+vendor: ThreatQuotient
+name: threatquotient_enrich_observables
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: ThreatQ Enrich Observable Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: ThreatQuotient Enrich Observables
+version: 1.0.1
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: ThreatQuotient Enrich Observables enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

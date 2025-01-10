@@ -1,0 +1,1 @@
+The "Okta - Add User to Group" component is designed to automate the task of adding users to specific groups within Okta, optimizing user management and access control efforts. This functionality supports enhanced security measures and administrative efficiency, integrating seamlessly with the Okta platform.

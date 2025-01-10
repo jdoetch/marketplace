@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Advisory Ingestion": "Seamlessly connect to GitHub repositories to retrieve\
+  security advisories, ensuring up-to-date vulnerability monitoring with minimal manual effort."
+  "TEDS-Compliant Alert Generation": "Convert GitHub advisories into TEDS alert objects,\
+  enabling standardized and actionable threat insights for security teams."
+  "Configurable Workflow Management": "Customize advisory ingestion schedules, filter criteria,\
+  and enrichment steps to align with organizational needs and priorities."
+  "Real-Time Threat Visibility": "Deliver enriched metadata from GitHub advisories into TEDS\
+  alerts, providing comprehensive details for improved situational awareness and decision-making."

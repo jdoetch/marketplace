@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_teams_one_on_one_message_list
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Teams - One on One Message List Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Teams - One on One Message List
+version: 1.1.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft Teams - One on One Message List ingestion
+keywords:
+- Communication & Collaboration
+- Community Content

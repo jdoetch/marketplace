@@ -1,0 +1,1 @@
+The HaloPSA - Add Ticket component automates the process of ticket creation in the HaloPSA system, providing a streamlined approach for IT and support teams to efficiently manage and resolve issues. This component integrates with the HaloPSA platform, utilizing its ticket management capabilities to enhance operational efficiencies.

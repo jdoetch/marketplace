@@ -1,0 +1,4 @@
+"integration_features":
+  "Automation": "Automatically retrieves domain-related machine data, enhancing rapid security assessment and response capabilities."
+  "Security_enhancement": "Integrates with Microsoft Defender to provide detailed visibility into domain-specific machines, bolstering organizational cybersecurity."
+  "Efficiency": "Reduces manual workload by automatically processing responses and actions based on domain queries."

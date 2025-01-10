@@ -1,0 +1,1 @@
+The "Censys ASM - Get Risk Events" component is designed for automation within the Swimlane environment, focusing on retrieving and processing risk events from the Censys ASM platform. This component utilizes a combination of variable creation, data transformation, and HTTP request actions to efficiently manage and analyze data related to security risks.

@@ -1,0 +1,1 @@
+The "Criminal IP - Get IP Report Summary" is an automation component designed to streamline the retrieval of IP report summaries from the Criminal IP database, focusing on enhancing cybersecurity measures through rapid assessment of IP reputation. It automates interactions with the Criminal IP's API, structuring the received data for better usability in security contexts.

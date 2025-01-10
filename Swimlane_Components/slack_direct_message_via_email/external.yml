@@ -1,0 +1,12 @@
+"integration_features":
+  "Automated User Interaction": "Allows for the automation of user interactions within\
+    \ Slack, such as sending messages with action buttons, to drive immediate actions\
+    \ or gather responses without manual intervention."
+  "Simplified Message Management": "Provides capabilities to archive, create, invite,\
+    \ kick, list, and update conversations, as well as retrieve message permalinks,\
+    \ streamlining Slack workspace management directly from the Swimlane platform."
+  "Streamlined Communication": "Enables rapid dissemination of information and alerts\
+    \ within Slack channels, facilitating immediate team awareness and response."
+  "User Lookup Efficiency": "Quickly retrieves user details by email, enhancing the\
+    \ ability to identify and communicate with relevant personnel during security\
+    \ incidents."

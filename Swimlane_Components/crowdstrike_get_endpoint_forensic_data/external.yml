@@ -1,0 +1,21 @@
+"integration_features":
+  "Contextual Intelligence":
+    "Gain deeper insights into security threats by retrieving\
+    \ detailed information about indicators directly from CrowdStrike Falcon, enhancing\
+    \ situational awareness."
+  "Efficient Response Automation":
+    "Automate the process of gathering threat intelligence,\
+    \ which can be used to accelerate incident response and remediation efforts within\
+    \ the Swimlane Turbine platform."
+  "Enhanced Security Posture":
+    "By enriching observables with CrowdStrike Falcon's\
+    \ intelligence, security teams can improve their detection capabilities and strengthen\
+    \ their organization's defense against cyber threats."
+  "Proactive Threat Hunting":
+    "Utilize the Query Indicator action to proactively search\
+    \ for potential threats across endpoints, leveraging CrowdStrike's extensive threat\
+    \ intelligence database."
+  "Streamlined Integration":
+    "Seamlessly integrate with Swimlane's Turbine Extendable Data Schema,\
+    \ allowing for standardized data representation and interoperability across various\
+    \ security tools."

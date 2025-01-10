@@ -1,0 +1,18 @@
+vendor: Criminal IP
+name: criminal_ip_get_ip_summary
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Criminal IP Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Criminal IP Get IP Summary
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Criminal IP Get IP Summary enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

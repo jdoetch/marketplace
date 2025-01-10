@@ -1,0 +1,1 @@
+The "SentinelOne - Update External Ticket ID" component is designed for integrating SentinelOne with external ticketing systems to update and synchronize threat incident records. This component facilitates real-time threat management and enhances the collaboration between SentinelOne and external systems by efficiently updating ticket IDs linked to security threats.

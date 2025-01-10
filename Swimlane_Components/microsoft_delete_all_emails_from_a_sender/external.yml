@@ -1,0 +1,9 @@
+"integration_features":
+  "Email Listing by Sender": "Retrieves a complete list of emails from a specified sender within a targeted account for\
+  review and action."
+  "Bulk Email Deletion": "Enables users to delete all emails from an identified sender in a specified account,\
+  streamlining email management."
+  "Seamless Graph API Integration": "Leverages Microsoft Graph API to ensure efficient and secure handling of email\
+  operations."
+  "Enhanced Email Security": "Facilitates the removal of spam, phishing attempts, or unauthorized communication from\
+  specific senders, improving email security."

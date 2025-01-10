@@ -1,0 +1,1 @@
+SecurityTrails - Get Account Usage is a component designed to help users monitor and manage their API usage, particularly focusing on staying within set limits to prevent overages. It fetches usage data from SecurityTrails, a vendor known for providing comprehensive API usage analytics, and updates the user about current API consumption.

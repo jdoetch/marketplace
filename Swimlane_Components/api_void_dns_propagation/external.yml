@@ -1,0 +1,5 @@
+"integration_features":
+  "Check_dns_propagation": "Enables DNS status checks across multiple locations"
+  "Real_time_analytics": "Provides real-time analysis for DNS updates"
+  "Error_handling": "Normalizes and logs errors for consistent troubleshooting"
+  "Data_enrichment": "Enriches DNS data for enhanced decision-making processes"

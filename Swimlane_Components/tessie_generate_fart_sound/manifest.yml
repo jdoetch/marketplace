@@ -1,0 +1,17 @@
+vendor: Tessie
+name: tessie_generate_fart_sound
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Make Tesla Fart
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Generate Fart Sound
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Generate Fart Sound remediation
+keywords:
+- Community Content

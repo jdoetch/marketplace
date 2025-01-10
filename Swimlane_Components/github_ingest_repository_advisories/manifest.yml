@@ -1,0 +1,19 @@
+vendor: GitHub
+name: github_ingest_repository_advisories
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Github - Ingest Repository Advisories
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Git Hub Ingest Repository Advisories
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Git Hub Ingest Repository Advisories ingestion
+keywords:
+- DevOps & Application Security
+- Vulnerability & Patch Management
+- Community Content

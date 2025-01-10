@@ -1,0 +1,1 @@
+This component streamlines the process of retrieving all User Groups from JumpCloud. Designed for workflows requiring comprehensive group data, it automatically handles pagination to fetch all results and outputs an array of objects. This enables seamless integration and efficient utilization of group data within your processes.

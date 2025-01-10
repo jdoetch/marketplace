@@ -1,0 +1,1 @@
+HaloPSA - Delete Ticket by ID is a streamlined component structured within the PSA software framework, aimed at providing a secure, automated method for the removal of tickets by their identifier. This component interfaces efficiently with the HaloPSA system to perform its functions, ensuring compliance and operational integrity within the IT service management workflows.

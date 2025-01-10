@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_stop_climate_control
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Turn off Tesla's Climate Control
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Stop Climate Control
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Stop Climate Control remediation
+keywords:
+- Miscellaneous
+- Community Content

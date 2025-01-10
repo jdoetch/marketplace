@@ -1,0 +1,5 @@
+"integration_features":
+  "Machine_reintegration_control": "Enables controlled unisolation of machines ensuring secure network reintroduction"
+  "Automated_response_logging": "Automates logging of action responses for compliance and auditing"
+  "Conditional_flow_management": "Manages conditional flows based on operation outcomes for precise error handling"
+  "Integration_with_microsoft_defender": "Utilizes Microsoft Defender’s capabilities for broader security integration"

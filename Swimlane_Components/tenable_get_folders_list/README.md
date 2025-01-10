@@ -1,0 +1,1 @@
+The Tenable VM - Get Folders List is a component designed to automate the retrieval of folder structures in Tenable VM, a key tool in network security management. This component simplifies data access and enhances the organization of various reports and analyses essential for thorough security assessments.

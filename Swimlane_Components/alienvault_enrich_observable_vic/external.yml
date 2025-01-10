@@ -1,0 +1,9 @@
+"integration_features":
+  "IOC Enrichment with Threat Intelligence": "Automatically retrieves intelligence from AlienVault OTX to enrich\
+  Indicators of Compromise (IOCs) with valuable context and actionable insights."
+  "Threat Contextualization": "Provides additional details on observed IOCs, including associated threat actors,\
+  malware campaigns, and attack patterns, to enhance analysis."
+  "Actionable Insights for Prioritization": "Delivers enriched IOC data to support triage and prioritization, enabling\
+  faster and more informed responses to threats."
+  "Seamless Workflow Integration": "Automates the enrichment process and integrates enriched IOC data into Swimlane\
+  workflows, ensuring streamlined and efficient threat management."

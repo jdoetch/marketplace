@@ -1,0 +1,1 @@
+The MxToolbox - Check BlackList component automates the process of checking whether an IP or domain is listed on any blacklists, utilizing the comprehensive services of the MxToolbox API. This is crucial for maintaining seamless email communication channels and safeguarding the sender's reputation from being compromised.

@@ -1,0 +1,4 @@
+"integration_features":
+  "Efficient Tag Management": "Enables streamlined organization and retrieval of host tags, essential for operational security."
+  "Real-Time Data Interaction": "Ensures accurate tagging by interfacing directly with the Censys database."
+  "Robust Error Handling": "Includes structured error handling and enrichment process, enhancing reliability and operational workflows."

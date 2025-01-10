@@ -1,0 +1,18 @@
+vendor: Criminal IP
+name: criminal_ip_check_domain_scan_status
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Criminal IP Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Criminal IP Check Domain Scan Status
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Criminal IP Check Domain Scan Status enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

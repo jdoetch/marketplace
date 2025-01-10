@@ -1,0 +1,4 @@
+"integration_features":
+  "Forced Password Reset": "Enables administrators to enforce a password reset on the next login for a user, \
+    leveraging the Enable/Disable User Account Remediation Action Interface. Compatible with SOC Solution content, \
+    it processes a user ID as input and outputs success or failure status of the action."

@@ -1,0 +1,1 @@
+API Void - Get URL Screenshot is a component designed to enhance cybersecurity efforts by capturing and analyzing screenshots from specified URLs. It utilizes API Void’s capabilities to automate the extraction and processing of visual content from web resources, providing valuable insights for security analysis and threat detection.

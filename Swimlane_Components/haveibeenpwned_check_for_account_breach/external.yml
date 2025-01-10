@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated Breach Detection": "Automatically checks accounts against known data breaches, enhancing security responses."
+  "Seamless API Integration": "Integrates with the HaveIBeenPwned API for smooth operation, reducing manual efforts."
+  "Actionable Alerts": "Generates structured, actionable alerts from identified breaches, enabling proactive security measures."
+  "End-user Security Enhancement": "Empowers end users by promptly identifying compromised accounts, ensuring quick remedial action."

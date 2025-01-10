@@ -1,0 +1,1 @@
+The **KnowBe4 - Add Comment** component is an automation tool used within the KnowBe4 platform to facilitate the process of adding comments to multiple messages simultaneously. It integrates predefined scripts and functionalities to handle both successes and failures effectively, enhancing overall communication and security response strategies.

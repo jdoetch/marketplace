@@ -1,0 +1,18 @@
+vendor: Security Scorecard
+name: security_scorecard_get_all_ip_domain_tags
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Security Scorecard Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Security Scorecard Get All IP Domain Tags
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Security Scorecard Get All IP Domain Tags ingestion
+keywords:
+  - Governance & Risk Management
+  - Community Content

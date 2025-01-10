@@ -1,0 +1,18 @@
+vendor: Security Scorecard
+name: security_scorecard_get_company_factor_score_and_issue_counts
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Security Scorecard Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Security Scorecard Get Company Factor Score and Issue Counts
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Security Scorecard Get Company Factor Score and Issue Counts ingestion
+keywords:
+  - Governance & Risk Management
+  - Community Content

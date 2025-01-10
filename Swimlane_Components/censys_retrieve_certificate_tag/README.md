@@ -1,0 +1,1 @@
+The Censys - Retrieve Tag for Certificate is a critical component designed to interact with the Censys API, aimed at fetching and analyzing tags related to specific digital certificates. Its structured flow ensures efficient data extraction, normalization, and enrichment, ultimately aiding in effective security evaluations and decision-making processes.

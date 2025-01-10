@@ -1,0 +1,1 @@
+This Swimlane component enables users to manage emails from a specific sender within a designated account using the Microsoft Graph API. It provides functionality to list all emails from the sender for review and perform bulk deletion as needed. By automating these actions, the component supports efficient email management and enhances security workflows.

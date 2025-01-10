@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated_rescan": "Enables automated rescanning of risk instances through the Censys ASM API.,"
+  "Real_time_updates": "Provides real-time update capabilities for immediate reflection of changes in risk status.,"
+  "Error_handling": "Standardized processing and normalization of error data for enhanced diagnostic support.,"
+  "Security_data_enrichment": "Transforms raw scan data into enriched formats for improved usability and integration."

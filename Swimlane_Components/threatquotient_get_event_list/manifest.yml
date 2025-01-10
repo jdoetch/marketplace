@@ -1,0 +1,18 @@
+vendor: ThreatQuotient
+name: threatquotient_get_event_list
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: ThreatQ Get Event List Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: ThreatQuotient Get Event List
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: ThreatQuotient Get Event List enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

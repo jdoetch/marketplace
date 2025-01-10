@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated Response Handling": "Automates the process of responding to security alerts by posting comments directly within the FortiCNAPP platform, enhancing the incident management workflow."
+  "Enhanced Security Posture": "Ensures every action in the alert management process is documented, aiding in compliance and security audits."
+  "Seamless Integration": "Designed to integrate smoothly with Lacework and Fortinet products, providing a cohesive security solution environment."

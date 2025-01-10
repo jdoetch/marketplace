@@ -1,0 +1,18 @@
+vendor: PagerDuty
+name: pagerduty_create_incident
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: PagerDutey Create Incident
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: PagerDuty Create Incident
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: PagerDuty Create Incident remediation
+keywords:
+- Communication & Collaboration
+- Community Content

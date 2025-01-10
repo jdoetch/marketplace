@@ -1,0 +1,1 @@
+The SSC - Create a Scorecard Tag component is a structured system designed to aid in the automation of tag creation on the Security Scorecard platform. It efficiently organizes security metrics by facilitating the accurate submission of tag metadata, ensuring systematic categorization and enhanced monitoring capabilities aligned with security audit practices.

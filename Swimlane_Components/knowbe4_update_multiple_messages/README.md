@@ -1,0 +1,1 @@
+The "KnowBe4 - Update Multiple Messages" component facilitates bulk message updates on the KnowBe4 platform, primarily used in phishing simulation training environments. This enhances the capability to quickly adapt training models in line with emerging threats, leveraging the KnowBe4 connector for effective dissemination of updated content.

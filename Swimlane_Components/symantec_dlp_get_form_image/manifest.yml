@@ -1,0 +1,18 @@
+vendor: Symantec
+name: symantec_dlp_get_form_image
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Symantec DLP Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Symantec DLP - Get Form Image
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Symantec DLP - Get Form Image ingestion
+keywords:
+- Governance & Risk Management
+- Community Content

@@ -1,0 +1,19 @@
+vendor: Microsoft Graph
+name: microsoft_graph_ingest_attachment_and_output_teds_mime_part
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Graph - Ingest Attachment and Output TEDS MIME Part
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Graph Ingest Attachment and Output TEDS MIME Part
+version: 1.0.1
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft Graph Ingest Attachment and Output TEDS MIME Part
+  ingestion
+keywords:
+- Email & Email Security
+- Community Content

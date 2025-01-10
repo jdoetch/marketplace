@@ -1,0 +1,13 @@
+"integration_features":
+  "Automated Response Capabilities": "Allows for the automatic ingestion of incident\
+    \ data into Turbine use cases, which can trigger further analysis, enrichment,\
+    \ and response actions without manual intervention."
+  "Enhanced Data Standardization": "Utilizes Swimlane's Turbine Extendable Data Schema to ensure\
+    \ that data from CrowdStrike Falcon is standardized, facilitating easier correlation\
+    \ and analysis across different security tools."
+  "Streamlined Incident Ingestion": "Simplifies the process of retrieving and managing\
+    \ incident IDs and details from CrowdStrike Falcon, enabling a more efficient\
+    \ incident response workflow."
+  "Unified Security Operations": "By integrating with CrowdStrike Falcon, security\
+    \ teams can centralize their incident data, leading to a more cohesive and effective\
+    \ security operation within the Swimlane Turbine platform."

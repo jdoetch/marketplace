@@ -1,0 +1,1 @@
+Tenable VM - Get Tags List is a technical component created for the Tenable VM environment aimed at providing a convenient method for users to query and manage tags. Designed to interface directly with Tenable's API, this component allows for the efficient and customizable retrieval of tag data, which is crucial for organized vulnerability management.

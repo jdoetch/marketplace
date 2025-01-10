@@ -1,0 +1,1 @@
+The "Tenable - Create Scan" component is an integral part of automating security scans using the Tenable.io platform. It simplifies the configuration and deployment of security scans, ensuring that scans are both effective and aligned with the latest security policies and frameworks.

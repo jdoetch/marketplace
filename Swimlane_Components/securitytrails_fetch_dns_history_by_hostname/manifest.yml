@@ -1,0 +1,19 @@
+vendor: SecurityTrails
+name: securitytrails_fetch_dns_history_by_hostname
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: The SecurityTrails Component fetch DNS history by given Hostname, convert
+  and enrich your data using TEDS format.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: SecurityTrails Fetch DNS History By Hostname
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: SecurityTrails Fetch DNS History By Hostname enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

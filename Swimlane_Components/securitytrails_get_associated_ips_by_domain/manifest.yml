@@ -1,0 +1,19 @@
+vendor: SecurityTrails
+name: securitytrails_get_associated_ips_by_domain
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: The SecurityTrails Component fetch associated history by given Domain,
+  convert and enrich your data using TEDS format.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: SecurityTrails Get Associated IPs By Domain
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: SecurityTrails Get Associated IPs By Domain enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

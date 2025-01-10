@@ -1,0 +1,20 @@
+vendor: Swimlane
+name: swimlane_send_notification_on_playbook_failure
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Swimlane - Send Notification on Playbook Failure
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Swimlane Send Notification on Playbook Failure
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Swimlane Send Notification on Playbook Failure ingestion
+keywords:
+- Communication & Collaboration
+- Miscellaneous
+- Swimlane Utilities
+- Community Content

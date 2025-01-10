@@ -1,0 +1,6 @@
+"integration_features":
+  "Flexible_query_parameters": "Enables filtering based on user-specific criteria."
+  "Direct_api_integration": "Connects directly to Tenable VM API for seamless data retrieval."
+  "High_contrast_support": "Enhanced UI designed for visibility on dark backgrounds."
+  "Automated_tag_management": "Facilitates automated organization and control over tag data."
+  "Secure_connection_options": "Includes settings to verify SSL certificates and manage legacy protocols."

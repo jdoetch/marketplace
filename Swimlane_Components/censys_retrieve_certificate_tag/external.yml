@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated Tag Retrieval": "Enables automated retrieval of certificate tags from Censys, enhancing monitoring and security analysis."
+  "Error Normalization": "Systematically handles errors during data retrieval, ensuring robustness of the integration."
+  "Data Enrichment": "Transforms raw data into enriched formats for better usability and integration in security practices."

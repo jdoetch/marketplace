@@ -1,0 +1,1 @@
+Microsoft Teams - Refresh One on One Message List is an automation component that keeps one-on-one message lists in Microsoft Teams current and reflective of ongoing discussions. The sequence of operations involves validating inputs, retrieving messages through Microsoft Teams API, and handling errors effectively, ensuring high reliability and prompt message list updates.

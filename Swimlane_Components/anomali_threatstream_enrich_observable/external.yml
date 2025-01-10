@@ -1,0 +1,5 @@
+"integration_features":
+  "Intelligence Search": "Query a vast database of threat intelligence for indicators,\
+    \ enabling proactive threat hunting and analysis."
+  "Observable Management": "Import and manage observables within Anomali ThreatStream\
+    \ to enhance threat context and visibility."

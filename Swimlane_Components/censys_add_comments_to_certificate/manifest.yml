@@ -1,0 +1,18 @@
+vendor: Censys
+name: censys_add_comments_to_certificate
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Censys Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Censys Add Comments to Certificate
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Censys Add Comments to Certificate enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

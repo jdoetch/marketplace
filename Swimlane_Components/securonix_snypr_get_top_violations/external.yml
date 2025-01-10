@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated Threat Detection": "Automatically identifies top security violations from the Securonix SNYPR platform."
+  "Real-Time Analysis": "Provides real-time analysis and summarization of security threats based on the latest data."
+  "High Scalability": "Designed to efficiently handle data across a wide range of organizational sizes and complexities."
+  "SSL Verification": "Ensures secure connections with SSL verification to maintain data integrity and security."

@@ -1,0 +1,1 @@
+The "MS Graph - Get User Info" component automates the fetching and processing of user data via Microsoft Graph API. Tailored for IT and HR systems, this component facilitates efficient user management by retrieving and organizing user profile details, which can improve system integrations and user data accessibility.

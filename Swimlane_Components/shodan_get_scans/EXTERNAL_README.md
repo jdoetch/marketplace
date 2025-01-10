@@ -1,0 +1,1 @@
+The "Shodan - Get Scans" component, designed for seamless automation with the Shodan API, supports the automated extraction and processing of network scan data. Engaging with Shodan, recognized for its comprehensive capabilities in network scanning, this component optimizes cybersecurity and network analysis activities.

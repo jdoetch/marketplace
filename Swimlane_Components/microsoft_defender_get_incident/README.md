@@ -1,0 +1,2 @@
+Microsoft Defender - Get Incident Component (a35d2042-db58-47c5-b447-5e707ebef3fc) serves as an automated mechanism within technology environments that interact with Microsoft Defender for security purposes. This component focuses on retrieving and managing data concerning security incidents, leveraging Microsoft Defender as its primary source to enhance incident response operations. The balanced design ensures seamless integration and effective management of security data flow.
+

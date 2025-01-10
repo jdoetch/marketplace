@@ -1,0 +1,6 @@
+"integration_features":
+  "automated_session_management": "Automatically revokes user sign-in sessions enhancing security"
+  "compliance_support": "Supports organizational compliance policies by managing access and session control"
+  "real_time_monitoring": "Provides real-time monitoring and logging of session revoke attempts"
+  "reliability": "Highly reliable and responsive actions using Microsoft Graph API"
+  "user_access_control": "Enforces strict user access controls based on predefined criteria"

@@ -1,0 +1,17 @@
+vendor: AbuseIPDB
+name: abuseipdb_enrich_observable
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: This AbuseIPDB Enrich IPs component submits observables to AbuseIPDB,
+  and returns enrichments in Swimlane's Turbine Extendable Data Schema.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Abuse IPDB Enrich Observable
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Abuse IPDB Enrich Observable enrichment
+keywords:
+- Data Enrichment & Threat Intelligence

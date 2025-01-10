@@ -1,0 +1,1 @@
+The "Criminal IP - Get Malicious Info" empowers security teams by automating the retrieval of detailed malicious information regarding IP addresses from the Criminal vendor's data sets. This component seamlessly integrates into existing security frameworks, providing enriched data essential for timely and effective threat assessment.

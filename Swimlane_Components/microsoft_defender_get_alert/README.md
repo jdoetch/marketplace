@@ -1,0 +1,1 @@
+The Microsoft Defender - Get Alert Component (23f14ca3-6c64-41d7-877d-9b4ece68e0fa) is designed to optimize the retrieval and management of alert data from Microsoft Defender, enhancing security automation through efficient handling of alerts. This component integrates tightly with Microsoft Defender, ensuring streamlined operations and improved alert response capabilities.

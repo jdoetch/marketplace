@@ -1,0 +1,1 @@
+Cloudflare_List Roles is a component designed to automate the retrieval of role information from Cloudflare accounts, facilitating security and account management. By automating this process, users can efficiently manage permissions and roles, ensuring that they align with organizational policies and security standards.

@@ -1,0 +1,18 @@
+vendor: PagerDuty
+name: pagerduty_resolve_incident
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: PagerDuty Resolve Incident
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: PagerDuty Resolve Incident
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: PagerDuty Resolve Incident remediation
+keywords:
+- Communication & Collaboration
+- Community Content

@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_azure_monitor_query_log_analytics
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Query Log Analytics in Azure
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Azure Monitor - Query Log Analytics
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft Azure Monitor - Query Log Analytics ingestion
+keywords:
+- Cloud Services & Security
+- Community Content

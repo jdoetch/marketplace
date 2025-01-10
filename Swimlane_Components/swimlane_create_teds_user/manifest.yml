@@ -1,0 +1,18 @@
+vendor: Swimlane
+name: swimlane_create_teds_user
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Swimlane - Create TEDS User
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Swimlane Create TEDS User
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Swimlane Create TEDS User ingestion
+keywords:
+- Case & Ticket Management
+- Community Content

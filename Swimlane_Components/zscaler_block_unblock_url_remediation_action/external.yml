@@ -1,0 +1,9 @@
+"integration_features":
+  "URL Blocking": "Automatically add URLs to Zscaler's blacklist to block malicious\
+    \ or unwanted content, enhancing network security."
+  "URL Unblocking": "Effortlessly remove URLs from Zscaler's blacklist to restore\
+    \ access when deemed safe or necessary."
+  "Incident Response Automation": "Streamline the process of managing URL blocking/unblocking\
+    \ as part of an Incident Response (IR) action plan."
+  "Seamless SOC Integration": "Integrate Zscaler's URL management capabilities into SOC\
+    \ workflows for efficient remediation and enhanced threat mitigation."

@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_onedrive_download_user_file
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft OneDrive Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft OneDrive - Download User File
+version: 0.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft OneDrive - Download User File ingestion
+keywords:
+  - Communication & Collaboration
+  - Community Content

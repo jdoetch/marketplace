@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated Tag Updates": "Efficiently updates tags within the Censys platform based on current data insights."
+  "Error Handling": "Incorporates mechanisms to handle and normalize errors effectively."
+  "Data Enrichment": "Processes tag-related information to enhance context and relevance."
+  "Scalable Tag Management": "Facilitates scalable handling of tags across different assets in a secure manner."

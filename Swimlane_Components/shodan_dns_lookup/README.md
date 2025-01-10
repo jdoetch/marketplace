@@ -1,0 +1,1 @@
+The **Shodan - DNS Lookup** component automates the DNS resolution process by integrating with Shodan, a renowned cybersecurity data provider. This component is essential in enhancing cyber-threat identification and network management. It serves as a robust tool in resolving and enriching DNS data, thereby supporting broader security operations and insights.

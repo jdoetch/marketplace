@@ -1,0 +1,16 @@
+vendor: Darktrace
+name: darktrace_get_incidents
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+description: Retrieve Darktrace incidents data.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Darktrace Get Incidents
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Darktrace Get Incidents ingestion
+keywords:
+- Endpoint Security & Management

@@ -1,0 +1,19 @@
+vendor: Sekoia
+name: sekoia_alert_ingestion
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Sekoia Alert Ingestion Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Sekoia Alert Ingestion
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Sekoia Alert Ingestion ingestion
+keywords:
+- Endpoint Security & Management
+- Forensics & Malware Analysis
+- Community Content

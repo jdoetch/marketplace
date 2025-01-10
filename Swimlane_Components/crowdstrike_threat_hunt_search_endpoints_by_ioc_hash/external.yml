@@ -1,0 +1,6 @@
+"integration_features":
+  "EfficientThreatHunting": "Enables efficient hunting of threats by searching endpoints using specific hash indicators."
+  "AutomatedEndpointQuerying": "Automates the process of querying and retrieving detailed information about endpoints."
+  "EnhancedSecurityVisibility": "Provides enhanced visibility into endpoint activities based on hash values for better security management."
+  "StreamlinedIncidentResponse": "Facilitates streamlined incident response by quickly identifying and analyzing affected endpoints."
+  "SeamlessCrowdStrikeIntegration": "Integrates seamlessly with CrowdStrike Falcon, leveraging its capabilities for effective threat hunting."

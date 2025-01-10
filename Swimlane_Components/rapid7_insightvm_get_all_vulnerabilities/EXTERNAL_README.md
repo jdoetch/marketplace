@@ -1,0 +1,1 @@
+The "Rapid7 InsightVM - Get All Vulnerabilities" component is an essential automation tool in Rapid7 InsightVM, primarily facilitating the comprehensive retrieval and processing of vulnerability information. It ensures thorough security assessments and proactive management of vulnerabilities, making it a strategic component in organizational IT security efforts.

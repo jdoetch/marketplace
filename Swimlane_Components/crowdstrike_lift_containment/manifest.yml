@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_lift_containment
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Lift Containment
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Lift Containment
+version: 1.0.5
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Lift Containment remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_disable_valet_mode
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Disable Tesla's Valet Mode
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Disable Valet Mode
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Disable Valet Mode remediation
+keywords:
+- Miscellaneous
+- Community Content

@@ -1,0 +1,19 @@
+vendor: Microsoft Entra ID
+name: microsoft_entra_id_reset_user_password
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Microsoft Entra ID Reset User Password
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft Entra ID Reset User Password
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Microsoft Entra ID Reset User Password remediation
+keywords:
+- Authentication
+- Identity & Access Management
+- Community Content

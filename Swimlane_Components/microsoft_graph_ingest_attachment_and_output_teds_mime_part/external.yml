@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Attachment Retrieval": "Connects to Microsoft Graph API to pull email attachments from specified mailboxes\
+  or messages, streamlining data collection."
+  "Standardized MIME Parts Conversion": "Transforms retrieved attachments into the TEDS MIME parts schema, ensuring\
+  standardized representation for seamless integration."
+  "Workflow-Ready Outputs": "Processes and outputs attachments in a format compatible with Swimlane workflows, enabling\
+  further enrichment and analysis."
+  "Enhanced Operational Efficiency": "Automates the attachment handling process, reducing manual effort and improving\
+  the efficiency of security operations."

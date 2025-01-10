@@ -1,0 +1,1 @@
+This Swimlane component facilitates the ingestion of alerts and incidents from Azure Sentinel, streamlining the alert triage process by enabling targeted data extraction and field mapping. Designed to enhance incident response workflows, it allows security teams to focus on the most relevant and actionable alerts.

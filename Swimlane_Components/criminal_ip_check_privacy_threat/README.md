@@ -1,0 +1,1 @@
+The "Criminal IP - Check Privacy Threat" is a component used to address privacy threats associated with IP addresses via automated monitoring and response. It integrates with the Criminal IP service to fetch and process privacy threat data, executing specific actions based on this data to manage security outcomes efficiently.

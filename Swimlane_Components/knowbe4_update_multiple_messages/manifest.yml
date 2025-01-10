@@ -1,0 +1,18 @@
+vendor: KnowBe4
+name: knowbe4_update_multiple_messages
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: KnowBe4 - Update Multiple Messages Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: KnowBe4 Update Multiple Messages
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: KnowBe4 Update Multiple Messages enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

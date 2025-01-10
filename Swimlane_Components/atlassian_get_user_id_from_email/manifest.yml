@@ -1,0 +1,18 @@
+vendor: Atlassian
+name: atlassian_get_user_id_from_email
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Jira - Get User ID from Email
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Atlassian Get User ID from Email
+version: 1.0.1
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Atlassian Get User ID from Email enrichment
+keywords:
+- Case & Ticket Management
+- Community Content

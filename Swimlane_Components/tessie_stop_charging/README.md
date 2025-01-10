@@ -1,0 +1,1 @@
+The Tesla component is an automation tool designed for interfacing with Tesla vehicles, facilitating actions like vehicle charging control and locking status checks. Developed for use in technical environments, this component relies on HTTP/API interactions managed through the vendor's secure platform to execute essential vehicle functions efficiently.

@@ -1,0 +1,18 @@
+vendor: Microsoft
+name: microsoft_ms_defender_xdr_get_incident_list
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MS Defender XDR - Get Incident List
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Microsoft MS Defender XDR - Get Incident List
+version: 1.0.0
+componentUseCaseType: ingestion
+componentFamily: canvas
+componentUseCaseData: Microsoft MS Defender XDR - Get Incident List ingestion
+keywords:
+- Endpoint Security & Management
+- Community Content

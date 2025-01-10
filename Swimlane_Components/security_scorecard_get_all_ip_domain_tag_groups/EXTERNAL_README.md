@@ -1,0 +1,1 @@
+The SSC - Get all IP domain tag groups component, integrated with Swimlane, provides a crucial automation function for network security by enabling systematic tagging of IP domains. Employing transformative actions and error enrichments, it ensures that security management processes are both swift and precise, aligning with Swimlane's advanced security features.

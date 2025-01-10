@@ -1,0 +1,9 @@
+"integration_features":
+  "Automated Alarm Ingestion": "Retrieves alarms from the AlienVault USM platform on a scheduled basis, ensuring SOC\
+  teams have up-to-date threat information."
+  "Standardized Data Mapping": "Transforms alarm data into Swimlane's Extendable Data Schema (TEDS), enabling\
+  consistent formatting across security workflows."
+  "Threat Context and Enrichment": "Enhances alarms with additional context, such as associated IOCs, threat\
+  classifications, and related attack patterns, to support faster analysis."
+  "Streamlined SOC Workflows": "Integrates alarms into incident response, investigation, and remediation workflows,\
+  triggering automated actions to reduce response times."

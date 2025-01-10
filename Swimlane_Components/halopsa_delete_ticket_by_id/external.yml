@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated Ticket Deletion": "Allows for the automated and secure deletion of tickets by ID to streamline ITSM processes."
+  "Secure Connection": "Utilizes secure SSL connections to communicate with HaloPSA APIs, ensuring data safety."
+  "Error Handling": "Incorporates robust error management and logging to handle failures effectively."
+  "Optional Parameters": "Supports the inclusion of deletion reasons, enhancing the traceability and auditing of ticket management activities."

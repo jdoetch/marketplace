@@ -1,0 +1,5 @@
+"integration_features":
+  "Advanced IOC Enrichment": "Leverage OpenCTI to enrich observables with additional threat intelligence\
+  \ data for enhanced analysis."
+  "Streamlined Threat Context": "Integrate enriched IOC data seamlessly into workflows to improve threat\
+  \ detection and response."

@@ -1,0 +1,1 @@
+The "API Void - HTTP Tracker" component by Swimlane provides advanced functionality for tracking and analyzing HTTP requests within an automated environment. This component enhances security measures by enabling real-time enrichment and detailed tracking of web traffic, crucial for modern cyber-defense systems.

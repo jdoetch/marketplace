@@ -1,0 +1,1 @@
+The "Censys - Get Observations for Certificate" component offers essential functionalities to track and analyze SSL/TLS certificates via the Censys search engine. Designed for use in security automation frameworks, this component assists organizations by offering detailed insights and observations that facilitate ongoing security and compliance assessments.

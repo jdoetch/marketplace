@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_data_refresh": "Ensures that risk types are current with latest Censys updates."
+  "Enhanced_security_management": "Improves security posture by maintaining updated risk profiles."
+  "Dynamic_compliance_support": "Helps achieve compliance by reflecting the most recent risk data."

@@ -1,0 +1,18 @@
+vendor: JumpCloud
+name: jumpcloud_lock_a_system
+schema: component/1
+author: Swimlane
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: JumpCloud - Lock a System
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: JumpCloud Lock a System
+version: 1.0.1
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: JumpCloud Lock a System remediation
+keywords:
+- Identity & Access Management
+- Community Content

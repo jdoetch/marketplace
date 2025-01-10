@@ -1,0 +1,1 @@
+This component initializes variables, extracts a single host identifier, validates that identifier against expected conditions, and then attempts to retrieve host information from CrowdStrike Falcon. If any step fails, it records an actionable error. On successful completion, it returns the retrieved host information in a structured form.

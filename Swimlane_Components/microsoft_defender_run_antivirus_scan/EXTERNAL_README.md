@@ -1,0 +1,1 @@
+The Microsoft Defender - Run Antivirus Scan Component is designed to automate the initiation and management of antivirus scans with Microsoft Defender. It integrates seamlessly into systems, facilitating both quick and full scans based on operational requirements, ensuring high levels of security and compliance by automating responses and actions based on scan outcomes.

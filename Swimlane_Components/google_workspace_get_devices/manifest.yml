@@ -1,0 +1,18 @@
+vendor: Google Workspace
+name: google_workspace_get_devices
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Google Workspace Get Devices
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Google Workspace Get Devices
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Google Workspace Get Devices enrichment
+keywords:
+- Endpoint Security & Management
+- Community Content

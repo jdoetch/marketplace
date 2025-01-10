@@ -1,0 +1,1 @@
+This component allows security teams to retrieve detailed vulnerability information for specific hosts associated with an incident within the CrowdStrike Falcon platform. By validating incident IDs, querying relevant detections, and compiling vulnerability summaries, it streamlines the process of vulnerability management and enhances incident response effectiveness.

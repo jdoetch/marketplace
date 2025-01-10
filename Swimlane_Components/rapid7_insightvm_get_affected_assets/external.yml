@@ -1,0 +1,5 @@
+"integration_features":
+  "Real-time vulnerability assessment": "Enables real-time identification of impacted assets, vital for quick resolution of vulnerabilities"
+  "Seamless integration with Rapid7 InsightVM": "Facilitates smooth connection with Rapid7 InsightVM API, enhancing security automation"
+  "Enhanced security posture": "Provides detailed asset data impacted by vulnerabilities, crucial for targeted security actions"
+  "Automated response capabilities": "Automates processes for fetching and analyzing affected assets, significantly reducing manual effort and speeding up security responses"

@@ -1,0 +1,1 @@
+The "Symantec DLP - Get Policy Matches" component is an essential tool in the cybersecurity arsenal, integrated with Symantec's Data Loss Prevention platform. It efficiently retrieves policy matches for specific incidents, aiding organizations in compliance and advanced threat detection.

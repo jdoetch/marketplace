@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_block_file
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Block File
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Block File
+version: 1.0.2
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Block File remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

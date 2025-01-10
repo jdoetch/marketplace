@@ -1,0 +1,1 @@
+The "SSC - Generate a Company Summary Report" component automates the process of creating detailed and accurate company reports. By leveraging vendor technology, the component facilitates various data transformations and enrichments, resulting in comprehensive reports that support effective decision-making and strategic business planning.

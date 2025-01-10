@@ -1,0 +1,20 @@
+vendor: ZScaler
+name: zscaler_enrich_url
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: A component to enrich a URL with ZScaler. It takes a url, and outputs
+  a TEDS Enrichment.
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: ZScaler Enrich URL
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: ZScaler Enrich URL enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Network Security & Management
+- Community Content

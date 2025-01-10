@@ -1,0 +1,1 @@
+KnowBe4 - Add Comment to PhishER is a component designed for automation of response processes for suspicious emails within the PhishER platform by KnowBe4. This component simplifies workflows by enabling automated, added comments to identified phishing threats, thus aiding rapid response and keeping track of threat analysis.

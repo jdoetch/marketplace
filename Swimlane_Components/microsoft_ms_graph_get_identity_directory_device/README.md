@@ -1,0 +1,1 @@
+The MS Graph - Get Identity Directory Device component is designed to interact with the Microsoft Graph API to manage and retrieve information about identity directory devices. This solution is essential for automating identity management tasks, ensuring streamlined access to device data securely and efficiently.

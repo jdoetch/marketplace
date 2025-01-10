@@ -1,0 +1,18 @@
+vendor: Rapid7
+name: rapid7_add_manual_alert
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Rapid7 Remediation Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Rapid7 Add Manual Alert
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Rapid7 Add Manual Alert remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

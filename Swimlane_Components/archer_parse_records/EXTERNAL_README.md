@@ -1,0 +1,1 @@
+This Swimlane component enhances the functionality of the ArcherIRM connector by reformatting data retrieved through the “Get Records by Report ID” action. It transforms the associative field structure of the retrieved records into a key-value structure, ensuring compatibility with Swimlane workflows and enabling more efficient data utilization.

@@ -1,0 +1,5 @@
+"integration_features":
+  "Automated Audit Trail": "Provides automation in retrieving incident logs for compliance and monitoring."
+  "Seamless API Integration": "Smoothly integrates with Symantec DLP systems using API connectors for efficient data retrieval."
+  "Enhanced Security Analysis": "Supports detailed incident analysis by providing comprehensive access to incident data."
+  "SSL Verification": "Ensures secure connections through SSL verification during data retrieval."

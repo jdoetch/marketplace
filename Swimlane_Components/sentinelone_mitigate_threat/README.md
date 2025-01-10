@@ -1,0 +1,1 @@
+This Swimlane component enables automated mitigation of identified threats in SentinelOne, providing a streamlined approach to threat response. After attempting the mitigation action, it generates a concise string summary, ideal for record display and operational tracking within workflows.

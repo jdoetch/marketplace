@@ -1,0 +1,4 @@
+"integration_features":
+  "Time_sensitive_analysis": "Enables decision-making based on event's timing outside standard hours"
+  "Automation_capabilities": "Automatically categorizes and prioritizes incidents that occcur after hours"
+  "Incident_prioritization": "Helps in faster response and resource allocation during critical after-hour events"

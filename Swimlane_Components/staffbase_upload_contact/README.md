@@ -1,0 +1,1 @@
+Staffbase - Upload Contact is an automated component designed to handle the secure uploading of contact data to Staffbase platforms. It incorporates multiple actions to encode keys, create contact arrays, and manage HTTP requests, ensuring a seamless data integration that adheres to high standards of security and efficiency.

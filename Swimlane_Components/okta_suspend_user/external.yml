@@ -1,0 +1,6 @@
+"integration_features":
+  "Automate_user_suspension": "Enables the quick and automated suspension of Okta user accounts to ensure security."
+  "Reduce_manual_processes": "Minimizes the need for manual interventions, enhancing efficiency."
+  "Conditional_logic_application": "Applies conditional logic to verify user status before suspension, reducing errors."
+  "Secure_api_integration": "Utilizes secure API connections to Okta, ensuring data integrity and security."
+  "Real_time_execution": "Performs actions in real-time to promptly address security concerns."

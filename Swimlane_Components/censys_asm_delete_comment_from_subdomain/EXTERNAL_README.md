@@ -1,0 +1,1 @@
+The "Censys ASM - Delete a Comment from SubDomain" component facilitates the automated deletion of comments from subdomains within the framework of Censys ASM. This automation tool enhances security and management capabilities of domain data, ensuring integrity and relevance of information maintained across enterprise systems.

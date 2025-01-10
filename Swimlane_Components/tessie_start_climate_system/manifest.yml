@@ -1,0 +1,18 @@
+vendor: Tessie
+name: tessie_start_climate_system
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Turn on Tesla Climate Control System
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Tessie Start Climate System
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Tessie Start Climate System remediation
+keywords:
+- Miscellaneous
+- Community Content

@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated_alert_processing": "Automates the extraction and processing of alert-triggered IPs from Microsoft Defender"
+  "Enhanced_response_time": "Reduces time to respond to alerts by providing quicker access to offending IP data"
+  "Security_posture_improvement": "Improves the overall security posture by facilitating rapid identification and mitigation of threats"

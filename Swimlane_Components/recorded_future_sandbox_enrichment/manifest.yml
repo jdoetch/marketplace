@@ -1,0 +1,19 @@
+vendor: Recorded Future
+name: recorded_future_sandbox_enrichment
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Recorded Future Sandbox Enrichment
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Recorded Future Sandbox Enrichment
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Recorded Future Sandbox Enrichment enrichment
+keywords:
+- Case & Ticket Management
+- Data Enrichment & Threat Intelligence
+- Community Content

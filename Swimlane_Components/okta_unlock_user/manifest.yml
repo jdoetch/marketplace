@@ -1,0 +1,18 @@
+vendor: Okta
+name: okta_unlock_user
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Okta Identity Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Okta Unlock User
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: Okta Unlock User remediation
+keywords:
+- Identity & Access Management
+- Community Content

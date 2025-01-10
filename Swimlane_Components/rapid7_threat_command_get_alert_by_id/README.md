@@ -1,0 +1,1 @@
+Rapid7 Threat Command - Get Alert by ID is a component designed to fetch detailed information about specific security alerts using their unique identifiers. Developed by Rapid7, a leader in security analytics and automation, this component serves as a crucial tool for cybersecurity operations, enabling teams to quickly access essential data and respond to threats efficiently.

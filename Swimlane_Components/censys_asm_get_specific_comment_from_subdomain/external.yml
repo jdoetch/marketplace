@@ -1,0 +1,4 @@
+"integration_features":
+  "Retrieve_specific_data": "Enables fetching specific comments associated with subdomains directly, enhancing monitoring capabilities."
+  "Process_automation": "Automates the retrieval and preprocessing of data, reducing manual effort and improving response times."
+  "Error_handling": "Standardizes error handling through normalization, increasing reliability and stability of operations."

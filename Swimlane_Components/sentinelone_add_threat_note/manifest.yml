@@ -1,0 +1,18 @@
+vendor: SentinelOne
+name: sentinelone_add_threat_note
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: SentinelOne - Add Threat Note
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: SentinelOne Add Threat Note
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: SentinelOne Add Threat Note remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

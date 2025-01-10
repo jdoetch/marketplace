@@ -1,0 +1,18 @@
+vendor: CrowdStrike
+name: crowdstrike_put_and_run_a_file_or_script_on_endpoint
+schema: component/1
+author: Swimlane SE
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: CrowdStrike Put and Run a File or Script on Endpoint
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: CrowdStrike Put and Run a File or Script on Endpoint
+version: 1.0.0
+componentUseCaseType: remediation
+componentFamily: canvas
+componentUseCaseData: CrowdStrike Put and Run a File or Script on Endpoint remediation
+keywords:
+- Endpoint Security & Management
+- Community Content

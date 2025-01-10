@@ -1,0 +1,1 @@
+The "Criminal IP - Check if VPN" component offers a specialized capability in detecting the use of VPNs by IP addresses, which is vital for maintaining network security. Utilizing Vendor's robust transformational features, the component processes and enriches error data, enhancing the ability to accurately identify and respond to masked IPs in sensitive security environments.

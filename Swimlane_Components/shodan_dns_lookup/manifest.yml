@@ -1,0 +1,18 @@
+vendor: Shodan
+name: shodan_dns_lookup
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: Shodan Enrichment Component
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: Shodan DNS Lookup
+version: 0.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: Shodan DNS Lookup enrichment
+keywords:
+  - Data Enrichment & Threat Intelligence
+  - Community Content

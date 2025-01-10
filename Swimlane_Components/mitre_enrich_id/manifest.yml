@@ -1,0 +1,18 @@
+vendor: MITRE
+name: mitre_enrich_id
+schema: component/1
+author: Swimlane PS
+bugs: ''
+iconImage: ../image/logo.png
+overviewImage: ../image/overview.png
+description: MITRE - Enrich ID
+homepage: https://swimlane.com
+license: AGPL-3.0
+title: MITRE Enrich ID
+version: 1.0.0
+componentUseCaseType: enrichment
+componentFamily: canvas
+componentUseCaseData: MITRE Enrich ID enrichment
+keywords:
+- Data Enrichment & Threat Intelligence
+- Community Content

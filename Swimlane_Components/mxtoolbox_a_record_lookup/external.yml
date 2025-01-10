@@ -1,0 +1,4 @@
+"integration_features":
+  "Automated Diagnosis": "Automatically detects and reports DNS record issues to reduce downtime and improve reliability."
+  "Real-time Validation": "Ensures DNS records are consistent and accurately pointing to correct IP addresses, enhancing network performance."
+  "Detailed Error Insights": "Provides comprehensive details on DNS errors, facilitating quicker troubleshooting and resolution."
