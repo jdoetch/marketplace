@@ -502,7 +502,7 @@
     async function fetchDirectoryContents() {
       try {
         // Adjust the path to your Swimlane_Components data if needed
-        const response = await fetch('./Swimlane_Components/');
+        const response = await fetch('Swimlane_Components');
         if (!response.ok) throw new Error(`Failed to fetch directory contents: ${response.statusText}`);
         const data = await response.json();
         processDirectoryData(data);
