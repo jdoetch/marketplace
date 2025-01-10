@@ -6,7 +6,10 @@
   <title>Swimlane Components Marketplace</title>
 
   <!-- Tailwind CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+  <link
+    href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+    rel="stylesheet"
+  />
 
   <!-- PDF.js -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf.min.js"></script>
@@ -19,7 +22,10 @@
   <script src="https://unpkg.com/@panzoom/panzoom@4.4.0/dist/panzoom.min.js"></script>
 
   <style>
-    /* CSS Styles */
+    /* 
+      COMPLETE CSS STYLES - NO CONTENT OMITTED
+      Adjust or move these to an external file if desired
+    */
     body {
       background-color: #1a1a1a;
       color: #f3f3f3;
@@ -48,12 +54,12 @@
       max-width: 100px;
       margin-bottom: 10px;
     }
+
+    /* Modal Overlay */
     .overlay {
       position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
       background-color: rgba(0, 0, 0, 0.8);
       display: none;
       align-items: center;
@@ -199,6 +205,8 @@
     .download-link:hover {
       background-color: #5a5ee5;
     }
+
+    /* Grid/List toggles */
     .grid-view {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -228,6 +236,8 @@
       margin-right: 0.5rem;
       flex-shrink: 0;
     }
+
+    /* Vendor, Type, Keyword collapsed view */
     .vendor-collapsed-container {
       margin-bottom: 1rem;
       border-bottom: 1px solid #444;
@@ -265,6 +275,8 @@
       margin-right: 0.5rem;
       flex-shrink: 0;
     }
+
+    /* Alphabetical bar for vendor view */
     .alphabet-bar {
       position: fixed;
       top: 150px;
@@ -295,6 +307,8 @@
     #results.vendor-view {
       margin-right: 80px;
     }
+
+    /* Fullscreen Image Overlay */
     .image-fullscreen-overlay {
       position: fixed;
       top: 0; left: 0;
@@ -332,15 +346,23 @@
   </style>
 </head>
 <body class="font-sans">
+  <!-- Header -->
   <header class="p-4 bg-gray-900 flex items-start justify-between">
     <div>
       <h1 class="text-2xl font-bold">Swimlane Components Marketplace</h1>
       <p class="text-gray-400">Browse and search components by vendor.</p>
     </div>
-    <img src="./SwimlaneMarketplaceLogo.svg" alt="Swimlane Logo" class="h-12" onerror="this.src='https://via.placeholder.com/150?text=Logo';" />
+    <img
+      src="./SwimlaneMarketplaceLogo.svg"
+      alt="Swimlane Logo"
+      class="h-12"
+      onerror="this.src='https://via.placeholder.com/150?text=Logo';"
+    />
   </header>
 
+  <!-- Main -->
   <main class="p-6">
+    <!-- View Buttons -->
     <div class="flex justify-end mb-4">
       <button id="grid-view-button" class="px-3 py-1 bg-blue-600 text-white rounded mr-2">Grid View</button>
       <button id="list-view-button" class="px-3 py-1 bg-blue-600 text-white rounded mr-2">List View</button>
@@ -349,15 +371,24 @@
       <button id="keyword-view-button" class="px-3 py-1 bg-blue-600 text-white rounded">Keyword View</button>
     </div>
 
+    <!-- Search Bar -->
     <div id="search" class="mb-4">
-      <input type="text" id="search-bar" class="search-bar w-full" placeholder="Search for components..." />
+      <input
+        type="text"
+        id="search-bar"
+        class="search-bar w-full"
+        placeholder="Search for components..."
+      />
     </div>
 
+    <!-- Results -->
     <div id="results" class="grid-view"></div>
   </main>
 
+  <!-- Alphabetical Bar -->
   <div id="alphabet-bar" class="alphabet-bar hidden"></div>
 
+  <!-- Modal Overlay -->
   <div id="overlay" class="overlay">
     <div class="overlay-content">
       <button class="close-overlay" id="close-overlay">Close</button>
@@ -369,7 +400,9 @@
         <div class="modal-body-columns">
           <div class="gallery-pane" id="overlay-gallery"></div>
           <div class="center-pane">
-            <div id="center-container" class="placeholder">No Files Available</div>
+            <div id="center-container" class="placeholder">
+              No Files Available
+            </div>
           </div>
           <div class="docs-pane" id="docs-sections"></div>
         </div>
@@ -380,6 +413,7 @@
     </div>
   </div>
 
+  <!-- Fullscreen Image Overlay -->
   <div id="image-fullscreen-overlay" class="image-fullscreen-overlay">
     <div class="image-fullscreen-content">
       <button id="image-fullscreen-close" class="image-fullscreen-close">Close</button>
@@ -387,12 +421,13 @@
     </div>
   </div>
 
+  <!-- External Scripts: YAML, Fuse, Marked, etc. -->
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
 
   <script>
-    // DOM elements
+    // DOM references
     const resultsDiv = document.getElementById('results');
     const overlay = document.getElementById('overlay');
     const closeOverlayButton = document.getElementById('close-overlay');
@@ -419,6 +454,7 @@
     let panzoomInstance = null;
     let panzoomImageInstance = null;
 
+    // Switch Views
     function setView(view) {
       currentView = view;
       resultsDiv.classList.remove('grid-view', 'list-view', 'vendor-view');
@@ -432,18 +468,19 @@
         resultsDiv.classList.add('vendor-view');
         buildAlphabetBar();
         alphabetBar.classList.remove('hidden');
-      } else if (view === 'type' || view === 'keyword') {
-        // No specific container class
-      }
+      } 
+      // For type or keyword, no special container class
       renderResults(flatData, currentView);
     }
 
+    // Buttons
     gridViewButton.addEventListener('click', () => setView('grid'));
     listViewButton.addEventListener('click', () => setView('list'));
     vendorViewButton.addEventListener('click', () => setView('vendor'));
     typeViewButton.addEventListener('click', () => setView('type'));
     keywordViewButton.addEventListener('click', () => setView('keyword'));
 
+    // Alphabet Bar for vendor
     function buildAlphabetBar() {
       alphabetBar.innerHTML = '';
       ALPHABETS.forEach(letter => {
@@ -454,14 +491,17 @@
         alphabetBar.appendChild(span);
       });
     }
-
     function jumpToLetter(letter) {
       const vendorContainer = document.querySelector(`[data-vendor-letter="${letter}"]`);
-      if (vendorContainer) vendorContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      if (vendorContainer) {
+        vendorContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
     }
 
+    // Fetch Directory Contents Locally
     async function fetchDirectoryContents() {
       try {
+        // Adjust the path to your Swimlane_Components data if needed
         const response = await fetch('./Swimlane_Components/');
         if (!response.ok) throw new Error(`Failed to fetch directory contents: ${response.statusText}`);
         const data = await response.json();
@@ -471,6 +511,7 @@
       }
     }
 
+    // Build flatData from local "Swimlane_Components" structure
     async function processDirectoryData(data) {
       flatData = [];
       for (const [vendor, files] of Object.entries(data)) {
@@ -485,7 +526,11 @@
             : null;
 
           const galleryFiles = data[vendor]?.filter(f => {
-            return f !== 'logo.png' && ( /\.(png|jpe?g|gif|svg)$/i.test(f) || /\.(mp4|mov|webm)$/i.test(f) || /\.pdf$/i.test(f) );
+            return f !== 'logo.png' && (
+              /\.(png|jpe?g|gif|svg)$/i.test(f) ||
+              /\.(mp4|mov|webm)$/i.test(f) ||
+              /\.pdf$/i.test(f)
+            );
           }) || [];
           const filePaths = galleryFiles.map(file => `Swimlane_Components/${vendor}/${file}`);
 
@@ -530,6 +575,42 @@
       }
     }
 
+    // Group by vendor / type / keyword
+    function groupByVendor(items) {
+      return items.reduce((acc, item) => {
+        if (!acc[item.vendor]) acc[item.vendor] = [];
+        acc[item.vendor].push(item);
+        return acc;
+      }, {});
+    }
+    function groupItemsByType(items) {
+      const map = {};
+      items.forEach(item => {
+        const type = item.componentUseCaseType || 'Unspecified';
+        if (!map[type]) map[type] = [];
+        map[type].push(item);
+      });
+      return map;
+    }
+    function groupItemsByKeyword(items) {
+      const map = {};
+      items.forEach(item => {
+        const keys = item.keywords;
+        if (!keys || keys.length === 0) {
+          const key = 'No Keywords';
+          if (!map[key]) map[key] = [];
+          map[key].push(item);
+        } else {
+          keys.forEach(kw => {
+            if (!map[kw]) map[kw] = [];
+            map[kw].push(item);
+          });
+        }
+      });
+      return map;
+    }
+
+    // Render Results
     function renderResults(items, view) {
       resultsDiv.innerHTML = '';
       if (view === 'grid') {
@@ -537,7 +618,9 @@
           const card = document.createElement('div');
           card.className = 'card p-4 bg-gray-800 rounded shadow';
           card.innerHTML = `
-            <img src="${item.logo_path}" alt="${item.title} logo" class="component-logo" onerror="this.src='https://via.placeholder.com/100?text=No+Logo';" />
+            <img src="${item.logo_path}" alt="${item.title} logo"
+              class="component-logo"
+              onerror="this.src='https://via.placeholder.com/100?text=No+Logo';" />
             <h2 class="font-bold text-xl">${item.title}</h2>
             <p class="text-sm">Vendor: ${item.vendor}</p>
             <p class="text-sm">Version: ${item.version}</p>
@@ -550,7 +633,9 @@
           const row = document.createElement('div');
           row.className = 'list-item';
           row.innerHTML = `
-            <img src="${item.logo_path}" alt="${item.title} logo" class="list-item-logo" onerror="this.src='https://via.placeholder.com/40?text=No+Logo';" />
+            <img src="${item.logo_path}" alt="${item.title} logo"
+              class="list-item-logo"
+              onerror="this.src='https://via.placeholder.com/40?text=No+Logo';" />
             <div>
               <span class="font-bold">${item.title}</span>
               <span class="ml-2 text-sm text-gray-300">(${item.vendor})</span>
@@ -581,11 +666,14 @@
           const itemsDiv = document.createElement('div');
           itemsDiv.className = 'vendor-list-items';
           const vendorItems = grouped[vendorName].sort((a, b) => a.title.localeCompare(b.title));
+
           vendorItems.forEach(comp => {
             const vItem = document.createElement('div');
             vItem.className = 'vendor-list-item';
             vItem.innerHTML = `
-              <img src="${comp.logo_path}" alt="${comp.title} logo" class="vendor-list-logo" onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
+              <img src="${comp.logo_path}" alt="${comp.title} logo"
+                class="vendor-list-logo"
+                onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
               <div>
                 <span class="font-bold">${comp.title}</span>
                 <span class="ml-2 text-sm text-gray-300">(${comp.vendor})</span>
@@ -597,6 +685,7 @@
           });
 
           container.appendChild(itemsDiv);
+
           headingDiv.addEventListener('click', () => {
             const isHidden = (itemsDiv.style.display === 'none' || !itemsDiv.style.display);
             itemsDiv.style.display = isHidden ? 'block' : 'none';
@@ -630,7 +719,9 @@
             const row = document.createElement('div');
             row.className = 'vendor-list-item';
             row.innerHTML = `
-              <img src="${item.logo_path}" alt="${item.title} logo" class="vendor-list-logo" onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
+              <img src="${item.logo_path}" alt="${item.title} logo"
+                class="vendor-list-logo"
+                onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
               <div>
                 <span class="font-bold">${item.title}</span>
                 <span class="ml-2 text-sm text-gray-300">(${item.vendor})</span>
@@ -642,6 +733,7 @@
           });
 
           container.appendChild(itemsDiv);
+
           headingDiv.addEventListener('click', () => {
             const isHidden = (itemsDiv.style.display === 'none' || !itemsDiv.style.display);
             itemsDiv.style.display = isHidden ? 'block' : 'none';
@@ -675,7 +767,9 @@
             const row = document.createElement('div');
             row.className = 'vendor-list-item';
             row.innerHTML = `
-              <img src="${item.logo_path}" alt="${item.title} logo" class="vendor-list-logo" onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
+              <img src="${item.logo_path}" alt="${item.title} logo"
+                class="vendor-list-logo"
+                onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
               <div>
                 <span class="font-bold">${item.title}</span>
                 <span class="ml-2 text-sm text-gray-300">(${item.vendor})</span>
@@ -687,6 +781,7 @@
           });
 
           container.appendChild(itemsDiv);
+
           headingDiv.addEventListener('click', () => {
             const isHidden = (itemsDiv.style.display === 'none' || !itemsDiv.style.display);
             itemsDiv.style.display = isHidden ? 'block' : 'none';
@@ -696,42 +791,6 @@
           resultsDiv.appendChild(container);
         }
       }
-    }
-
-    function groupByVendor(items) {
-      return items.reduce((acc, item) => {
-        if (!acc[item.vendor]) acc[item.vendor] = [];
-        acc[item.vendor].push(item);
-        return acc;
-      }, {});
-    }
-
-    function groupItemsByType(items) {
-      const map = {};
-      items.forEach(item => {
-        const type = item.componentUseCaseType || 'Unspecified';
-        if (!map[type]) map[type] = [];
-        map[type].push(item);
-      });
-      return map;
-    }
-
-    function groupItemsByKeyword(items) {
-      const map = {};
-      items.forEach(item => {
-        const keys = item.keywords;
-        if (keys.length === 0) {
-          const key = 'No Keywords';
-          if (!map[key]) map[key] = [];
-          map[key].push(item);
-        } else {
-          keys.forEach(kw => {
-            if (!map[kw]) map[kw] = [];
-            map[kw].push(item);
-          });
-        }
-      });
-      return map;
     }
 
     async function renderPDFtoCanvas(pdfUrl, canvas) {
@@ -745,6 +804,7 @@
         canvas.height = viewport.height;
         const context = canvas.getContext('2d');
         await page.render({ canvasContext: context, viewport }).promise;
+
         if (panzoomInstance) panzoomInstance.dispose();
         panzoomInstance = Panzoom(canvas, {
           maxScale: 5,
@@ -761,6 +821,7 @@
     function showFileInCenter(filePath) {
       centerContainer.innerHTML = '';
       centerContainer.className = '';
+
       if (panzoomInstance) {
         panzoomInstance.dispose();
         panzoomInstance = null;
@@ -778,12 +839,14 @@
           initializePanzoomImage();
         });
         centerContainer.appendChild(img);
+
       } else if (/\.(mp4|mov|webm)$/i.test(filePath)) {
         const vid = document.createElement('video');
         vid.src = filePath;
         vid.className = 'center-video';
         vid.controls = true;
         centerContainer.appendChild(vid);
+
       } else if (/\.pdf$/i.test(filePath)) {
         const pdfCanvas = document.createElement('canvas');
         pdfCanvas.className = 'pdf-canvas';
@@ -807,6 +870,7 @@
 
     function openModal(item) {
       overlayTitle.textContent = `${item.title} - ${item.vendor} (v${item.version})`;
+
       fetchFileContent(item.readme_path).then(desc => {
         overlayDescription.innerHTML = marked.parse(desc || 'No description available.');
       });
@@ -869,6 +933,7 @@
       const sections = [];
       let currentTitle = null;
       let currentBuffer = [];
+
       lines.forEach(line => {
         const headingMatch = line.match(/^#\s+(.*)$/);
         if (headingMatch) {
@@ -881,6 +946,7 @@
           currentBuffer.push(line);
         }
       });
+
       if (currentTitle || currentBuffer.length) {
         sections.push({ title: currentTitle || '', content: currentBuffer.join('\n') });
       }
@@ -894,6 +960,7 @@
         panzoomInstance = null;
       }
     });
+
     imageFullscreenClose.addEventListener('click', () => {
       imageFullscreenOverlay.style.display = 'none';
       imageFullscreenImg.src = '#';
@@ -903,6 +970,7 @@
       }
     });
 
+    // Searching with Fuse.js
     searchInput.addEventListener('input', () => {
       const query = searchInput.value.trim();
       if (!query) {
@@ -918,7 +986,9 @@
       renderResults(results, currentView);
     });
 
+    // Kick off by fetching local directory structure
     fetchDirectoryContents();
   </script>
 </body>
 </html>
+
