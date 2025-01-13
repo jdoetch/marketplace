@@ -11,22 +11,25 @@
     rel="stylesheet"
   />
 
-  <!-- Panzoom.js (for panning/zooming images) -->
-  <script
-    src="https://unpkg.com/@panzoom/panzoom@4.4.0/dist/panzoom.min.js"
-  ></script>
+  <!-- PDF.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf.min.js"></script>
+  <script>
+    pdfjsLib.GlobalWorkerOptions.workerSrc =
+      'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf.worker.min.js';
+  </script>
+
+  <!-- Panzoom.js -->
+  <script src="https://unpkg.com/@panzoom/panzoom@4.4.0/dist/panzoom.min.js"></script>
 
   <style>
-    /* Base Page Styles */
+    /* 
+      COMPLETE CSS STYLES - NO CONTENT OMITTED
+      Adjust or move these to an external file if desired
+    */
     body {
       background-color: #1a1a1a;
       color: #f3f3f3;
-      margin: 0;
-      padding: 0;
-      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
-        "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
     }
-
     .search-bar {
       background-color: #2a2a2a;
       color: #f3f3f3;
@@ -39,8 +42,6 @@
       border-color: #5a5ee5;
       outline: none;
     }
-
-    /* Cards for Grid View */
     .card {
       transition: transform 0.2s, box-shadow 0.2s;
     }
@@ -54,7 +55,7 @@
       margin-bottom: 10px;
     }
 
-    /* Overlay (Modal) */
+    /* Modal Overlay */
     .overlay {
       position: fixed;
       top: 0; left: 0;
@@ -77,7 +78,6 @@
       position: relative;
       overflow: hidden;
     }
-
     .modal-header, .modal-footer {
       padding: 1rem;
     }
@@ -113,13 +113,10 @@
       cursor: pointer;
       border-radius: 0.375rem;
     }
-
     .modal-description {
       margin-top: 0.5rem;
       color: #ccc;
     }
-
-    /* 3-column body layout: gallery / center / docs */
     .modal-body-columns {
       display: flex;
       gap: 1rem;
@@ -170,6 +167,14 @@
       border-radius: 0.375rem;
       background-color: #000;
     }
+    .pdf-canvas {
+      border: 1px solid #444;
+      border-radius: 0.375rem;
+      background-color: #222;
+      max-width: 100%;
+      max-height: 100%;
+      cursor: grab;
+    }
     .placeholder {
       color: #999;
       font-size: 1.25rem;
@@ -188,8 +193,6 @@
       margin-bottom: 1rem;
       padding: 1rem;
     }
-
-    /* Footer download link */
     .download-link {
       background-color: #4f46e5;
       color: white;
@@ -234,7 +237,7 @@
       flex-shrink: 0;
     }
 
-    /* Vendor/Type/Keyword collapsed view */
+    /* Vendor, Type, Keyword collapsed view */
     .vendor-collapsed-container {
       margin-bottom: 1rem;
       border-bottom: 1px solid #444;
@@ -273,7 +276,7 @@
       flex-shrink: 0;
     }
 
-    /* Alphabet bar for vendor view */
+    /* Alphabetical bar for vendor view */
     .alphabet-bar {
       position: fixed;
       top: 150px;
@@ -301,12 +304,11 @@
     .hidden {
       display: none !important;
     }
-
     #results.vendor-view {
       margin-right: 80px;
     }
 
-    /* Fullscreen Image Overlay (with bigger close button) */
+    /* Fullscreen Image Overlay */
     .image-fullscreen-overlay {
       position: fixed;
       top: 0; left: 0;
@@ -319,23 +321,20 @@
     }
     .image-fullscreen-content {
       position: relative;
-      width: 90%;
-      height: 90%;
+      max-width: 90%;
+      max-height: 90%;
       overflow: hidden;
     }
     .image-fullscreen-close {
       position: absolute;
-      top: 10px;
-      right: 10px;
-      z-index: 999999;
+      top: -2rem;
+      right: 0;
       background-color: #ff5f5f;
       color: #fff;
-      padding: 0.75rem 1.25rem;
+      padding: 0.5rem 1rem;
       border: none;
       border-radius: 0.375rem;
       cursor: pointer;
-      font-size: 1.25rem;
-      font-weight: bold;
     }
     .image-fullscreen-img {
       max-width: 100%;
@@ -350,8 +349,8 @@
   <!-- Header -->
   <header class="p-4 bg-gray-900 flex items-start justify-between">
     <div>
-      <h1 class="text-2xl font-bold">Swimlane Components Library</h1>
-      <p class="text-gray-400">Browse, Research and Download Components.</p>
+      <h1 class="text-2xl font-bold">Swimlane Components Marketplace</h1>
+      <p class="text-gray-400">Browse and search components by vendor.</p>
     </div>
     <img
       src="./SwimlaneMarketplaceLogo.svg"
@@ -361,9 +360,9 @@
     />
   </header>
 
-  <!-- Main Container -->
+  <!-- Main -->
   <main class="p-6">
-    <!-- View Toggle Buttons -->
+    <!-- View Buttons -->
     <div class="flex justify-end mb-4">
       <button id="grid-view-button" class="px-3 py-1 bg-blue-600 text-white rounded mr-2">Grid View</button>
       <button id="list-view-button" class="px-3 py-1 bg-blue-600 text-white rounded mr-2">List View</button>
@@ -382,11 +381,11 @@
       />
     </div>
 
-    <!-- Results Container -->
+    <!-- Results -->
     <div id="results" class="grid-view"></div>
   </main>
 
-  <!-- Alphabetical Bar (Vendor) -->
+  <!-- Alphabetical Bar -->
   <div id="alphabet-bar" class="alphabet-bar hidden"></div>
 
   <!-- Modal Overlay -->
@@ -399,49 +398,36 @@
       </div>
       <div class="modal-body">
         <div class="modal-body-columns">
-          <!-- Left: Thumbnails -->
           <div class="gallery-pane" id="overlay-gallery"></div>
-
-          <!-- Center: Image, Video, or PDF-Viewer in <iframe> -->
           <div class="center-pane">
             <div id="center-container" class="placeholder">
               No Files Available
             </div>
           </div>
-
-          <!-- Right: Documentation Pane -->
           <div class="docs-pane" id="docs-sections"></div>
         </div>
       </div>
       <div class="modal-footer">
-        <a
-          id="download-link"
-          class="download-link"
-          href="#"
-        >
-          Download Latest SSP
-        </a>
+        <a id="download-link" class="download-link" href="#">Download Latest SSP</a>
       </div>
     </div>
   </div>
 
-  <!-- Fullscreen Image Overlay (with enlarged close button) -->
+  <!-- Fullscreen Image Overlay -->
   <div id="image-fullscreen-overlay" class="image-fullscreen-overlay">
     <div class="image-fullscreen-content">
-      <button id="image-fullscreen-close" class="image-fullscreen-close">X</button>
+      <button id="image-fullscreen-close" class="image-fullscreen-close">Close</button>
       <img id="image-fullscreen-img" src="#" alt="Fullscreen Preview" class="image-fullscreen-img" />
     </div>
   </div>
 
-  <!-- External Scripts -->
+  <!-- External Scripts: YAML, Fuse, Marked, etc. -->
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
 
   <script>
-    /* -------------------------------------------------------------------------
-       1. DOM References / Global Variables
-    ------------------------------------------------------------------------- */
+    // DOM references
     const resultsDiv = document.getElementById('results');
     const overlay = document.getElementById('overlay');
     const closeOverlayButton = document.getElementById('close-overlay');
@@ -451,31 +437,24 @@
     const centerContainer = document.getElementById('center-container');
     const docsSections = document.getElementById('docs-sections');
     const downloadLink = document.getElementById('download-link');
+    const imageFullscreenOverlay = document.getElementById('image-fullscreen-overlay');
+    const imageFullscreenClose = document.getElementById('image-fullscreen-close');
+    const imageFullscreenImg = document.getElementById('image-fullscreen-img');
     const searchInput = document.getElementById('search-bar');
-
-    const alphabetBar = document.getElementById('alphabet-bar');
-    const ALPHABETS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-
     const gridViewButton = document.getElementById('grid-view-button');
     const listViewButton = document.getElementById('list-view-button');
     const vendorViewButton = document.getElementById('vendor-view-button');
     const typeViewButton = document.getElementById('type-view-button');
     const keywordViewButton = document.getElementById('keyword-view-button');
-
-    // Fullscreen Image Overlay elements
-    const imageFullscreenOverlay = document.getElementById('image-fullscreen-overlay');
-    const imageFullscreenClose = document.getElementById('image-fullscreen-close');
-    const imageFullscreenImg = document.getElementById('image-fullscreen-img');
+    const alphabetBar = document.getElementById('alphabet-bar');
+    const ALPHABETS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
     let flatData = [];
     let currentView = 'grid';
-
-    // Panzoom instance for fullscreen images
+    let panzoomInstance = null;
     let panzoomImageInstance = null;
 
-    /* -------------------------------------------------------------------------
-       2. View Toggle Logic
-    ------------------------------------------------------------------------- */
+    // Switch Views
     function setView(view) {
       currentView = view;
       resultsDiv.classList.remove('grid-view', 'list-view', 'vendor-view');
@@ -489,20 +468,19 @@
         resultsDiv.classList.add('vendor-view');
         buildAlphabetBar();
         alphabetBar.classList.remove('hidden');
-      }
-      // For type & keyword, no special classes
+      } 
+      // For type or keyword, no special container class
       renderResults(flatData, currentView);
     }
 
+    // Buttons
     gridViewButton.addEventListener('click', () => setView('grid'));
     listViewButton.addEventListener('click', () => setView('list'));
     vendorViewButton.addEventListener('click', () => setView('vendor'));
     typeViewButton.addEventListener('click', () => setView('type'));
     keywordViewButton.addEventListener('click', () => setView('keyword'));
 
-    /* -------------------------------------------------------------------------
-       3. Alphabet Bar (Vendor)
-    ------------------------------------------------------------------------- */
+    // Alphabet Bar for vendor
     function buildAlphabetBar() {
       alphabetBar.innerHTML = '';
       ALPHABETS.forEach(letter => {
@@ -513,7 +491,6 @@
         alphabetBar.appendChild(span);
       });
     }
-
     function jumpToLetter(letter) {
       const vendorContainer = document.querySelector(`[data-vendor-letter="${letter}"]`);
       if (vendorContainer) {
@@ -521,84 +498,26 @@
       }
     }
 
-    /* -------------------------------------------------------------------------
-       4. STUB DATA (instead of fetching)
-    ------------------------------------------------------------------------- */
-    // Simulate directory listing => { vendor/image: [files], vendor: [files], ... }
-    const directoryDataStub = {
-      'myVendor/image': ['logo.png', 'screenshot1.png', 'screenshot2.png'],
-      'myVendor': ['README.md', 'documentation.README.md', 'example.ssp'],
-
-      'anotherVendor/image': ['logo.png', 'demo.mp4'],
-      'anotherVendor': ['README.md', 'component.ssp'],
-
-      // Add as many vendors as you like...
-    };
-
-    // For "file contents" that we normally would fetch from .yml, .md, etc.
-    const stubbedFileContents = {
-      // YML Manifest
-      'Swimlane_Components/myVendor/manifest.yml': `
-vendor: My Amazing Vendor
-title: My Component
-version: 1.0.0
-componentUseCaseType: "Identity"
-keywords:
-  - SSO
-  - OIDC
-`,
-
-      // README
-      'Swimlane_Components/myVendor/README.md': `
-# My Vendor's Component
-This component does some amazing things.
-`,
-
-      // Documentation
-      'Swimlane_Components/myVendor/documentation.README.md': `
-# Usage
-Here is how you use my component.
-
-# Configuration
-Here is how you configure my component.
-`,
-
-      // Another vendor
-      'Swimlane_Components/anotherVendor/manifest.yml': `
-vendor: AnotherVendor Inc.
-title: Another Fancy Component
-version: 2.2.1
-componentUseCaseType: "Threat Intelligence"
-keywords:
-  - Threat
-  - STIX
-`,
-      'Swimlane_Components/anotherVendor/README.md': `
-# Another Vendor's README
-Details about usage here.
-`,
-    };
-
-    /* -------------------------------------------------------------------------
-       5. Instead of 'fetch', directly process the stub data
-    ------------------------------------------------------------------------- */
-    function loadDirectoryData() {
-      processDirectoryData(directoryDataStub);
+    // Fetch Directory Contents Locally
+    async function fetchDirectoryContents() {
+      try {
+        // Adjust the path to your Swimlane_Components data if needed
+        const response = await fetch('https://github.com/jdoetch/marketplace/tree/main/Swimlane_Components');
+        if (!response.ok) throw new Error(`Failed to fetch directory contents: ${response.statusText}`);
+        const data = await response.json();
+        processDirectoryData(data);
+      } catch (error) {
+        console.error('Error fetching directory contents:', error);
+      }
     }
 
+    // Build flatData from local "Swimlane_Components" structure
     async function processDirectoryData(data) {
       flatData = [];
-
-      // The structure is basically:
-      // "vendorName/image": [...files], "vendorName": [...files]
-      // We'll look for a "logo.png" in vendorName/image, then treat vendorName as the main folder
-      for (const [folder, files] of Object.entries(data)) {
-        if (files.includes('logo.png') && folder.endsWith('/image')) {
-          // e.g. 'myVendor/image' => parentVendor = 'myVendor'
-          const parentVendor = folder.replace('/image', '');
+      for (const [vendor, files] of Object.entries(data)) {
+        if (files.includes('logo.png') && vendor.endsWith('/image')) {
+          const parentVendor = vendor.replace('/image', '');
           const manifestPath = `Swimlane_Components/${parentVendor}/manifest.yml`;
-
-          // Check if there's a README or doc in parentVendor
           const readmePath = data[parentVendor]?.includes('README.md')
             ? `Swimlane_Components/${parentVendor}/README.md`
             : null;
@@ -606,27 +525,18 @@ Details about usage here.
             ? `Swimlane_Components/${parentVendor}/documentation.README.md`
             : null;
 
-          // Gather gallery files from the /image folder
-          const galleryFiles = data[folder]?.filter(f => {
-            return (
-              f !== 'logo.png' &&
-              (
-                /\.(png|jpe?g|gif|svg)$/i.test(f) ||
-                /\.(mp4|mov|webm)$/i.test(f) ||
-                /\.pdf$/i.test(f)
-              )
+          const galleryFiles = data[vendor]?.filter(f => {
+            return f !== 'logo.png' && (
+              /\.(png|jpe?g|gif|svg)$/i.test(f) ||
+              /\.(mp4|mov|webm)$/i.test(f) ||
+              /\.pdf$/i.test(f)
             );
           }) || [];
+          const filePaths = galleryFiles.map(file => `Swimlane_Components/${vendor}/${file}`);
 
-          // Build final paths
-          const filePaths = galleryFiles.map(file => `Swimlane_Components/${folder}/${file}`);
-
-          // If there's an .ssp in the parent folder
           const latestSSP = data[parentVendor]?.find(file => file.endsWith('.ssp'));
-
-          // "Fetch" the manifest from our stub
-          const manifestContent = stubbedFileContents[manifestPath] || '';
-          const manifestData = parseYAML(manifestContent);
+          const manifestContent = await fetchFileContent(manifestPath);
+          const manifestData = manifestContent ? parseYAML(manifestContent) : {};
 
           flatData.push({
             vendor: manifestData.vendor || parentVendor,
@@ -634,29 +544,26 @@ Details about usage here.
             version: manifestData.version || 'Unknown Version',
             componentUseCaseType: manifestData.componentUseCaseType || 'Unspecified',
             keywords: manifestData.keywords || [],
-            // Path to the "logo.png"
-            logo_path: `Swimlane_Components/${folder}/logo.png`,
-            // Path to readme or doc if available
+            logo_path: `Swimlane_Components/${vendor}/logo.png`,
             readme_path: readmePath,
             documentation_path: documentationPath,
-            // If we found an ssp
-            ssp_path: latestSSP
-              ? `Swimlane_Components/${parentVendor}/${latestSSP}`
-              : null,
+            ssp_path: latestSSP ? `Swimlane_Components/${parentVendor}/${latestSSP}` : null,
             galleryFiles: filePaths
           });
         }
       }
-
       renderResults(flatData, currentView);
     }
 
-    /* -------------------------------------------------------------------------
-       6. "Fetch" file content from our stub instead of real network calls
-    ------------------------------------------------------------------------- */
-    function fetchFileContent(filePath) {
-      // Return stub data if found, else empty
-      return Promise.resolve(stubbedFileContents[filePath] || '');
+    async function fetchFileContent(filePath) {
+      if (!filePath) return '';
+      try {
+        const response = await fetch(filePath);
+        if (response.ok) return await response.text();
+      } catch (error) {
+        console.error(`Error fetching file content from ${filePath}:`, error);
+      }
+      return '';
     }
 
     function parseYAML(yamlContent) {
@@ -668,23 +575,52 @@ Details about usage here.
       }
     }
 
-    /* -------------------------------------------------------------------------
-       7. Render Results for Each View
-    ------------------------------------------------------------------------- */
+    // Group by vendor / type / keyword
+    function groupByVendor(items) {
+      return items.reduce((acc, item) => {
+        if (!acc[item.vendor]) acc[item.vendor] = [];
+        acc[item.vendor].push(item);
+        return acc;
+      }, {});
+    }
+    function groupItemsByType(items) {
+      const map = {};
+      items.forEach(item => {
+        const type = item.componentUseCaseType || 'Unspecified';
+        if (!map[type]) map[type] = [];
+        map[type].push(item);
+      });
+      return map;
+    }
+    function groupItemsByKeyword(items) {
+      const map = {};
+      items.forEach(item => {
+        const keys = item.keywords;
+        if (!keys || keys.length === 0) {
+          const key = 'No Keywords';
+          if (!map[key]) map[key] = [];
+          map[key].push(item);
+        } else {
+          keys.forEach(kw => {
+            if (!map[kw]) map[kw] = [];
+            map[kw].push(item);
+          });
+        }
+      });
+      return map;
+    }
+
+    // Render Results
     function renderResults(items, view) {
       resultsDiv.innerHTML = '';
-
       if (view === 'grid') {
         items.forEach(item => {
           const card = document.createElement('div');
           card.className = 'card p-4 bg-gray-800 rounded shadow';
           card.innerHTML = `
-            <img
-              src="${item.logo_path}"
-              alt="${item.title} logo"
+            <img src="${item.logo_path}" alt="${item.title} logo"
               class="component-logo"
-              onerror="this.src='https://via.placeholder.com/100?text=No+Logo';"
-            />
+              onerror="this.src='https://via.placeholder.com/100?text=No+Logo';" />
             <h2 class="font-bold text-xl">${item.title}</h2>
             <p class="text-sm">Vendor: ${item.vendor}</p>
             <p class="text-sm">Version: ${item.version}</p>
@@ -692,18 +628,14 @@ Details about usage here.
           card.addEventListener('click', () => openModal(item));
           resultsDiv.appendChild(card);
         });
-      }
-      else if (view === 'list') {
+      } else if (view === 'list') {
         items.forEach(item => {
           const row = document.createElement('div');
           row.className = 'list-item';
           row.innerHTML = `
-            <img
-              src="${item.logo_path}"
-              alt="${item.title} logo"
+            <img src="${item.logo_path}" alt="${item.title} logo"
               class="list-item-logo"
-              onerror="this.src='https://via.placeholder.com/40?text=No+Logo';"
-            />
+              onerror="this.src='https://via.placeholder.com/40?text=No+Logo';" />
             <div>
               <span class="font-bold">${item.title}</span>
               <span class="ml-2 text-sm text-gray-300">(${item.vendor})</span>
@@ -713,8 +645,7 @@ Details about usage here.
           row.addEventListener('click', () => openModal(item));
           resultsDiv.appendChild(row);
         });
-      }
-      else if (view === 'vendor') {
+      } else if (view === 'vendor') {
         const grouped = groupByVendor(items);
         const sortedVendors = Object.keys(grouped).sort((a, b) => a.localeCompare(b));
         sortedVendors.forEach(vendorName => {
@@ -726,28 +657,23 @@ Details about usage here.
           const headingDiv = document.createElement('div');
           headingDiv.className = 'vendor-heading';
           headingDiv.textContent = vendorName;
-
           const toggleSpan = document.createElement('span');
           toggleSpan.textContent = '+';
           toggleSpan.style.marginLeft = '1rem';
           headingDiv.appendChild(toggleSpan);
-
           container.appendChild(headingDiv);
 
           const itemsDiv = document.createElement('div');
           itemsDiv.className = 'vendor-list-items';
-
           const vendorItems = grouped[vendorName].sort((a, b) => a.title.localeCompare(b.title));
+
           vendorItems.forEach(comp => {
             const vItem = document.createElement('div');
             vItem.className = 'vendor-list-item';
             vItem.innerHTML = `
-              <img
-                src="${comp.logo_path}"
-                alt="${comp.title} logo"
+              <img src="${comp.logo_path}" alt="${comp.title} logo"
                 class="vendor-list-logo"
-                onerror="this.src='https://via.placeholder.com/30?text=No+Logo';"
-              />
+                onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
               <div>
                 <span class="font-bold">${comp.title}</span>
                 <span class="ml-2 text-sm text-gray-300">(${comp.vendor})</span>
@@ -759,6 +685,7 @@ Details about usage here.
           });
 
           container.appendChild(itemsDiv);
+
           headingDiv.addEventListener('click', () => {
             const isHidden = (itemsDiv.style.display === 'none' || !itemsDiv.style.display);
             itemsDiv.style.display = isHidden ? 'block' : 'none';
@@ -767,8 +694,7 @@ Details about usage here.
           itemsDiv.style.display = 'none';
           resultsDiv.appendChild(container);
         });
-      }
-      else if (view === 'type') {
+      } else if (view === 'type') {
         const groupedByType = groupItemsByType(items);
         for (const [typeName, comps] of Object.entries(groupedByType)) {
           const container = document.createElement('div');
@@ -787,12 +713,15 @@ Details about usage here.
 
           const itemsDiv = document.createElement('div');
           itemsDiv.className = 'vendor-list-items';
+
           comps.sort((a, b) => a.title.localeCompare(b.title));
           comps.forEach(item => {
             const row = document.createElement('div');
             row.className = 'vendor-list-item';
             row.innerHTML = `
-              <img src="${item.logo_path}" alt="${item.title} logo" class="vendor-list-logo" onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
+              <img src="${item.logo_path}" alt="${item.title} logo"
+                class="vendor-list-logo"
+                onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
               <div>
                 <span class="font-bold">${item.title}</span>
                 <span class="ml-2 text-sm text-gray-300">(${item.vendor})</span>
@@ -804,6 +733,7 @@ Details about usage here.
           });
 
           container.appendChild(itemsDiv);
+
           headingDiv.addEventListener('click', () => {
             const isHidden = (itemsDiv.style.display === 'none' || !itemsDiv.style.display);
             itemsDiv.style.display = isHidden ? 'block' : 'none';
@@ -812,8 +742,7 @@ Details about usage here.
           itemsDiv.style.display = 'none';
           resultsDiv.appendChild(container);
         }
-      }
-      else if (view === 'keyword') {
+      } else if (view === 'keyword') {
         const groupedByKeyword = groupItemsByKeyword(items);
         for (const [kw, comps] of Object.entries(groupedByKeyword)) {
           const container = document.createElement('div');
@@ -838,7 +767,9 @@ Details about usage here.
             const row = document.createElement('div');
             row.className = 'vendor-list-item';
             row.innerHTML = `
-              <img src="${item.logo_path}" alt="${item.title} logo" class="vendor-list-logo" onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
+              <img src="${item.logo_path}" alt="${item.title} logo"
+                class="vendor-list-logo"
+                onerror="this.src='https://via.placeholder.com/30?text=No+Logo';" />
               <div>
                 <span class="font-bold">${item.title}</span>
                 <span class="ml-2 text-sm text-gray-300">(${item.vendor})</span>
@@ -850,6 +781,7 @@ Details about usage here.
           });
 
           container.appendChild(itemsDiv);
+
           headingDiv.addEventListener('click', () => {
             const isHidden = (itemsDiv.style.display === 'none' || !itemsDiv.style.display);
             itemsDiv.style.display = isHidden ? 'block' : 'none';
@@ -861,97 +793,90 @@ Details about usage here.
       }
     }
 
-    /* Grouping Helpers */
-    function groupByVendor(items) {
-      return items.reduce((acc, item) => {
-        if (!acc[item.vendor]) acc[item.vendor] = [];
-        acc[item.vendor].push(item);
-        return acc;
-      }, {});
+    async function renderPDFtoCanvas(pdfUrl, canvas) {
+      try {
+        const loadingTask = pdfjsLib.getDocument(pdfUrl);
+        const pdf = await loadingTask.promise;
+        const page = await pdf.getPage(1);
+        const scale = 1.5;
+        const viewport = page.getViewport({ scale });
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+        const context = canvas.getContext('2d');
+        await page.render({ canvasContext: context, viewport }).promise;
+
+        if (panzoomInstance) panzoomInstance.dispose();
+        panzoomInstance = Panzoom(canvas, {
+          maxScale: 5,
+          minScale: 1,
+          contain: 'outside',
+          startScale: 1.5
+        });
+        canvas.parentElement.addEventListener('wheel', panzoomInstance.zoomWithWheel);
+      } catch (err) {
+        console.error('Error rendering PDF:', err);
+      }
     }
 
-    function groupItemsByType(items) {
-      const map = {};
-      items.forEach(item => {
-        const type = item.componentUseCaseType || 'Unspecified';
-        if (!map[type]) map[type] = [];
-        map[type].push(item);
-      });
-      return map;
-    }
-
-    function groupItemsByKeyword(items) {
-      const map = {};
-      items.forEach(item => {
-        const keys = item.keywords;
-        if (!keys || keys.length === 0) {
-          const key = 'No Keywords';
-          if (!map[key]) map[key] = [];
-          map[key].push(item);
-        } else {
-          keys.forEach(kw => {
-            if (!map[kw]) map[kw] = [];
-            map[kw].push(item);
-          });
-        }
-      });
-      return map;
-    }
-
-    /* -------------------------------------------------------------------------
-       8. Show File in Center Pane
-    ------------------------------------------------------------------------- */
     function showFileInCenter(filePath) {
       centerContainer.innerHTML = '';
       centerContainer.className = '';
 
-      // If image
+      if (panzoomInstance) {
+        panzoomInstance.dispose();
+        panzoomInstance = null;
+      }
+
       if (/\.(png|jpe?g|gif|svg)$/i.test(filePath)) {
         const img = document.createElement('img');
         img.src = filePath;
         img.alt = 'Selected Image';
         img.className = 'center-image';
-        // Click -> open in fullscreen overlay
+        img.draggable = false;
         img.addEventListener('click', () => {
           imageFullscreenImg.src = filePath;
           imageFullscreenOverlay.style.display = 'flex';
           initializePanzoomImage();
         });
         centerContainer.appendChild(img);
-      }
-      // If video
-      else if (/\.(mp4|mov|webm)$/i.test(filePath)) {
+
+      } else if (/\.(mp4|mov|webm)$/i.test(filePath)) {
         const vid = document.createElement('video');
         vid.src = filePath;
         vid.className = 'center-video';
         vid.controls = true;
         centerContainer.appendChild(vid);
-      }
-      // If PDF => (For demonstration) just show a placeholder
-      else if (/\.pdf$/i.test(filePath)) {
-        const pdfPlaceholder = document.createElement('div');
-        pdfPlaceholder.className = 'placeholder';
-        pdfPlaceholder.textContent = 'PDF preview not supported in this stub. (Would normally embed PDF.js viewer.)';
-        centerContainer.appendChild(pdfPlaceholder);
-      }
-      else {
-        centerContainer.textContent = 'Unsupported file type';
-        centerContainer.className = 'placeholder';
+
+      } else if (/\.pdf$/i.test(filePath)) {
+        const pdfCanvas = document.createElement('canvas');
+        pdfCanvas.className = 'pdf-canvas';
+        centerContainer.appendChild(pdfCanvas);
+        renderPDFtoCanvas(filePath, pdfCanvas);
       }
     }
 
-    /* -------------------------------------------------------------------------
-       9. Opening the Modal
-    ------------------------------------------------------------------------- */
-    async function openModal(item) {
+    function initializePanzoomImage() {
+      if (panzoomImageInstance) {
+        panzoomImageInstance.dispose();
+      }
+      panzoomImageInstance = Panzoom(imageFullscreenImg, {
+        maxScale: 5,
+        minScale: 1,
+        contain: 'outside',
+        startScale: 1
+      });
+      imageFullscreenImg.parentElement.addEventListener('wheel', panzoomImageInstance.zoomWithWheel);
+    }
+
+    function openModal(item) {
       overlayTitle.textContent = `${item.title} - ${item.vendor} (v${item.version})`;
 
-      const desc = await fetchFileContent(item.readme_path);
-      overlayDescription.innerHTML = marked.parse(desc || 'No description available.');
+      fetchFileContent(item.readme_path).then(desc => {
+        overlayDescription.innerHTML = marked.parse(desc || 'No description available.');
+      });
 
-      // GALLERY
       overlayGallery.innerHTML = '';
-      if (item.galleryFiles && item.galleryFiles.length > 0) {
+      if (item.galleryFiles.length > 0) {
         item.galleryFiles.forEach(filePath => {
           let thumb = null;
           if (/\.(png|jpe?g|gif|svg)$/i.test(filePath)) {
@@ -973,7 +898,6 @@ Details about usage here.
             overlayGallery.appendChild(thumb);
           }
         });
-        // Show first item by default
         showFileInCenter(item.galleryFiles[0]);
       } else {
         overlayGallery.innerHTML = '<p class="text-gray-400 text-sm">No additional files found.</p>';
@@ -981,67 +905,31 @@ Details about usage here.
         centerContainer.className = 'placeholder';
       }
 
-      // DOCS
       docsSections.innerHTML = '';
-      const docContent = await fetchFileContent(item.documentation_path);
-      if (docContent) {
-        const sections = parseDocumentationSections(docContent);
-        if (sections.length > 0) {
-          sections.forEach(sec => {
-            const bubble = document.createElement('div');
-            bubble.className = 'doc-bubble';
-            bubble.innerHTML = marked.parse(sec.content);
-            docsSections.appendChild(bubble);
-          });
+      fetchFileContent(item.documentation_path).then(docContent => {
+        if (docContent) {
+          const sections = parseDocumentationSections(docContent);
+          if (sections.length > 0) {
+            sections.forEach(sec => {
+              const bubble = document.createElement('div');
+              bubble.className = 'doc-bubble';
+              bubble.innerHTML = marked.parse(sec.content);
+              docsSections.appendChild(bubble);
+            });
+          } else {
+            docsSections.innerHTML = '<p class="text-gray-400">No main sections found.</p>';
+          }
         } else {
-          docsSections.innerHTML = '<p class="text-gray-400">No main sections found.</p>';
+          docsSections.innerHTML = '<p class="text-gray-400">No documentation available.</p>';
         }
-      } else {
-        docsSections.innerHTML = '<p class="text-gray-400">No documentation available.</p>';
-      }
+      });
 
-      // Download link
       downloadLink.href = item.ssp_path || '#';
-
-      // Show modal
       overlay.style.display = 'flex';
     }
 
-    /* -------------------------------------------------------------------------
-       10. Close Modal / Fullscreen
-    ------------------------------------------------------------------------- */
-    closeOverlayButton.addEventListener('click', () => {
-      overlay.style.display = 'none';
-    });
-
-    // Panzoom for fullscreen image
-    function initializePanzoomImage() {
-      if (panzoomImageInstance) {
-        panzoomImageInstance.destroy();
-      }
-      panzoomImageInstance = Panzoom(imageFullscreenImg, {
-        maxScale: 5,
-        minScale: 1,
-        contain: 'outside',
-        startScale: 1
-      });
-      imageFullscreenImg.parentElement.addEventListener('wheel', panzoomImageInstance.zoomWithWheel);
-    }
-
-    imageFullscreenClose.addEventListener('click', () => {
-      imageFullscreenOverlay.style.display = 'none';
-      imageFullscreenImg.src = '#';
-      if (panzoomImageInstance) {
-        panzoomImageInstance.destroy();
-        panzoomImageInstance = null;
-      }
-    });
-
-    /* -------------------------------------------------------------------------
-       11. Documentation Parser
-    ------------------------------------------------------------------------- */
     function parseDocumentationSections(markdown) {
-      const lines = (markdown || '').split('\n');
+      const lines = markdown.split('\n');
       const sections = [];
       let currentTitle = null;
       let currentBuffer = [];
@@ -1049,12 +937,8 @@ Details about usage here.
       lines.forEach(line => {
         const headingMatch = line.match(/^#\s+(.*)$/);
         if (headingMatch) {
-          // If we already have something in the buffer, push
           if (currentTitle || currentBuffer.length) {
-            sections.push({
-              title: currentTitle || '',
-              content: currentBuffer.join('\n')
-            });
+            sections.push({ title: currentTitle || '', content: currentBuffer.join('\n') });
           }
           currentTitle = headingMatch[1].trim();
           currentBuffer = [];
@@ -1063,19 +947,30 @@ Details about usage here.
         }
       });
 
-      // Final push
       if (currentTitle || currentBuffer.length) {
-        sections.push({
-          title: currentTitle || '',
-          content: currentBuffer.join('\n')
-        });
+        sections.push({ title: currentTitle || '', content: currentBuffer.join('\n') });
       }
       return sections;
     }
 
-    /* -------------------------------------------------------------------------
-       12. Search with Fuse.js
-    ------------------------------------------------------------------------- */
+    closeOverlayButton.addEventListener('click', () => {
+      overlay.style.display = 'none';
+      if (panzoomInstance) {
+        panzoomInstance.dispose();
+        panzoomInstance = null;
+      }
+    });
+
+    imageFullscreenClose.addEventListener('click', () => {
+      imageFullscreenOverlay.style.display = 'none';
+      imageFullscreenImg.src = '#';
+      if (panzoomImageInstance) {
+        panzoomImageInstance.dispose();
+        panzoomImageInstance = null;
+      }
+    });
+
+    // Searching with Fuse.js
     searchInput.addEventListener('input', () => {
       const query = searchInput.value.trim();
       if (!query) {
@@ -1091,12 +986,8 @@ Details about usage here.
       renderResults(results, currentView);
     });
 
-    /* -------------------------------------------------------------------------
-       13. Initialization
-    ------------------------------------------------------------------------- */
-    (function init() {
-      loadDirectoryData(); // loads and processes our stub data
-    })();
+    // Kick off by fetching local directory structure
+    fetchDirectoryContents();
   </script>
 </body>
 </html>
