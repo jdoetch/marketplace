@@ -42,46 +42,23 @@
     const searchBar = document.getElementById("search-bar");
     let flatData = [];
 
-    // GitHub Repository Details
-    const repoOwner = "jdoetch"; // Replace with your GitHub username
-    const repoName = "marketplace"; // Replace with your repository name
-    const branch = "main"; // Replace with your branch name (e.g., main)
-    const directoryPath = "Swimlane_Components"; // Directory to fetch
+    // GitHub Pages URL
+    const basePath = "https://<username>.github.io/<repository>/Swimlane_Components"; // Replace with your username and repo name
 
-    // Fetch Contents from GitHub Repo
-    async function fetchDirectoryContents() {
-      try {
-        const response = await fetch(
-          `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${directoryPath}`
-        );
-        if (!response.ok) {
-          throw new Error(`Failed to fetch directory contents: ${response.statusText}`);
-        }
-        const data = await response.json();
-        processDirectoryData(data);
-      } catch (error) {
-        console.error("Error fetching directory contents:", error);
-      }
-    }
-
-    // Generate Raw URL for a File
-    function generateRawURL(path) {
-      return `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/${path}`;
-    }
+    // Directory Data (Mock Data for Example)
+    const directories = [
+      { name: "Component1", path: "Component1" },
+      { name: "Component2", path: "Component2" },
+    ];
 
     // Process Directory Data
-    async function processDirectoryData(data) {
-      flatData = data
-        .filter(item => item.type === "dir") // Only process directories
-        .map(dir => {
-          const logoPath = `${dir.path}/images/logo.png`;
-          return {
-            name: dir.name,
-            path: dir.path,
-            url: dir.html_url,
-            logo: generateRawURL(logoPath), // Generate raw URL for logo
-          };
-        });
+    function processDirectoryData() {
+      flatData = directories.map(dir => ({
+        name: dir.name,
+        path: dir.path,
+        logo: `${basePath}/${dir.path}/images/logo.png`, // Construct logo URL
+        url: `${basePath}/${dir.path}`, // Optional link to the component directory
+      }));
 
       renderResults(flatData);
     }
@@ -95,7 +72,7 @@
         card.innerHTML = `
           <img src="${item.logo}" alt="${item.name} Logo" class="h-20 w-20 mx-auto rounded mb-4" onerror="this.src='https://via.placeholder.com/150?text=No+Logo';" />
           <h2 class="font-bold text-xl text-center">${item.name}</h2>
-          <a href="${item.url}" target="_blank" class="block text-blue-400 underline text-center mt-2">View on GitHub</a>
+          <a href="${item.url}" target="_blank" class="block text-blue-400 underline text-center mt-2">View Component</a>
         `;
         resultsDiv.appendChild(card);
       });
@@ -111,7 +88,7 @@
     });
 
     // Initialize
-    fetchDirectoryContents();
+    processDirectoryData();
   </script>
 </body>
 </html>
