@@ -45,6 +45,7 @@
     // GitHub Repository Details
     const repoOwner = "jdoetch"; // Replace with your GitHub username
     const repoName = "marketplace"; // Replace with your repository name
+    const branch = "main"; // Replace with your branch name (e.g., main)
     const directoryPath = "Swimlane_Components"; // Directory to fetch
 
     // Fetch Contents from GitHub Repo
@@ -63,38 +64,24 @@
       }
     }
 
-    // Fetch Logo for a Component
-    async function fetchLogo(componentPath) {
-      const logoPath = `${componentPath}/images/logo.png`;
-      try {
-        const response = await fetch(
-          `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${logoPath}`
-        );
-        if (response.ok) {
-          const logoData = await response.json();
-          return logoData.download_url;
-        }
-      } catch (error) {
-        console.warn(`No logo found for ${componentPath}`);
-      }
-      return "https://via.placeholder.com/150?text=No+Logo";
+    // Generate Raw URL for a File
+    function generateRawURL(path) {
+      return `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/${path}`;
     }
 
     // Process Directory Data
     async function processDirectoryData(data) {
-      flatData = await Promise.all(
-        data
-          .filter(item => item.type === "dir") // Only process directories
-          .map(async dir => {
-            const logoUrl = await fetchLogo(dir.path);
-            return {
-              name: dir.name,
-              path: dir.path,
-              url: dir.html_url,
-              logo: logoUrl,
-            };
-          })
-      );
+      flatData = data
+        .filter(item => item.type === "dir") // Only process directories
+        .map(dir => {
+          const logoPath = `${dir.path}/images/logo.png`;
+          return {
+            name: dir.name,
+            path: dir.path,
+            url: dir.html_url,
+            logo: generateRawURL(logoPath), // Generate raw URL for logo
+          };
+        });
 
       renderResults(flatData);
     }
